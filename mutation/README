@@ -1,0 +1,6 @@
+这是程序运行的输出文件夹，该目录下是mutation之后的文件，文件名称与输入文件（基础测试用例集文件）名称相对，以后缀名“mutation”结尾，命名格式如下：
+    基础测试用例集文件名称_mutation.txt
+此外，该文件夹下还有对mutaion结果进行取出的文件，以后缀名“purge”结尾，命名规则如下：
+    mutation输出文件名称_purge.txt
+    即
+    基础测试用例集文件名称_mutation_purge.txt

