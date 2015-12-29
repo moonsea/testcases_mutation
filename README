@@ -1,16 +1,17 @@
-ÕâÊÇ³ÌÐòµÄÖíÄ¿Â¼£¬¸ÃÎÄ¼þ¼ÐÏÂ¹²°üÀ¨  7
-¸öÎÄ¼þ¼ÐºÍ4¸öÎÄ¼þ¡£7¸öÎÄ¼þ¼ÐÈçÏÂ£ºextra¡¢lib¡¢mutation¡¢plugins¡¢sql-injection¡¢tamper¡¢thirdparty£¬4¸öÎÄ¼þÈçÏÂ£ºmutation_method¡¢tamper.py¡¢²âÊÔÓÃÀýµÄMutation.docx¡¢²âÊÔÓÃÀýµÄMutation.pdf¡£
+è¿™æ˜¯ç¨‹åºçš„ä¸»ç›®å½•ï¼Œè¯¥æ–‡ä»¶å¤¹ä¸‹å…±åŒ…æ‹¬  7 ä¸ªæ–‡ä»¶å¤¹å’Œ4ä¸ªæ–‡ä»¶ã€‚
+7ä¸ªæ–‡ä»¶å¤¹å¦‚ä¸‹ï¼šextraã€libã€mutationã€pluginsã€sql-injectionã€tamperã€thirdpartyï¼Œ
+4ä¸ªæ–‡ä»¶å¦‚ä¸‹ï¼šmutation_methodã€tamper.pyã€æµ‹è¯•ç”¨ä¾‹çš„Mutation.docxã€æµ‹è¯•ç”¨ä¾‹çš„Mutation.pdfã€‚
 
-ÎÄ¼þ¼Ð£º
-extra¡¢lib¡¢plugins¡¢thirdpartyÊÇ³ÌÐòÔËÐÐµÄ×ÊÔ´ÎÄ¼þ¿â£¬²»¿ÉÒÔ½øÐÐÐÞ¸Ä
+æ–‡ä»¶å¤¹ï¼š
+extraã€libã€pluginsã€thirdpartyæ˜¯ç¨‹åºè¿è¡Œçš„èµ„æºæ–‡ä»¶åº“ï¼Œä¸å¯ä»¥è¿›è¡Œä¿®æ”¹
 tamper
-ÎÄ¼þ¼ÐÖÐÊÇ½øÐÐMutatinµÄ41ÖÖ·½·¨£¬Ã¿ÖÖ·½·¨¶ÔÓ¦Ò»¸öÎÄ¼þ£¬ÎÄ¼þÃû³Æ¼´ÎªMutation·½·¨
-sql-injection ÎÄ¼þ¼ÐÊÇ³ÌÐòÔËÐÐµÄÊäÈëÎÄ¼þ¼Ð£¬¼´½«»ù´¡µÄ²âÊÔÓÃÀý¼¯·ÅÔÚ¸ÃÎÄ¼þ¼ÐÏÂ
-mutation ÎÄ¼þ¼ÐÊÇ³ÌÐòÔËÐÐµÄÊä³öÎÄ¼þ¼Ð£¬¼´½«mutationÖ®ºóµÄÎÄ¼þÊä³öµ½¸ÃÎÄ¼þ¼ÐÏÂ
+æ–‡ä»¶å¤¹ä¸­æ˜¯è¿›è¡ŒMutationçš„41ç§æ–¹æ³•ï¼Œæ¯ç§æ–¹æ³•å¯¹åº”ä¸€ä¸ªæ–‡ä»¶ï¼Œæ–‡ä»¶åç§°å³ä¸ºMutationæ–¹æ³•
+sql-injection æ–‡ä»¶å¤¹æ˜¯ç¨‹åºè¿è¡Œçš„è¾“å…¥æ–‡ä»¶å¤¹ï¼Œå³å°†åŸºç¡€çš„æµ‹è¯•ç”¨ä¾‹é›†æ”¾åœ¨è¯¥æ–‡ä»¶å¤¹ä¸‹
+mutation æ–‡ä»¶å¤¹æ˜¯ç¨‹åºè¿è¡Œçš„è¾“å‡ºæ–‡ä»¶å¤¹ï¼Œå³å°†mutationä¹‹åŽçš„æ–‡ä»¶è¾“å‡ºåˆ°è¯¥æ–‡ä»¶å¤¹ä¸‹
 
-ÎÄ¼þ£º
-mutation_method  ½éÉÜ³ÌÐò½øÐÐmutationÓÃµ½µÄ·½·¨£¬ÎÄ¼þÖÐº¬ÓÐ·½·¨ºÍ¾ßÌåµÄÊµÀý
+æ–‡ä»¶ï¼š
+mutation_method  ä»‹ç»ç¨‹åºè¿›è¡Œmutationç”¨åˆ°çš„æ–¹æ³•ï¼Œæ–‡ä»¶ä¸­å«æœ‰æ–¹æ³•å’Œå…·ä½“çš„å®žä¾‹
 tamper.py
-ÊÇ³ÌÐòµÄÔËÐÐÎÄ¼þ£¬ÔËÐÐ¸ÃÎÄ¼þ£¬½«¶Ô»ù´¡²âÊÔÓÃÀý¼¯½øÐÐmutatin£¬²¢Êä³öµ½mutationÎÄ¼þ¼ÐÖÐ
-²âÊÔÓÃÀýµÄMutation.docx¡¢²âÊÔÓÃÀýµÄMutation.pdf
-ÊÇ¶ÔÊµÑéÎÄµµ£¬½éÉÜÁËÈçºÎÀûÓÃ¸Ã³ÌÐò½øÐÐmutation
+æ˜¯ç¨‹åºçš„è¿è¡Œæ–‡ä»¶ï¼Œè¿è¡Œè¯¥æ–‡ä»¶ï¼Œå°†å¯¹åŸºç¡€æµ‹è¯•ç”¨ä¾‹é›†è¿›è¡Œmutatinï¼Œå¹¶è¾“å‡ºåˆ°mutationæ–‡ä»¶å¤¹ä¸­
+æµ‹è¯•ç”¨ä¾‹çš„Mutation.docxã€æµ‹è¯•ç”¨ä¾‹çš„Mutation.pdf
+æ˜¯å¯¹å®žéªŒæ–‡æ¡£ï¼Œä»‹ç»äº†å¦‚ä½•åˆ©ç”¨è¯¥ç¨‹åºè¿›è¡Œmutation
